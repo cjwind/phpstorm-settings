@@ -35,6 +35,9 @@
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="RearrangeCode">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="Tool_Navisteps_dev db migrate status">
     <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt s" />
   </action>

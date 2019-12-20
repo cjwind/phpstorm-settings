@@ -1,0 +1,9 @@
+<toolSet name="TravelCorp test">
+  <tool name="dump TC unit test db" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\Git\bin\bash.exe" />
+      <option name="PARAMETERS" value="D:\source\TravelCorp\oconf dumpTestSchema" />
+      <option name="WORKING_DIRECTORY" value="D:/source/TravelCorp" />
+    </exec>
+  </tool>
+</toolSet>

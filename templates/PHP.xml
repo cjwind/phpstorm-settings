@@ -57,4 +57,11 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
+  <template name="act" value="public function action$NAME$($PARAMETERS$) {&#10;    $END$&#10;}" description="action function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
 </templateSet>

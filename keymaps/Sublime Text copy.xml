@@ -56,4 +56,7 @@
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
 </keymap>

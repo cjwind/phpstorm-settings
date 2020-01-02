@@ -1,6 +1,7 @@
 <templateSet group="PHP">
-  <template name="testf" value="public function test$NAME$(){&#10;    $END$&#10;}" description="public function test" toReformat="true" toShortenFQNames="true">
+  <template name="testf" value="public function test$NAME$($PARAMS$){&#10;    $END$&#10;}" description="public function test" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Class Member" value="true" />
     </context>

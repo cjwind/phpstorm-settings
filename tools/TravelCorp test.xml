@@ -13,4 +13,11 @@
       <option name="WORKING_DIRECTORY" value="D:/source/TravelCorp" />
     </exec>
   </tool>
+  <tool name="migrate dev db" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="D:\source\TravelCorp\vendor\bin\phinx.bat" />
+      <option name="PARAMETERS" value="migrate -c config/php/phinx-main.php" />
+      <option name="WORKING_DIRECTORY" value="D:/source/TravelCorp" />
+    </exec>
+  </tool>
 </toolSet>

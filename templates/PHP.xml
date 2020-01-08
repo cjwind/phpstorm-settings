@@ -65,4 +65,11 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
+  <template name="asc" value="$this-&gt;assertContains($EXPECTED$, $ARRAY$);" description="assertContains()" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPECTED" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARRAY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>

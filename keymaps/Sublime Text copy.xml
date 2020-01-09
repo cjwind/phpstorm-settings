@@ -11,6 +11,12 @@
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
   </action>
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
+  </action>
+  <action id="EditorCodeBlockStart">
+    <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
+  </action>
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
@@ -35,6 +41,8 @@
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="NextProjectWindow" />
+  <action id="PreviousProjectWindow" />
   <action id="RearrangeCode">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>

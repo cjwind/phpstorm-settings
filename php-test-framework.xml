@@ -1,0 +1,24 @@
+<application>
+  <component name="PhpTestFrameworkSettings">
+    <test_tools>
+      <tool tool_name="Codeception">
+        <settings>
+          <configurations>
+            <configuration_by_sdk interpreter_id="aef42826-ef71-4286-97cc-9b5830f96b07" configuration_file_path="/home/zoe/source/TravelCorp_deploy/tests/codeception.yml" executable_path="/home/zoe/source/TravelCorp_deploy/vendor/codeception/codeception/codecept" use_configuration_file="true" />
+          </configurations>
+        </settings>
+      </tool>
+    </test_tools>
+  </component>
+  <component name="PhpTestFrameworkVersionCache">
+    <tools_cache>
+      <tool tool_name="Codeception">
+        <cache>
+          <versions>
+            <info id="interpreter-aef42826-ef71-4286-97cc-9b5830f96b07" version="3.1.2" />
+          </versions>
+        </cache>
+      </tool>
+    </tools_cache>
+  </component>
+</application>

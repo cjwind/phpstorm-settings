@@ -7,6 +7,10 @@
     <option name="ELSE_IF_STYLE" value="SEPARATE" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
+  <Shell_Script>
+    <option name="SWITCH_CASES_INDENTED" value="true" />
+    <option name="KEEP_COLUMN_ALIGNMENT_PADDING" value="true" />
+  </Shell_Script>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
@@ -92,6 +96,8 @@
   </codeStyleSettings>
   <codeStyleSettings language="Shell Script">
     <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>

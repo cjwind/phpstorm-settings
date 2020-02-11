@@ -6,7 +6,7 @@
       <option name="WORKING_DIRECTORY" value="D:/source/TravelCorp" />
     </exec>
   </tool>
-  <tool name="php web server" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="php web server" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="C:\php\php.exe" />
       <option name="PARAMETERS" value="-S localhost:5566 -t test" />

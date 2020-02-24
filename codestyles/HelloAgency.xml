@@ -64,6 +64,18 @@
           <rule>
             <match>
               <AND>
+                <ABSTRACT>true</ABSTRACT>
+                <METHOD>true</METHOD>
+                <visibility />
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <ABSTRACT>false</ABSTRACT>
                 <METHOD>true</METHOD>
                 <visibility />
               </AND>

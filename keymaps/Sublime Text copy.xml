@@ -50,6 +50,9 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+  </action>
   <action id="Tool_Navisteps_dev db migrate status">
     <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt s" />
   </action>

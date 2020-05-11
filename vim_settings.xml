@@ -110,21 +110,26 @@
       <file name="D:/source/Navisteps/backend/db/migrations/20200428091719_add_extendable_to_trip_item.php" timestamp="1589180016482" />
       <file name="D:/source/Navisteps/backend/db/migrations/20200219063906_add_currency_rate.php" timestamp="1589174704793" />
       <file name="D:/source/Navisteps/backend/utb/db/migrations/20200504094019_add_traveloka_code_to_city_table.php" timestamp="1589174764298" />
-      <file name="D:/source/Navisteps/backend/db/migrations/20200511075254_add_transaction_first_data.php" timestamp="1589185383678">
+      <file name="D:/source/Navisteps/backend/features/trip/storages/yiiActiveRecords/Trip.php" timestamp="1589187303588" />
+      <file name="D:/source/Navisteps/backend/features/payment/storages/yiiStorages/TransactionFirstDataStorage.php" timestamp="1589187436974">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+      </file>
+      <file name="D:/source/Navisteps/backend/db/migrations/20200511075254_add_transaction_first_data.php" timestamp="1589186720990">
         <mark key="'" line="77" column="12" />
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="13" />
-        <mark key="." line="8" column="13" />
-        <mark key="^" line="83" column="33" />
+        <mark key="[" line="28" column="59" />
+        <mark key="]" line="28" column="63" />
+        <mark key="." line="28" column="62" />
+        <mark key="^" line="28" column="63" />
       </file>
       <file name="D:/source/Navisteps/backend/db/migrations/20200511075254_add_transaction.php" timestamp="1589183600738">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="D:/source/Navisteps/backend/db/migrations/20200219030134_add_travelport_booking.php" timestamp="1589174679462" />
-      <file name="D:/source/Navisteps/backend/db/migrations/20200511050259_add_payment.php" timestamp="1589185129596">
-        <mark key="'" line="76" column="12" />
+      <file name="D:/source/Navisteps/backend/db/migrations/20200511050259_add_payment.php" timestamp="1589186826212">
+        <mark key="'" line="27" column="24" />
         <mark key="i" line="52" column="38" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="102" />
@@ -132,26 +137,40 @@
         <mark key="." line="39" column="17" />
       </file>
       <file name="D:/source/Navisteps/backend/utb/db/migrations/20200220035126_add_language.php" timestamp="1589174728934" />
-      <file name="D:/source/Navisteps/backend/utb/db/migrations/20200219030134_add_travelport_booking.php" timestamp="1589174678705" />
       <file name="D:/source/Navisteps/backend/db/migrations/20200504094019_add_traveloka_code_to_city_table.php" timestamp="1589174764875" />
-      <file name="D:/source/Navisteps/backend/db/migrations/20200219032705_create_order.php" timestamp="1589174691608" />
-      <file name="D:/source/Navisteps/backend/db/migrations/20200219025350_add_flight.php" timestamp="1589174669112" />
+      <file name="D:/source/Navisteps/backend/features/payment/storages/yiiActiveRecords/TransactionFirstData.php" timestamp="1589187361612">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="10" column="29" />
+        <mark key="." line="10" column="28" />
+        <mark key="^" line="10" column="29" />
+      </file>
+      <file name="D:/source/Navisteps/backend/features/payment/storages/yiiActiveRecords/CreditCard.php" timestamp="1589186809306">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="29" column="5" />
+      </file>
       <file name="D:/source/Navisteps/backend/db/migrations/20200507051905_add_trip_notification.php" timestamp="1589185088992">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="85" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589185642510">
+      <file name="D:/source/Navisteps/backend/controllers/app/FirstDataController.php" timestamp="1589187446354">
+        <mark key="[" line="57" column="27" />
+        <mark key="]" line="38" column="84" />
+        <mark key="^" line="38" column="84" />
+        <mark key="." line="38" column="83" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589187377098">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/source/Navisteps/backend/db/migrations/20200219073559_create_manual_order_item.php" timestamp="1589174716924" />
-      <file name="D:/source/Navisteps/backend/utb/db/migrations/20200219032705_create_order.php" timestamp="1589174691073" />
-      <file name="D:/source/Navisteps/backend/utb/db/migrations/20200219063906_add_currency_rate.php" timestamp="1589174704205" />
       <file name="D:/source/Navisteps/backend/utb/db/migrations/20200219073559_create_manual_order_item.php" timestamp="1589174716266" />
       <file name="D:/source/Navisteps/backend/db/migrations/20200220035126_add_language.php" timestamp="1589174729461" />
+      <file name="D:/source/Navisteps/backend/features/payment/storages/yiiActiveRecords/Payment.php" timestamp="1589187080014">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="23" column="5" />
+        <mark key="." line="8" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="28" filename="D:/source/DigitalTravel/.env" />
-      <jump line="6" column="16" filename="D:/source/DigitalTravel/.env.example" />
       <jump line="78" column="4" filename="D:/source/DigitalTravel/backend/controllers/app/OauthController.php" />
       <jump line="21" column="52" filename="D:/source/DigitalTravel/backend/oauth/forms/OAuthVerifyForm.php" />
       <jump line="1" column="0" filename="/Dummy.txt" />
@@ -250,48 +269,50 @@
       <jump line="67" column="12" filename="D:/source/Navisteps/backend/db/migrations/20200511075254_add_transaction_first_data.php" />
       <jump line="68" column="23" filename="D:/source/Navisteps/backend/db/migrations/20200511075254_add_transaction_first_data.php" />
       <jump line="77" column="12" filename="D:/source/Navisteps/backend/db/migrations/20200511075254_add_transaction_first_data.php" />
+      <jump line="27" column="24" filename="D:/source/Navisteps/backend/db/migrations/20200511050259_add_payment.php" />
+      <jump line="1" column="0" filename="D:/source/Navisteps/backend/features/payment/storages/yiiActiveRecords/TransactionFirstData.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>payment</text>
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>payment</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX01ZU1FMX0RTTlw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">LT5hZGRDb2x1bW4oCgkJCQknaXBnVHJhbnNhY3Rpb25JZCcsCgkJCQknc3RyaW5nJywKCQkJCVsKCQkJCQknbnVsbCcgPT4gZmFsc2UsCgkJCQkJJ2xpbWl0JyA9PiA0MCwKCQkJCQknY29sbGF0aW9uJyA9PiAndXRmOG1iNF9nZW5lcmFsX2NpJywKCQkJCQknZW5jb2RpbmcnID0+ICd1dGY4bWI0JywKCQkJCV0KCQkJKQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiBiZWhhdmlvcnMoKSB7CgkJcmV0dXJuIFsKCQkJWwoJCQkJJ2NsYXNzJyA9PiBDaGFuZ2VMb2dCZWhhdmlvcjo6Y2xhc3MsCgkJCV0sCgkJCVsKCQkJCSdjbGFzcycgPT4gU2F2ZVRpbWVzdGFtcEJlaGF2aW9yOjpjbGFzcywKCQkJCSdjcmVhdGVBdHRyaWJ1dGVzJyA9PiBbCgkJCQkJJ2NyZWF0ZVRpbWUnID0+IFNhdmVUaW1lc3RhbXBCZWhhdmlvcjo6QVRUUl9UWVBFX1RJTUVTVEFNUCwKCQkJCV0sCgkJCQknbGFzdFVwZGF0ZUF0dHJpYnV0ZXMnID0+IFsKCQkJCQknbGFzdFVwZGF0ZVRpbWUnID0+IFNhdmVUaW1lc3RhbXBCZWhhdmlvcjo6QVRUUl9UWVBFX1RJTUVTVEFNUCwKCQkJCV0sCgkJCV0sCgkJXTsKCX0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CQkJCVsKCQkJCQknbnVsbCcgPT4gZmFsc2UsCgkJCQkJJ3ByZWNpc2lvbicgPT4gMTIsCgkJCQkJJ3NjYWxlJyA9PiAzLAoJCQkJXQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCV0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQknbGFzdFVwZGF0ZVRpbWUnID0+IFNhdmVUaW1lc3RhbXBCZWhhdmlvcjo6QVRUUl9UWVBFX1RJTUVTVEFNUCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCSdsYXN0VXBkYXRlQXR0cmlidXRlcycgPT4gWwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CQkJCVsKCQkJCQknbnVsbCcgPT4gZmFsc2UsCgkJCQkJJ2xpbWl0JyA9PiAzLAoJCQkJCSdjb2xsYXRpb24nID0+ICd1dGY4bWI0X2dlbmVyYWxfY2knLAoJCQkJCSdlbmNvZGluZycgPT4gJ3V0ZjhtYjQnLAoJCQkJXQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJXSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCSdjbGFzcycgPT4gQ2hhbmdlTG9nQmVoYXZpb3I6OmNsYXNzLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ2hhbmdlIE1ldGhvZC4KICAgICAqCiAgICAgKiBXcml0ZSB5b3VyIHJldmVyc2libGUgbWlncmF0aW9ucyB1c2luZyB0aGlzIG1ldGhvZC4KICAgICAqCiAgICAgKiBNb3JlIGluZm9ybWF0aW9uIG9uIHdyaXRpbmcgbWlncmF0aW9ucyBpcyBhdmFpbGFibGUgaGVyZToKICAgICAqIGh0dHA6Ly9kb2NzLnBoaW54Lm9yZy9lbi9sYXRlc3QvbWlncmF0aW9ucy5odG1sI3RoZS1hYnN0cmFjdG1pZ3JhdGlvbi1jbGFzcwogICAgICoKICAgICAqIFRoZSBmb2xsb3dpbmcgY29tbWFuZHMgY2FuIGJlIHVzZWQgaW4gdGhpcyBtZXRob2QgYW5kIFBoaW54IHdpbGwKICAgICAqIGF1dG9tYXRpY2FsbHkgcmV2ZXJzZSB0aGVtIHdoZW4gcm9sbGluZyBiYWNrOgogICAgICoKICAgICAqICAgIGNyZWF0ZVRhYmxlCiAgICAgKiAgICByZW5hbWVUYWJsZQogICAgICogICAgYWRkQ29sdW1uCiAgICAgKiAgICBhZGRDdXN0b21Db2x1bW4KICAgICAqICAgIHJlbmFtZUNvbHVtbgogICAgICogICAgYWRkSW5kZXgKICAgICAqICAgIGFkZEZvcmVpZ25LZXkKICAgICAqCiAgICAgKiBBbnkgb3RoZXIgZGVzdHJ1Y3RpdmUgY2hhbmdlcyB3aWxsIHJlc3VsdCBpbiBhbiBlcnJvciB3aGVuIHRyeWluZyB0bwogICAgICogcm9sbGJhY2sgdGhlIG1pZ3JhdGlvbi4KICAgICAqCiAgICAgKiBSZW1lbWJlciB0byBjYWxsICJjcmVhdGUoKSIgb3IgInVwZGF0ZSgpIiBhbmQgTk9UICJzYXZlKCkiIHdoZW4gd29ya2luZwogICAgICogd2l0aCB0aGUgVGFibGUgY2xhc3MuCiAgICAgKi8K</text>
+        <text encoding="base64">CQkJWwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJQWRkRXh0ZW5kYWJsZVRvVHJpcEl0ZW0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQknc2NhbGUnID0+IDMsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

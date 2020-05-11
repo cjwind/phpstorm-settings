@@ -121,12 +121,6 @@
       <file name="/Dummy.txt" timestamp="1589170232222">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/source/Navisteps/backend/features/payment/FirstDataRedirectUrl.php" timestamp="1585730599520">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="30" />
-        <mark key="^" line="1" column="29" />
-        <mark key="." line="1" column="30" />
-      </file>
       <file name="D:/source/Navisteps/backend/accessControls/AppApiAccessControl.php" timestamp="1589169921896" />
       <file name="D:/source/Navisteps/backend/controllers/FirstDataController.php" timestamp="1585736032415">
         <mark key="[" line="9" column="55" />

@@ -102,11 +102,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/source/Navisteps/backend/db/migrations/20200428091719_add_extendable_to_trip_item.php" timestamp="1589179747494" />
       <file name="D:/source/Navisteps/backend/db/migrations/20200219063906_add_currency_rate.php" timestamp="1589174704793" />
       <file name="D:/source/Navisteps/backend/utb/db/migrations/20200217103111_add_mail.php" timestamp="1589174636637" />
       <file name="D:/source/Navisteps/backend/utb/db/migrations/20200504094019_add_traveloka_code_to_city_table.php" timestamp="1589174764298" />
       <file name="D:/source/Navisteps/backend/db/migrations/20200219022608_add_flight_pricing_rule.php" timestamp="1589174656796" />
-      <file name="D:/source/Navisteps/backend/utb/db/migrations/20200217084016_add_flight_station_auto_complete.php" timestamp="1589174618214" />
       <file name="D:/source/Navisteps/backend/db/migrations/20200217103111_add_mail.php" timestamp="1589174637224" />
       <file name="D:/source/Navisteps/backend/db/migrations/20200219030134_add_travelport_booking.php" timestamp="1589174679462" />
       <file name="D:/source/Navisteps/backend/utb/db/migrations/20200220035126_add_language.php" timestamp="1589174728934" />

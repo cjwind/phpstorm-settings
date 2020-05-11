@@ -102,42 +102,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/source/Navisteps/.env.example" timestamp="1589168717411" />
-      <file name="D:/source/Navisteps/backend/tests/api/app/CreditCardCest.php" timestamp="1589169029577" />
-      <file name="D:/source/Navisteps/backend/utb/components/WebErrorHandler.php" timestamp="1589170123408" />
-      <file name="D:/source/Navisteps/backend/config/test.php" timestamp="1589170143168">
-        <mark key="[" line="116" column="41" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-      </file>
-      <file name="D:/source/Navisteps/.env" timestamp="1589169568270">
-        <mark key="'" line="21" column="16" />
-        <mark key="[" line="48" column="33" />
-      </file>
-      <file name="D:/source/Navisteps/backend/controllers/app/FirstDataController.php" timestamp="1589168063771">
-        <mark key="[" line="6" column="25" />
-      </file>
-      <file name="D:/source/Navisteps/backend/base/Exception.php" timestamp="1589169940272" />
-      <file name="/Dummy.txt" timestamp="1589170232222">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/source/Navisteps/backend/accessControls/AppApiAccessControl.php" timestamp="1589169921896" />
-      <file name="D:/source/Navisteps/backend/controllers/FirstDataController.php" timestamp="1585736032415">
-        <mark key="[" line="9" column="55" />
-      </file>
-      <file name="D:/source/Navisteps/backend/utb/exceptions/ApiException.php" timestamp="1589169722712" />
-      <file name="D:/source/DigitalTravel/.env" timestamp="1589169159411" />
-      <file name="D:/source/Navisteps/backend/controllers/TestController.php" timestamp="1585734499199">
-        <mark key="'" line="70" column="32" />
-        <mark key="[" line="58" column="23" />
-        <mark key="]" line="58" column="23" />
-        <mark key="." line="58" column="23" />
-        <mark key="^" line="58" column="42" />
-      </file>
-      <file name="D:/source/Navisteps/backend/config/params.php" timestamp="1589169130400" />
+      <file name="D:/source/Navisteps/backend/db/migrations/20200219063906_add_currency_rate.php" timestamp="1589174704793" />
+      <file name="D:/source/Navisteps/backend/utb/db/migrations/20200217103111_add_mail.php" timestamp="1589174636637" />
+      <file name="D:/source/Navisteps/backend/utb/db/migrations/20200504094019_add_traveloka_code_to_city_table.php" timestamp="1589174764298" />
+      <file name="D:/source/Navisteps/backend/db/migrations/20200219022608_add_flight_pricing_rule.php" timestamp="1589174656796" />
+      <file name="D:/source/Navisteps/backend/utb/db/migrations/20200217084016_add_flight_station_auto_complete.php" timestamp="1589174618214" />
+      <file name="D:/source/Navisteps/backend/db/migrations/20200217103111_add_mail.php" timestamp="1589174637224" />
+      <file name="D:/source/Navisteps/backend/db/migrations/20200219030134_add_travelport_booking.php" timestamp="1589174679462" />
+      <file name="D:/source/Navisteps/backend/utb/db/migrations/20200220035126_add_language.php" timestamp="1589174728934" />
+      <file name="D:/source/Navisteps/backend/utb/db/migrations/20200219030134_add_travelport_booking.php" timestamp="1589174678705" />
+      <file name="D:/source/Navisteps/backend/db/migrations/20200504094019_add_traveloka_code_to_city_table.php" timestamp="1589174764875" />
+      <file name="D:/source/Navisteps/backend/utb/db/migrations/20200219025350_add_flight.php" timestamp="1589174668378" />
+      <file name="D:/source/Navisteps/backend/db/migrations/20200219032705_create_order.php" timestamp="1589174691608" />
+      <file name="D:/source/Navisteps/backend/db/migrations/20200219025350_add_flight.php" timestamp="1589174669112" />
+      <file name="D:/source/Navisteps/backend/db/migrations/20200217084016_add_flight_station_auto_complete.php" timestamp="1589174618810" />
+      <file name="D:/source/Navisteps/backend/db/migrations/20200219073559_create_manual_order_item.php" timestamp="1589174716924" />
+      <file name="D:/source/Navisteps/backend/utb/db/migrations/20200219022608_add_flight_pricing_rule.php" timestamp="1589174656024" />
+      <file name="D:/source/Navisteps/backend/utb/db/migrations/20200219032705_create_order.php" timestamp="1589174691073" />
+      <file name="D:/source/Navisteps/backend/utb/db/migrations/20200219063906_add_currency_rate.php" timestamp="1589174704205" />
+      <file name="D:/source/Navisteps/backend/utb/db/migrations/20200219073559_create_manual_order_item.php" timestamp="1589174716266" />
+      <file name="D:/source/Navisteps/backend/db/migrations/20200220035126_add_language.php" timestamp="1589174729461" />
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="D:/source/DigitalTravel/backend/tests/unit/oauth/OAuthTest.php" />
       <jump line="28" column="28" filename="D:/source/DigitalTravel/backend/tests/unit/oauth/OAuthTest.php" />
       <jump line="61" column="27" filename="D:/source/DigitalTravel/backend/tests/unit/oauth/OAuthTest.php" />
       <jump line="53" column="54" filename="D:/source/DigitalTravel/backend/oauth/OAuth.php" />
@@ -237,48 +223,49 @@
       <jump line="70" column="27" filename="D:/source/Navisteps/backend/controllers/app/CreditCardController.php" />
       <jump line="44" column="4" filename="D:/source/Navisteps/backend/controllers/app/CreditCardController.php" />
       <jump line="21" column="16" filename="D:/source/Navisteps/.env" />
+      <jump line="22" column="0" filename="D:/source/utb/payment/firstData/connect/FirstDataRequestGenerator.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkndXRiXGV4Y2VwdGlvbnNcQXBpRXhjZXB0aW9uJywK</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>\storages\yiiActiveRecords;</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX01ZU1FMX0RTTlw+</text>
       </register>
       <register name="0" type="4">
-        <text>'customized data'</text>
+        <text encoding="base64">CQkJLT5hZGRDb2x1bW4oCgkJCQknY2hhcmdlQW1vdW50JywKCQkJCSdkZWNpbWFsJywKCQkJCVsKCQkJCQknbnVsbCcgPT4gZmFsc2UsCgkJCQkJJ3ByZWNpc2lvbicgPT4gMTIsCgkJCQkJJ3NjYWxlJyA9PiAzLAoJCQkJXQoJCQkp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkndXRiXGV4Y2VwdGlvbnNcQXBpRXhjZXB0aW9uJywK</text>
+        <text encoding="base64">CQkJCQknc2NhbGUnID0+IDMsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXB1YmxpYyAkZW5hYmxlQ3NyZlZhbGlkYXRpb24gPSBmYWxzZTsK</text>
+        <text encoding="base64">CQkJCQkncHJlY2lzaW9uJyA9PiAxMiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJJGZvcm0sCgkJCW5ldyBGaXJzdERhdGFSZWRpcmVjdFVybCgkZm9ybS0+Z2V0UmV0dXJuVXJsKCksICRub3RpZmljYXRpb25VcmwpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQknaWRlbnRpdHknID0+ICdlbmFibGUnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXB1YmxpYyAkZW5hYmxlQ3NyZlZhbGlkYXRpb24gPSBmYWxzZTsK</text>
+        <text encoding="base64">CQkJCQknaWRlbnRpdHknID0+ICdlbmFibGUnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQknZW5jb2RpbmcnID0+ICd1dGY4bWI0JywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIEZJWE1FOiBzaG91bGQgYmUgdW5kZXIK</text>
+        <text encoding="base64">CQkJCQknY29sbGF0aW9uJyA9PiAndXRmOG1iNF9nZW5lcmFsX2NpJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQknbGltaXQnID0+IDMsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQknYWZ0ZXInID0+ICdjb21wYW55SWQnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

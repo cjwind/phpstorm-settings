@@ -102,7 +102,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1589260975103">
+      <file name="/a.dummy" timestamp="1589267250022">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -142,11 +142,11 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="D:/source/Navisteps/backend/controllers/app/TripItemController.php" timestamp="1589261426493">
+      <file name="D:/source/Navisteps/backend/controllers/app/TripItemController.php" timestamp="1589268555893">
         <mark key="'" line="36" column="5" />
-        <mark key="[" line="100" column="39" />
-        <mark key="]" line="100" column="39" />
-        <mark key="." line="100" column="39" />
+        <mark key="[" line="258" column="49" />
+        <mark key="]" line="253" column="0" />
+        <mark key="." line="253" column="0" />
         <mark key="^" line="88" column="49" />
       </file>
       <file name="D:/source/Navisteps/backend/config/routes.php" timestamp="1589260880900" />
@@ -162,8 +162,10 @@
         <mark key="^" line="56" column="34" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589261508426">
+      <file name="/Dummy.txt" timestamp="1589268495675">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" timestamp="1589258640036">
         <mark key="'" line="1022" column="8" />
@@ -176,11 +178,12 @@
         <mark key="'" line="7" column="10" />
         <mark key="[" line="22" column="54" />
       </file>
-      <file name="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" timestamp="1589261454823">
-        <mark key="[" line="70" column="13" />
-        <mark key="]" line="70" column="13" />
-        <mark key="." line="70" column="13" />
-        <mark key="^" line="77" column="98" />
+      <file name="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" timestamp="1589268424957">
+        <mark key="'" line="57" column="4" />
+        <mark key="[" line="140" column="29" />
+        <mark key="]" line="72" column="102" />
+        <mark key="^" line="104" column="20" />
+        <mark key="." line="72" column="102" />
       </file>
       <file name="D:/source/Navisteps/backend/features/trip/storages/yiiStorages/TripStorage.php" timestamp="1589257662434">
         <mark key="'" line="16" column="0" />
@@ -191,30 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="43" filename="D:/source/DigitalTravel/backend/tests/.env.test" />
-      <jump line="97" column="0" filename="D:/source/DigitalTravel/.env.example" />
-      <jump line="42" column="40" filename="D:/source/DigitalTravel/backend/oauth/OAuth.php" />
-      <jump line="73" column="9" filename="D:/source/DigitalTravel/backend/controllers/app/OauthController.php" />
-      <jump line="76" column="0" filename="D:/source/DigitalTravel/backend/tests/unit/oauth/OAuthTest.php" />
-      <jump line="27" column="31" filename="D:/source/DigitalTravel/backend/tests/unit/oauth/OAuthTest.php" />
-      <jump line="17" column="16" filename="D:/source/DigitalTravel/backend/tests/unit/oauth/OAuthTest.php" />
-      <jump line="6" column="20" filename="D:/source/DigitalTravel/backend/oauth/resources/OAuthResource.php" />
-      <jump line="8" column="24" filename="D:/source/DigitalTravel/backend/controllers/app/OauthRecordController.php" />
-      <jump line="36" column="4" filename="D:/source/DigitalTravel/backend/controllers/app/OauthController.php" />
-      <jump line="45" column="48" filename="D:/source/DigitalTravel/backend/controllers/app/OauthRecordController.php" />
-      <jump line="0" column="0" filename="D:/source/DigitalTravel/backend/controllers/app/OauthRecordController.php" />
-      <jump line="9" column="67" filename="D:/source/DigitalTravel/backend/oauth/storage/IOAuthStorage.php" />
-      <jump line="47" column="1" filename="D:/source/DigitalTravel/backend/commands/TestController.php" />
-      <jump line="6" column="4" filename="D:/source/DigitalTravel/backend/utb/test/php/tests/_support/fakeData/TravelportFakeData.php" />
-      <jump line="9028" column="0" filename="D:/source/DigitalTravel/backend/utb/test/php/tests/_support/fakeData/TravelportFakeData.php" />
-      <jump line="196" column="4" filename="D:/source/utb/components/DepFactory.php" />
-      <jump line="121" column="0" filename="D:/source/DigitalTravel/backend/utb/flight/rebate/RebateTable.php" />
-      <jump line="2567" column="17" filename="D:/source/DigitalTravel/openapi/openapi.yaml" />
-      <jump line="48" column="44" filename="D:/source/DigitalTravel/backend/controllers/app/TravelReminderController.php" />
-      <jump line="0" column="0" filename="D:/source/DigitalTravel/.env" />
-      <jump line="87" column="44" filename="D:/source/DigitalTravel/backend/controllers/app/TravelReminderController.php" />
-      <jump line="68" column="61" filename="D:/source/DigitalTravel/backend/controllers/app/TravelReminderController.php" />
-      <jump line="64" column="0" filename="D:/source/DigitalTravel/.env" />
       <jump line="35" column="45" filename="D:/source/DigitalTravel/backend/controllers/app/OauthController.php" />
       <jump line="176" column="0" filename="D:/source/DigitalTravel/backend/commands/CodeGenController.php" />
       <jump line="731" column="24" filename="D:/source/DigitalTravel/backend/utb/test/php/tests/_support/SabreSoapFakeData.php" />
@@ -291,51 +270,75 @@
       <jump line="33" column="0" filename="D:/source/Navisteps/backend/controllers/app/TripItemController.php" />
       <jump line="153" column="66" filename="D:/source/Navisteps/backend/controllers/app/TripItemController.php" />
       <jump line="36" column="5" filename="D:/source/Navisteps/backend/controllers/app/TripItemController.php" />
+      <jump line="43" column="35" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="68" column="12" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="85" column="0" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="71" column="0" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="40" column="0" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="37" column="60" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="84" column="0" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="59" column="8" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="51" column="12" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="77" column="30" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="78" column="0" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="54" column="17" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="28" column="20" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="31" column="0" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="36" column="0" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="41" column="0" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="76" column="0" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="48" column="0" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="75" column="29" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="42" column="0" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="60" column="0" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="44" column="43" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="56" column="51" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
+      <jump line="57" column="4" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>makeEmpty</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlpZiAoISR0aGlzLT50cmlwU3RvcmFnZS0+Y2hhbmdlVHJpcFRvUGF5aW5nKCR0cmlwSWQpKSB7CgkJCXRocm93IG5ldyBFeGNlcHRpb24oNTAwLCAnQ2hhbmdlIHRyaXAgdG8gcGF5aW5nIGZhaWxlZCcpOwoJCX0KCgkJLy8gVE9ETyBjaGFuZ2UgdHJpcCBpdGVtIHN0YXR1cyB0byBwYXlpbmc=</text>
       </register>
       <register name="-" type="4">
-        <text>makeEmpty</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX01ZU1FMX0RTTlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkkZm9ybS0+c2V0VHJpcElkKFlpaTo6JGFwcC0+cmVxdWVzdC0+Z2V0KCd0cmlwSWQnKSk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CSRmYWtlRGVjaXNpb24gPSBTdHViOjptYWtlRW1wdHkoVHJpcEFwcHJvdmFsU3RhdGVEZWNpc2lvbjo6Y2xhc3MpOwoJCSR0aGlzLT50cmlwU3RhdGVEZWNpZGVyTW9jay0+ZXhwZWN0cygpLT5hZGRUcmlwSXRlbVRvVHJpcCgkdHJpcElkKS0+b25jZSgpLT5hbmRSZXR1cm4oJGZha2VEZWNpc2lvbik7CgkJJHRoaXMtPnRyaXBTdGF0ZVN0b3JhZ2VNb2NrLT5leHBlY3RzKCktPmNoYW5nZVRyaXBJdGVtc0FwcHJvdmFsU3RhdGUoJGZha2VEZWNpc2lvbiktPm9uY2UoKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8qKgoJICogQHZhciBtaXhlZAoJICovCg==</text>
+        <text encoding="base64">CQlpZiAoISR0aGlzLT50cmlwU3RvcmFnZS0+Y2hhbmdlVHJpcFRvUGF5aW5nKCR0cmlwSWQpKSB7CgkJCXRocm93IG5ldyBFeGNlcHRpb24oNTAwLCAnQ2hhbmdlIHRyaXAgdG8gcGF5aW5nIGZhaWxlZCcpOwoJCX0KCgkJLy8gVE9ETyBjaGFuZ2UgdHJpcCBpdGVtIHN0YXR1cyB0byBwYXlpbmc=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8qKgoJICogQHBhcmFtIG1peGVkICR1c2VySWQKCSAqLwo=</text>
+        <text encoding="base64">CQkkdGhpcy0+YWRkSXRlbVNob3VsZENoYW5nZVRyaXBTdGF0dXMoMSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlyZXR1cm4gcGFyZW50OjpnZXRDdXJyZW50VXNlcklkKCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
+        <text encoding="base64">CQkJU3R1Yjo6bWFrZUVtcHR5KFRyaXBJdGVtUmVwbGFjZVJlbFN0b3JhZ2U6OmNsYXNzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaXZhdGUgJHN0YXRlU3RvcmFnZTE7Cg==</text>
+        <text encoding="base64">CQkkdGhpcy0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkkdGhpcy0+c3RhdGVTdG9yYWdlMSA9ICRzdGF0ZVN0b3JhZ2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaXZhdGUgJHN0YXRlRGVjaWRlcjsK</text>
+        <text encoding="base64">CXByb3RlY3RlZCBmdW5jdGlvbiB3aGVuRG9BY3Rpb25DcmVhdGVGbGlnaHQoKTogdm9pZCB7CgkJJHRhcmdldCA9IG5ldyBUcmlwSXRlbUNvbnRyb2xsZXJGb3JUZXN0KAoJCQknZmFrZS1pZCcsCgkJCW5ldyBNb2R1bGUoJ2Zha2UtbW9kdWxlJyksCgkJCVN0dWI6Om1ha2VFbXB0eShUcmlwSXRlbVJlc291cmNlOjpjbGFzcyksCgkJCVN0dWI6Om1ha2VFbXB0eSgKCQkJCUlUcmlwSXRlbVN0b3JhZ2U6OmNsYXNzLAoJCQkJWwoJCQkJCSdjcmVhdGVGbGlnaHRUcmlwSXRlbScgPT4gU3R1Yjo6bWFrZUVtcHR5KElUcmlwSXRlbURhbzo6Y2xhc3MpLAoJCQkJXQoJCQkpLAoJCQlTdHViOjptYWtlRW1wdHkoQXBwQXBpQWNjZXNzQ29udHJvbDo6Y2xhc3MpLAoJCQlTdHViOjptYWtlRW1wdHkoCgkJCQlJVHJpcFN0b3JhZ2U6OmNsYXNzLAoJCQkJWwoJCQkJCSdmaW5kVHJpcEJ5SWQnID0+IFN0dWI6Om1ha2VFbXB0eSgKCQkJCQkJSVRyaXBEYW86OmNsYXNzLAoJCQkJCQlbCgkJCQkJCQknZ2V0SWQnID0+ICR0aGlzLT50cmlwSWQsCgkJCQkJCV0KCQkJCQkpLAoJCQkJXQoJCQkpLAoJCQlTdHViOjptYWtlRW1wdHkoVHJpcEl0ZW1Gb3JtOjpjbGFzcyksCgkJCSR0aGlzLT50cmlwU3RhdGVEZWNpZGVyTW9jaywKCQkJJHRoaXMtPnRyaXBTdGF0ZVN0b3JhZ2VNb2NrCgkJKTsKCQkkdGFyZ2V0LT5zZXRVc2VySWQoMTEpOwoKCQkkdGFyZ2V0LT5hY3Rpb25DcmVhdGVGbGlnaHQoCgkJCSR0aGlzLT50cmlwSWQsCgkJCVN0dWI6Om1ha2VFbXB0eShUcmlwSXRlbUZsaWdodEZvcm06OmNsYXNzLCBbJ3ZhbGlkYXRlJyA9PiB0cnVlLCAnZ2V0VHJpcElkJyA9PiAkdGhpcy0+dHJpcElkXSksCgkJCVN0dWI6Om1ha2VFbXB0eShGbGlnaHRPcmRlckZvcm06OmNsYXNzLCBbJ3ZhbGlkYXRlJyA9PiB0cnVlXSksCgkJCVN0dWI6Om1ha2VFbXB0eShGbGlnaHRPcmRlckNyZWF0b3I6OmNsYXNzLCBbJ2NyZWF0ZU9yZGVyJyA9PiBTdHViOjptYWtlRW1wdHkoT3JkZXI6OmNsYXNzKV0pLAoJCQlTdHViOjptYWtlRW1wdHkoRmxpZ2h0T3JkZXJPcGVyYXRvcjo6Y2xhc3MsIFsnaG9sZFNlYXQnID0+IHRydWVdKSwKCQkJU3R1Yjo6bWFrZUVtcHR5KFRyaXBJdGVtUmVwbGFjZVJlbFN0b3JhZ2U6OmNsYXNzKQoJCSk7Cgl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkdGhpcy0+c3RhdGVEZWNpZGVyID0gJHN0YXRlRGVjaWRlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkkdGhpcy0+c3RhdGVTdG9yYWdlID0gJHN0YXRlU3RvcmFnZTsK</text>
+        <text>Implement start pay status decision in decider</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkdGhpcy0+c3RhdGVEZWNpZGVyID0gJHN0YXRlRGVjaWRlcjsK</text>
+        <text>Implement start pay status decision in decider</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

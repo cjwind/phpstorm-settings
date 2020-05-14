@@ -107,12 +107,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/source/Navisteps/backend/features/trip/approvalFlow/TripApprovalStateDecider.php" timestamp="1589431309895">
+      <file name="D:/source/Navisteps/backend/features/trip/approvalFlow/TripApprovalStateDecider.php" timestamp="1589432582732">
         <mark key="'" line="403" column="4" />
-        <mark key="[" line="469" column="0" />
-        <mark key="]" line="472" column="29" />
-        <mark key="." line="469" column="0" />
-        <mark key="^" line="439" column="20" />
+        <mark key="[" line="482" column="32" />
+        <mark key="]" line="449" column="0" />
+        <mark key="." line="449" column="0" />
+        <mark key="^" line="449" column="0" />
       </file>
       <file name="D:/source/utb/payment/firstData/connect/FirstDataRequestGenerator.php" timestamp="1589363671835">
         <mark key="'" line="46" column="0" />
@@ -194,12 +194,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" timestamp="1589430803122">
-        <mark key="'" line="1055" column="22" />
-        <mark key="[" line="1106" column="0" />
-        <mark key="]" line="1106" column="0" />
+      <file name="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" timestamp="1589433801814">
+        <mark key="'" line="1098" column="53" />
+        <mark key="[" line="1116" column="64" />
+        <mark key="]" line="1116" column="64" />
         <mark key="^" line="1105" column="44" />
-        <mark key="." line="1106" column="0" />
+        <mark key="." line="1116" column="64" />
       </file>
       <file name="D:/source/Navisteps/backend/utb/flight/travelFusion/channels/TravelFusion.php" timestamp="1589426917432">
         <mark key="'" line="270" column="42" />
@@ -207,7 +207,6 @@
       <file name="D:/source/Navisteps/backend/utb/payment/PaymentEventBindingBootstrap.php" timestamp="1589346231285" />
     </filemarks>
     <jumps>
-      <jump line="105" column="0" filename="D:/source/unmarshal/tests/UnmarshallerTest.php" />
       <jump line="251" column="0" filename="D:/source/unmarshal/src/Unmarshaller.php" />
       <jump line="170" column="0" filename="D:/source/unmarshal/tests/UnmarshallerTest.php" />
       <jump line="158" column="0" filename="D:/source/unmarshal/tests/UnmarshallerTest.php" />
@@ -307,15 +306,16 @@
       <jump line="1040" column="0" filename="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
       <jump line="1084" column="0" filename="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
       <jump line="1055" column="22" filename="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
+      <jump line="1098" column="53" filename="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkkdHJpcCA9ICR0aGlzLT50cmlwU3RvcmFnZS0+ZmluZFRyaXBCeUlkKCR0cmlwSWQpOwoJCWlmICgkdHJpcC0+Z2V0U3RhdHVzKCkgIT0gVHJpcFN0YXR1czo6UEFZSU5HKSB7CgkJCSRkZWNpc2lvbi0+c2V0U3VjY2VzcyhmYWxzZSk7CgkJCXJldHVybiAkZGVjaXNpb247Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PAID</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>PAID</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX01ZU1FMX0RTTlw+</text>

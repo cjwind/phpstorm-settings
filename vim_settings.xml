@@ -185,7 +185,7 @@
         <mark key="." line="54" column="77" />
         <mark key="^" line="54" column="78" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589526939953">
+      <file name="/Dummy.txt" timestamp="1589527596516">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -197,10 +197,11 @@
         <mark key="^" line="1147" column="0" />
         <mark key="." line="1147" column="0" />
       </file>
-      <file name="D:/source/TravelFusion/composer.json" timestamp="1589527577521">
+      <file name="D:/source/TravelFusion/composer.json" timestamp="1589527674484">
         <mark key="[" line="19" column="2" />
-        <mark key="]" line="16" column="47" />
-        <mark key="." line="16" column="47" />
+        <mark key="]" line="21" column="6" />
+        <mark key="." line="21" column="5" />
+        <mark key="^" line="21" column="6" />
       </file>
       <file name="D:/source/Navisteps/backend/controllers/app/CreditCardController.php" timestamp="1589513330193">
         <mark key="'" line="92" column="0" />

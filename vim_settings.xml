@@ -102,50 +102,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589871846530">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/source/Navisteps/backend/commands/TestController.php" timestamp="1590031971133">
+        <mark key="[" line="47" column="64" />
+        <mark key="]" line="47" column="45" />
+        <mark key="." line="47" column="44" />
+        <mark key="^" line="47" column="45" />
       </file>
-      <file name="D:/source/Navisteps/backend/controllers/app/TripItemController.php" timestamp="1589514052202">
-        <mark key="'" line="278" column="8" />
-        <mark key="[" line="358" column="105" />
-        <mark key="]" line="310" column="35" />
-        <mark key="." line="310" column="35" />
-        <mark key="^" line="278" column="0" />
-      </file>
-      <file name="D:/source/Navisteps/backend/features/payment/forms/TripItemPayForm.php" timestamp="1589514483434">
-        <mark key="'" line="22" column="3" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="17" column="65" />
-      </file>
-      <file name="/fragment.php" timestamp="1589514064810">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
-      <file name="D:/source/utb/flight/travelFusion/channels/TravelFusion.php" timestamp="1589536966863">
-        <mark key="'" line="677" column="8" />
-        <mark key="[" line="271" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="D:/source/Navisteps/backend/features/notification/storage/yiiStorage/NotificationMailSender.php" timestamp="1590030353378">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="30" column="8" />
       </file>
       <file name="D:/source/TravelFusion/tests/FooTest.php" timestamp="1589525907609">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="13" column="19" />
         <mark key="^" line="13" column="19" />
         <mark key="." line="13" column="18" />
-      </file>
-      <file name="/" timestamp="1589865861724">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/source/Navisteps/backend/features/trip/enums/TripStatus.php" timestamp="1589517112876">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="D:/source/Navisteps/openapi/openapi.yaml" timestamp="1589871841207">
         <mark key="[" line="1814" column="0" />
@@ -160,6 +131,44 @@
       <file name="D:/source/utb/flight/travelFusion/api/TravelFusionApi.php" timestamp="1589537035433">
         <mark key="[" line="14" column="42" />
       </file>
+      <file name="D:/source/Navisteps/.env" timestamp="1589864742554">
+        <mark key="'" line="22" column="16" />
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="25" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="1" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589871846530">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/source/Navisteps/backend/features/payment/forms/TripItemPayForm.php" timestamp="1589514483434">
+        <mark key="'" line="22" column="3" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="17" column="65" />
+      </file>
+      <file name="D:/source/utb/flight/travelFusion/channels/TravelFusion.php" timestamp="1589536966863">
+        <mark key="'" line="677" column="8" />
+        <mark key="[" line="271" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="C:/php/php.ini" timestamp="1590031274511">
+        <mark key="[" line="949" column="0" />
+        <mark key="]" line="949" column="0" />
+        <mark key="." line="949" column="0" />
+      </file>
+      <file name="/" timestamp="1589865861724">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/source/Navisteps/backend/features/trip/enums/TripStatus.php" timestamp="1589517112876">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="D:/source/TravelFusion/src/Foo.php" timestamp="1589517949291">
         <mark key="[" line="1" column="8" />
       </file>
@@ -172,23 +181,9 @@
         <mark key="." line="21" column="5" />
         <mark key="^" line="21" column="6" />
       </file>
-      <file name="D:/source/Navisteps/.env" timestamp="1589864742554">
-        <mark key="'" line="22" column="16" />
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="19" column="25" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="1" />
-      </file>
       <file name="D:/source/utb/hotel/agoda/api/test.php" timestamp="1589532349683">
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="D:/source/Navisteps/backend/controllers/app/FirstDataController.php" timestamp="1589514007664">
-        <mark key="'" line="97" column="8" />
-        <mark key="[" line="53" column="48" />
-        <mark key="]" line="54" column="78" />
-        <mark key="." line="54" column="77" />
-        <mark key="^" line="54" column="78" />
       </file>
     </filemarks>
     <jumps>
@@ -297,48 +292,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtIFRPRE8K</text>
+        <text encoding="base64">Ly8JCXNsZWVwKDMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>myThread</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX01ZU1FMX0RTTlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkkc3RhY2stPnB1c2goTWlkZGxld2FyZTo6bG9nKCRsb2dnZXIxLCBuZXcgTWVzc2FnZUZvcm1hdHRlcigne3JlcV9ib2R5fScpKSk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CQkkdHJhbnMgPSBUcmlwTm90aWZpY2F0aW9uTWFpbFJlbDo6Z2V0RGIoKS0+YmVnaW5UcmFuc2FjdGlvbigpOwoJCXRyeSB7CgkJCSRyZWxzID0gVHJpcE5vdGlmaWNhdGlvbk1haWxSZWw6OmZpbmRCeVNxbCgkc3FsQ21kKS0+d2l0aCgndHJpcE5vdGlmaWNhdGlvbicpLT5hbGwoKTsKCQkJJHRoaXMtPmNyZWF0ZU5vdGlmaWNhdGlvbk1haWwoJHVzZXIsICRyZWxzKTsKCQkJJHRyYW5zLT5jb21taXQoKTsKCQl9CgkJY2F0Y2ggKFxUaHJvd2FibGUgJGUpIHsKCQkJJHRyYW5zLT5yb2xsQmFjaygpOwoJCQl0aHJvdyAkZTsKCQl9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtIFRPRE8K</text>
+        <text encoding="base64">Ly8JCXNsZWVwKDMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vIFtyZWZhY3Rvcl0gcmVtb3ZlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text>ENAME FUNCTION
-
-MAKE IT SIMILAR WITH GOOGLE. WE MAY ADD INTERFACE FOR THEM.I</text>
+        <text encoding="base64">ZXh0ZW5zaW9uPXB0aHJlYWRzCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8JCSRzdGFjay0+cHVzaChNaWRkbGV3YXJlOjpsb2coJGxvZ2dlcjEsIG5ldyBNZXNzYWdlRm9ybWF0dGVyKCd7cmVpc19ib2R5fScpKSk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">JHNxbENtZCA9IFBheW1lbnQ6OmZpbmQoKS0+d2hlcmUoWydpZCcgPT4gMV0pLT5jcmVhdGVDb21tYW5kKCktPnJhd1NxbDsKCQkkc3FsQ21kIC49ICcgRk9SIFVQREFURSc7IC8vIGxvY2sKCQllY2hvICRzcWxDbWQgLiAiXG4iOwoKCQllY2hvICJiZWdpbiB0cmFuc1xuIjsKCQkkdHJhbnMgPSBQYXltZW50OjpnZXREYigpLT5iZWdpblRyYW5zYWN0aW9uKCk7CgkJdHJ5IHsKCQkJZWNobyAic2VsZWN0IGZvciB1cGRhdGVcbiI7CgkJCSRwYXltZW50ID0gUGF5bWVudDo6ZmluZEJ5U3FsKCRzcWxDbWQpLT5vbmUoKTsKCQkJJHBheW1lbnQtPmNoYXJnZUFtb3VudCArPSAxOwoJCQkkcGF5bWVudC0+c2F2ZSgpOwoJCQkkdHJhbnMtPmNvbW1pdCgpOwoJCQllY2hvICJjb21taXRcbiI7CgkJfQoJCWNhdGNoIChcVGhyb3dhYmxlICRlKSB7CgkJCSR0cmFucy0+cm9sbEJhY2soKTsKCQkJdGhyb3cgJGU7CgkJfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8JCSRzdGFjay0+cHVzaChNaWRkbGV3YXJlOjpsb2coJGxvZ2dlcjEsIG5ldyBNZXNzYWdlRm9ybWF0dGVyKCd7cmVxX2JvZHl9JykpKTsK</text>
+        <text encoding="base64">dXNlIGFwcFxmZWF0dXJlc1xwYXltZW50XGVudW1zXEZpcnN0RGF0YUN1cnJlbmN5Q29kZTsK</text>
       </register>
       <register name="6" type="2">
-        <text>new AgodaApi()</text>
+        <text encoding="base64">CQkJJHRoaXMtPmNyZWF0ZU5vdGlmaWNhdGlvbk1haWwoJHVzZXIsICRyZWxzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWNvbnN0IFBBSUQgPSAncGFpZCc7Cg==</text>
+        <text encoding="base64">CSRwYXltZW50ID0gbmV3IFBheW1lbnQoWydvcmRlcklkJyA9PiAxLCAnY2hhbm5lbCcgPT4gJ2ZpcnN0RGF0YScsICdjdXJyZW5jeScgPT4gJ1NHRCcsICdjaGFyZ2VBbW91bnQnID0+IDEuMDBdKTsKCQkkcGF5bWVudC0+c2F2ZSgpOwoJCSRwYXltZW50LT5zdGF0dXMgPSBQYXltZW50OjpTVEFUVVNfUEFJRDsKCQkkcGF5bWVudC0+c2F2ZSgpOwoKLy8JCXZhcl9kdW1wKCRwYXltZW50KTs=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWNvbnN0IFBBWUlORyA9ICdwYXlpbmcnOwo=</text>
+        <text encoding="base64">ICAgICAgICAtIFRPRE8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIFtyZWZhY3Rvcl0gcmVtb3ZlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

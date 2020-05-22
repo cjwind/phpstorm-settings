@@ -116,12 +116,12 @@
       <file name="D:/source/Navisteps/backend/features/nPay/storage/yiiStorage/NPayAccountStorage.php" timestamp="1590121268567">
         <mark key="[" line="9" column="31" />
       </file>
-      <file name="D:/source/Navisteps/backend/controllers/app/TripItemController.php" timestamp="1590123074453">
+      <file name="D:/source/Navisteps/backend/controllers/app/TripItemController.php" timestamp="1590137608978">
         <mark key="'" line="104" column="38" />
-        <mark key="[" line="321" column="42" />
-        <mark key="]" line="342" column="0" />
-        <mark key="^" line="324" column="21" />
-        <mark key="." line="342" column="0" />
+        <mark key="[" line="328" column="54" />
+        <mark key="]" line="328" column="54" />
+        <mark key="^" line="328" column="52" />
+        <mark key="." line="328" column="54" />
       </file>
       <file name="D:/source/Navisteps/backend/features/payment/forms/TripItemPayForm.php" timestamp="1590119250021">
         <mark key="'" line="22" column="3" />
@@ -297,10 +297,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>total_time</text>
+        <text encoding="base64">IC8vIFRPRE8gYXJncw==</text>
       </register>
       <register name="-" type="4">
-        <text>total_time</text>
+        <text encoding="base64">IC8vIFRPRE8gYXJncw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX01ZU1FMX0RTTlw+</text>
@@ -309,34 +309,34 @@
         <text encoding="base64">CQlpZiAoJGRhdGFbJ3R5cGUnXSA9PSBzZWxmOjpQQVlfVFlQRV9DUkVESVRfQ0FSRCkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCS8vIFRPRE8gaW1wbGVtZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJXTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCSdlcnJvck1zZycgPT4gJycsLy9UT0RPCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCSdzdWNjZXNzJyA9PiB0cnVlLC8vVE9ETwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIFsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJXTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCSdlcnJvck1zZycgPT4gJycsLy9UT0RPCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCSdzdWNjZXNzJyA9PiB0cnVlLC8vVE9ETwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJcmV0dXJuIFsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJLy8gVE9ETyBjaGFuZ2UgdHJpcCAmIHRyaXAgaXRlbSBzdGF0dXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJLy8gVE9ETyBjaGFuZ2UgcGF5bWVudCBzdGF0dXMgZGVwZW5kIG9uIGNoYXJnZSgpIHJldHVybiB2YWx1ZQo=</text>
+        <text encoding="base64">CQkJLy8gVE9ETyBjaGFuZ2UgdHJpcCAmIHRyaXAgaXRlbSBzdGF0dXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">CQkJLy8gVE9ETyBjaGFuZ2UgcGF5bWVudCBzdGF0dXMgZGVwZW5kIG9uIGNoYXJnZSgpIHJldHVybiB2YWx1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

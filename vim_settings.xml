@@ -102,9 +102,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/source/Navisteps/backend/utb/order/OrderEventBindingBootstrap.php" timestamp="1590053523257">
-        <mark key="'" line="9" column="6" />
-      </file>
       <file name="D:/source/Navisteps/backend/config/web.php" timestamp="1590054450360">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="47" />
@@ -127,7 +124,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/source/TravelCorp/config/php/components.php" timestamp="1590053795729" />
+      <file name="D:/source/Navisteps/backend/features/payment/forms/CompanyAccountPayForm.php" timestamp="1590119253120">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="D:/source/Navisteps/openapi/openapi.yaml" timestamp="1590057484867">
         <mark key="[" line="1905" column="49" />
         <mark key="]" line="1905" column="50" />
@@ -151,35 +152,57 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590116786373">
+      <file name="/Dummy.txt" timestamp="1590119756772">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/source/Navisteps/backend/controllers/app/TripItemController.php" timestamp="1590117261531">
-        <mark key="'" line="430" column="8" />
-        <mark key="[" line="261" column="26" />
-        <mark key="]" line="462" column="35" />
-        <mark key="." line="462" column="35" />
-        <mark key="^" line="430" column="0" />
+      <file name="D:/source/Navisteps/backend/controllers/app/TripItemController.php" timestamp="1590119886584">
+        <mark key="'" line="312" column="50" />
+        <mark key="[" line="293" column="0" />
+        <mark key="]" line="293" column="0" />
+        <mark key="." line="293" column="0" />
+        <mark key="^" line="293" column="44" />
+      </file>
+      <file name="D:/source/Navisteps/backend/features/payment/forms/TripItemPayForm.php" timestamp="1590119250021">
+        <mark key="'" line="22" column="3" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="17" column="65" />
+      </file>
+      <file name="/fragment.php" timestamp="1590119630622">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="D:/source/Navisteps/backend/utb/order/OrderEventBinder.php" timestamp="1590056053305" />
+      <file name="D:/source/Navisteps/backend/features/payment/storages/yiiStorages/PaymentStorage.php" timestamp="1590119882009">
+        <mark key="[" line="63" column="94" />
+        <mark key="]" line="63" column="94" />
+        <mark key="." line="63" column="94" />
+        <mark key="^" line="59" column="45" />
+      </file>
+      <file name="D:/source/Navisteps/backend/controllers/app/CompanyAccountPayForm.php" timestamp="1590119187651">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="D:/source/Navisteps/backend/config/components.php" timestamp="1590055311577">
         <mark key="[" line="164" column="0" />
         <mark key="]" line="164" column="81" />
         <mark key="." line="164" column="0" />
         <mark key="^" line="164" column="59" />
       </file>
-      <file name="D:/source/DigitalTravel/backend/config/web.php" timestamp="1590053783739" />
       <file name="D:/source/Navisteps/backend/config/test-console.php" timestamp="1590055120080">
         <mark key="[" line="90" column="51" />
       </file>
-      <file name="D:/source/DigitalTravel/backend/eventListener/OrderEventListener.php" timestamp="1590053444890">
-        <mark key="'" line="50" column="20" />
+      <file name="D:/source/Navisteps/backend/features/payment/storages/yiiActiveRecords/Payment.php" timestamp="1590119707703">
+        <mark key="[" line="14" column="43" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="48" filename="D:/source/Navisteps/backend/controllers/app/CreditCardController.php" />
       <jump line="70" column="27" filename="D:/source/Navisteps/backend/controllers/app/CreditCardController.php" />
       <jump line="44" column="4" filename="D:/source/Navisteps/backend/controllers/app/CreditCardController.php" />
       <jump line="21" column="16" filename="D:/source/Navisteps/.env" />
@@ -279,58 +302,52 @@
       <jump line="130" column="96" filename="D:/source/Navisteps/backend/commands/TestController.php" />
       <jump line="0" column="0" filename="D:/source/Navisteps/backend/commands/TestController.php" />
       <jump line="126" column="37" filename="D:/source/Navisteps/backend/config/test.php" />
+      <jump line="312" column="50" filename="D:/source/Navisteps/backend/controllers/app/TripItemController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>Create invoice storage instance in listener function directly
-
-Because binding mech, we can't use DI container and hard to create storage instance
-by ourselves.</text>
+        <text encoding="base64">CQkJLy8gVE9ETyBwYXltZW50IHN0YXR1cyBzaG91bGQgYmUgcGF5aW5nCg==</text>
       </register>
       <register name="-" type="4">
-        <text>tCredit and Pre-paid pay</text>
+        <text>failed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX01ZU1FMX0RTTlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJJ29yZGVyRXZlbnRMaXN0ZW5lckNsYXNzJyA9PiAnYXBwXGZlYXR1cmVzXG9yZGVyXE9yZGVyRXZlbnRMaXN0ZW5lcicsCg==</text>
+        <text encoding="base64">CQlpZiAoJGRhdGFbJ3R5cGUnXSA9PSBzZWxmOjpQQVlfVFlQRV9DUkVESVRfQ0FSRCkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text>Create invoice storage instance in listener function directly
-
-Because binding mech, we can't use DI container and hard to create storage instance
-by ourselves.</text>
+        <text encoding="base64">CQkJLy8gVE9ETyBwYXltZW50IHN0YXR1cyBzaG91bGQgYmUgcGF5aW5nCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>result:
-                        type: string</text>
+      <register name="2" type="2">
+        <text>Handle different pay type and leave some TODO</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Add channel arg to create payment in storage</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CX0K</text>
+        <text>Add company account pay form</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkkdGhpcy0+aW52b2ljZVN0b3JhZ2UgPSAkaW52b2ljZVN0b3JhZ2U7Cg==</text>
+        <text encoding="base64">CQkkdGhpcy0+Y3ZjID0gJGRhdGFbJ2N2YyddID8/IG51bGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChJbnZvaWNlU3RvcmFnZSAkaW52b2ljZVN0b3JhZ2UpIHsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAqLwo=</text>
+        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgpIHsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBJbnZvaWNlU3RvcmFnZSAkaW52b2ljZVN0b3JhZ2UK</text>
+        <text encoding="base64">CSAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAqIE9yZGVyRXZlbnRMaXN0ZW5lciBjb25zdHJ1Y3Rvci4K</text>
+        <text encoding="base64">CSAqIENvbXBhbnlBY2NvdW50UGF5Rm9ybSBjb25zdHJ1Y3Rvci4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

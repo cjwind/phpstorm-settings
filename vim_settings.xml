@@ -108,6 +108,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="21" column="9" />
       </file>
+      <file name="D:/source/utb/hotel/agoda/api/AgodaApi.php" timestamp="1590130601413">
+        <mark key="[" line="90" column="70" />
+        <mark key="]" line="90" column="70" />
+        <mark key="." line="90" column="70" />
+      </file>
       <file name="D:/source/Navisteps/backend/features/nPay/storage/yiiStorage/NPayAccountStorage.php" timestamp="1590121268567">
         <mark key="[" line="9" column="31" />
       </file>
@@ -131,12 +136,6 @@
         <mark key="]" line="63" column="94" />
         <mark key="." line="63" column="94" />
         <mark key="^" line="59" column="45" />
-      </file>
-      <file name="D:/source/Navisteps/backend/config/components.php" timestamp="1590055311577">
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="81" />
-        <mark key="." line="164" column="0" />
-        <mark key="^" line="164" column="59" />
       </file>
       <file name="D:/source/Navisteps/backend/features/nPay/storage/yiiActiveRecord/NPayAccount.php" timestamp="1590121295762">
         <mark key="[" line="20" column="5" />
@@ -171,9 +170,6 @@
       </file>
       <file name="D:/source/Navisteps/backend/controllers/app/FirstDataController.php" timestamp="1590122823489">
         <mark key="'" line="164" column="8" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590123101809">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1590119630622">
         <mark key="[" line="0" column="0" />
@@ -300,11 +296,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>total_time</text>
       </register>
       <register name="-" type="4">
-        <text>$decider</text>
+        <text>total_time</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX01ZU1FMX0RTTlw+</text>

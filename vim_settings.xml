@@ -120,6 +120,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="D:/source/Navisteps/.env" timestamp="1590144404960">
+        <mark key="'" line="22" column="16" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="1" />
+      </file>
       <file name="D:/source/Navisteps/backend/features/nPay/storage/yiiStorage/NPayAccountStorage.php" timestamp="1590121268567">
         <mark key="[" line="9" column="31" />
       </file>
@@ -129,13 +136,6 @@
         <mark key="]" line="327" column="0" />
         <mark key="^" line="328" column="44" />
         <mark key="." line="327" column="0" />
-      </file>
-      <file name="D:/source/Navisteps/backend/features/payment/forms/TripItemPayForm.php" timestamp="1590119250021">
-        <mark key="'" line="22" column="3" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="17" column="65" />
       </file>
       <file name="D:/source/Navisteps/backend/features/payment/storages/yiiStorages/PaymentStorage.php" timestamp="1590119882009">
         <mark key="[" line="63" column="94" />
@@ -280,11 +280,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCUJ1ZGdldFJ1bGVUZXN0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>self::STATUS_INIT</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX01ZU1FMX0RTTlw+</text>

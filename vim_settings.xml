@@ -124,7 +124,7 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="D:/source/DigitalTravel/backend/controllers/app/TestController.php" timestamp="1590469341267">
-        <mark key="[" line="8" column="18" />
+        <mark key="[" line="12" column="18" />
       </file>
       <file name="D:/source/Navisteps/.env" timestamp="1590144404960">
         <mark key="'" line="22" column="16" />
@@ -139,6 +139,10 @@
         <mark key="]" line="327" column="0" />
         <mark key="^" line="328" column="44" />
         <mark key="." line="327" column="0" />
+      </file>
+      <file name="D:/source/DigitalTravel/backend/config/routes.php" timestamp="1590473886364">
+        <mark key="'" line="290" column="4" />
+        <mark key="[" line="322" column="6" />
       </file>
       <file name="D:/source/Navisteps/backend/features/nPay/CreditPayResult.php" timestamp="1590122023334" />
       <file name="D:/source/Navisteps/backend/features/payment/storages/yiiActiveRecords/TransactionNPayCredit.php" timestamp="1590140294491">
@@ -169,7 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="16" filename="D:/source/Navisteps/.env" />
       <jump line="22" column="0" filename="D:/source/utb/payment/firstData/connect/FirstDataRequestGenerator.php" />
       <jump line="27" column="23" filename="D:/source/Navisteps/backend/db/migrations/20200511075254_add_transaction_first_data.php" />
       <jump line="36" column="12" filename="D:/source/Navisteps/backend/db/migrations/20200511075254_add_transaction_first_data.php" />
@@ -269,6 +272,7 @@
       <jump line="312" column="50" filename="D:/source/Navisteps/backend/controllers/app/TripItemController.php" />
       <jump line="105" column="38" filename="D:/source/Navisteps/backend/controllers/app/TripItemController.php" />
       <jump line="19" column="0" filename="D:/source/Navisteps/backend/tests/api/app/CreditCardCest.php" />
+      <jump line="289" column="4" filename="D:/source/DigitalTravel/backend/config/routes.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">

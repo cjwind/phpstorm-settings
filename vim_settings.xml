@@ -129,12 +129,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="1" />
       </file>
-      <file name="D:/source/Navisteps/backend/controllers/app/TripItemController.php" timestamp="1590476727864">
+      <file name="D:/source/Navisteps/backend/controllers/app/TripItemController.php" timestamp="1590574261270">
         <mark key="'" line="104" column="38" />
-        <mark key="[" line="326" column="83" />
-        <mark key="]" line="327" column="0" />
-        <mark key="^" line="328" column="44" />
-        <mark key="." line="327" column="0" />
+        <mark key="[" line="459" column="117" />
+        <mark key="]" line="339" column="0" />
+        <mark key="^" line="340" column="44" />
+        <mark key="." line="339" column="0" />
       </file>
       <file name="D:/source/DigitalTravel/backend/config/routes.php" timestamp="1590484874733">
         <mark key="'" line="290" column="4" />
@@ -150,16 +150,16 @@
         <mark key="^" line="534" column="24" />
         <mark key="." line="534" column="23" />
       </file>
-      <file name="D:/source/Navisteps/backend/features/payment/storages/yiiActiveRecords/TransactionNPayCredit.php" timestamp="1590140294491">
-        <mark key="[" line="36" column="32" />
-        <mark key="]" line="25" column="103" />
-        <mark key="^" line="25" column="103" />
-        <mark key="." line="25" column="102" />
-      </file>
       <file name="D:/source/Navisteps/backend/tests/api.suite.yml" timestamp="1590466414657" />
       <file name="D:/source/Navisteps/backend/i18nUI/storage/yiiStorages/I18nPaginator.php" timestamp="1590465730583" />
-      <file name="D:/source/Navisteps/backend/controllers/app/FirstDataController.php" timestamp="1590571581168">
+      <file name="D:/source/Navisteps/backend/controllers/app/FirstDataController.php" timestamp="1590574342189">
         <mark key="'" line="164" column="8" />
+        <mark key="[" line="53" column="55" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590574472783">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" timestamp="1590467358966">
         <mark key="'" line="839" column="20" />
@@ -167,6 +167,12 @@
         <mark key="]" line="1147" column="0" />
         <mark key="^" line="1147" column="0" />
         <mark key="." line="1147" column="0" />
+      </file>
+      <file name="/fragment.php" timestamp="1590574272350">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="D:/source/Navisteps/backend/tests/unit/features/nPay/CreditPayTest.php" timestamp="1590142308579" />
       <file name="D:/source/DigitalTravel/.env" timestamp="1590482700053" />
@@ -285,8 +291,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>creditCardId</text>
+      <register name="&quot;" type="2">
+        <text>Merge branch 'master' into 640-trip-item-pay-integrate-npay
+
+# Conflicts:
+#	backend/features/nPay/storage/yiiActiveRecord/NPayAccount.php</text>
       </register>
       <register name="-" type="4">
         <text>creditCardId</text>
@@ -298,37 +307,40 @@
         <text encoding="base64">CQkJWwoJCQkJJ2NsYXNzJyA9PiBBdHRyaWJ1dGVzQmVoYXZpb3I6OmNsYXNzLAoJCQkJJ3ByZXNlcnZlTm9uRW1wdHlWYWx1ZXMnID0+IHRydWUsCgkJCQknYXR0cmlidXRlcycgPT4gWwoJCQkJCSdzdGF0dXMnID0+IFtBY3RpdmVSZWNvcmQ6OkVWRU5UX0JFRk9SRV9JTlNFUlQgPT4gc2VsZjo6U1RBVFVTX0lOSVRdLAoJCQkJXSwKCQkJXSw=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkZmFjdG9yeSA9IG5ldyBGaXJzdERhdGFSZXF1ZXN0R2VuZXJhdG9yRmFjdG9yeTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgIGNvbnRlbnQ6CiAgICAgICAgICAgIGFwcGxpY2F0aW9uL2pzb246CiAgICAgICAgICAgICAgc2NoZW1hOgogICAgICAgICAgICAgICAgdHlwZTogb2JqZWN0CiAgICAgICAgICAgICAgICBwcm9wZXJ0aWVzOgogICAgICAgICAgICAgICAgICA=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIGh0dHBcVXJsOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChiYXNlNjRfZGVjb2RlKCRfUE9TVFsncmVzcG9uc2UtYmFzZTY0J10pKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCUJ1ZGdldFJ1bGVUZXN0Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text>Merge branch 'master' into 640-trip-item-pay-integrate-npay
 
 # Conflicts:
 #	backend/features/nPay/storage/yiiActiveRecord/NPayAccount.php</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkkZmFjdG9yeSA9IG5ldyBGaXJzdERhdGFSZXF1ZXN0R2VuZXJhdG9yRmFjdG9yeTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgIGNvbnRlbnQ6CiAgICAgICAgICAgIGFwcGxpY2F0aW9uL2pzb246CiAgICAgICAgICAgICAgc2NoZW1hOgogICAgICAgICAgICAgICAgdHlwZTogb2JqZWN0CiAgICAgICAgICAgICAgICBwcm9wZXJ0aWVzOgogICAgICAgICAgICAgICAgICA=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dXNlIGh0dHBcVXJsOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChiYXNlNjRfZGVjb2RlKCRfUE9TVFsncmVzcG9uc2UtYmFzZTY0J10pKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCUJ1ZGdldFJ1bGVUZXN0Cg==</text>
+      </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiBjaGFuZ2VUcmFuc2FjdGlvblRvU3VjY2VzcyhUcmFuc2FjdGlvbk5QYXlDcmVkaXQgJHRyYW5zYWN0aW9uKSB7CgkJJHRyYW5zYWN0aW9uLT5zdGF0dXMgPSBUcmFuc2FjdGlvbk5QYXlDcmVkaXRTdGF0dXM6OlNVQ0NFU1M7CgkJJHRyYW5zYWN0aW9uLT5zYXZlKCk7Cgl9Cg==</text>
+        <text>Merge branch 'master' into 640-trip-item-pay-integrate-npay
+
+# Conflicts:
+#	backend/features/nPay/storage/yiiActiveRecord/NPayAccount.php</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkkdHJhbnNTdG9yYWdlLT5jaGFuZ2VUcmFuc2FjdGlvblRvU3VjY2VzcygkdHJhbnNhY3Rpb24pOwo=</text>
+        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiBjaGFuZ2VUcmFuc2FjdGlvblRvU3VjY2VzcyhUcmFuc2FjdGlvbk5QYXlDcmVkaXQgJHRyYW5zYWN0aW9uKSB7CgkJJHRyYW5zYWN0aW9uLT5zdGF0dXMgPSBUcmFuc2FjdGlvbk5QYXlDcmVkaXRTdGF0dXM6OlNVQ0NFU1M7CgkJJHRyYW5zYWN0aW9uLT5zYXZlKCk7Cgl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

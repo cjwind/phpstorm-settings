@@ -146,8 +146,12 @@
         <mark key="." line="330" column="17" />
       </file>
       <file name="D:/source/DigitalTravel/frontend/src/pages/app/OrderView.vue" timestamp="1590483721641" />
-      <file name="D:/source/DigitalTravel/openapi/openapi.yaml" timestamp="1590550657049">
+      <file name="D:/source/DigitalTravel/openapi/openapi.yaml" timestamp="1590555630361">
         <mark key="'" line="294" column="25" />
+        <mark key="[" line="526" column="14" />
+        <mark key="]" line="534" column="24" />
+        <mark key="^" line="534" column="24" />
+        <mark key="." line="534" column="23" />
       </file>
       <file name="D:/source/Navisteps/backend/features/payment/storages/yiiActiveRecords/TransactionNPayCredit.php" timestamp="1590140294491">
         <mark key="[" line="36" column="32" />
@@ -280,10 +284,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX01ZU1FMX0RTTlw+</text>
@@ -292,34 +296,34 @@
         <text encoding="base64">CQkJWwoJCQkJJ2NsYXNzJyA9PiBBdHRyaWJ1dGVzQmVoYXZpb3I6OmNsYXNzLAoJCQkJJ3ByZXNlcnZlTm9uRW1wdHlWYWx1ZXMnID0+IHRydWUsCgkJCQknYXR0cmlidXRlcycgPT4gWwoJCQkJCSdzdGF0dXMnID0+IFtBY3RpdmVSZWNvcmQ6OkVWRU5UX0JFRk9SRV9JTlNFUlQgPT4gc2VsZjo6U1RBVFVTX0lOSVRdLAoJCQkJXSwKCQkJXSw=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIGh0dHBcVXJsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChiYXNlNjRfZGVjb2RlKCRfUE9TVFsncmVzcG9uc2UtYmFzZTY0J10pKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgIGNvbnRlbnQ6CiAgICAgICAgICAgIGFwcGxpY2F0aW9uL2pzb246CiAgICAgICAgICAgICAgc2NoZW1hOgogICAgICAgICAgICAgICAgdHlwZTogb2JqZWN0CiAgICAgICAgICAgICAgICBwcm9wZXJ0aWVzOgogICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCUJ1ZGdldFJ1bGVUZXN0Cg==</text>
+        <text encoding="base64">dXNlIGh0dHBcVXJsOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChiYXNlNjRfZGVjb2RlKCRfUE9TVFsncmVzcG9uc2UtYmFzZTY0J10pKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCUJ1ZGdldFJ1bGVUZXN0Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text>Merge branch 'master' into 640-trip-item-pay-integrate-npay
 
 # Conflicts:
 #	backend/features/nPay/storage/yiiActiveRecord/NPayAccount.php</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiBjaGFuZ2VUcmFuc2FjdGlvblRvU3VjY2VzcyhUcmFuc2FjdGlvbk5QYXlDcmVkaXQgJHRyYW5zYWN0aW9uKSB7CgkJJHRyYW5zYWN0aW9uLT5zdGF0dXMgPSBUcmFuc2FjdGlvbk5QYXlDcmVkaXRTdGF0dXM6OlNVQ0NFU1M7CgkJJHRyYW5zYWN0aW9uLT5zYXZlKCk7Cgl9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQkkdHJhbnNTdG9yYWdlLT5jaGFuZ2VUcmFuc2FjdGlvblRvU3VjY2VzcygkdHJhbnNhY3Rpb24pOwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiBjaGFuZ2VUcmFuc2FjdGlvblRvU3VjY2VzcyhUcmFuc2FjdGlvbk5QYXlDcmVkaXQgJHRyYW5zYWN0aW9uKSB7CgkJJHRyYW5zYWN0aW9uLT5zdGF0dXMgPSBUcmFuc2FjdGlvbk5QYXlDcmVkaXRTdGF0dXM6OlNVQ0NFU1M7CgkJJHRyYW5zYWN0aW9uLT5zYXZlKCk7Cgl9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkkdHJhbnNTdG9yYWdlLT5jaGFuZ2VUcmFuc2FjdGlvblRvU3VjY2VzcygkdHJhbnNhY3Rpb24pOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

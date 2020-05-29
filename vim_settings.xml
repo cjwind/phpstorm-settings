@@ -102,9 +102,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/source/Navisteps/backend/commands/TestController.php" timestamp="1590729466654">
+      <file name="D:/source/Navisteps/backend/commands/TestController.php" timestamp="1590746644435">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="149" column="8" />
+        <mark key="[" line="142" column="33" />
+        <mark key="]" line="142" column="33" />
+        <mark key="." line="142" column="33" />
       </file>
       <file name="/a.dummy" timestamp="1590741288726">
         <mark key="[" line="0" column="0" />
@@ -115,17 +117,18 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="11" />
       </file>
-      <file name="D:/source/DigitalTravel/frontend/src/pages/admin/MemberBasicInfo.vue" timestamp="1590484748120">
-        <mark key="[" line="229" column="46" />
-        <mark key="]" line="229" column="46" />
-        <mark key="." line="229" column="46" />
-      </file>
       <file name="D:/source/Navisteps/.env" timestamp="1590575896556">
         <mark key="'" line="22" column="16" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="1" />
+      </file>
+      <file name="D:/source/Navisteps/backend/features/payment/storages/IFirstDataTransactionDataProvider.php" timestamp="1590746733603">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="10" column="45" />
+        <mark key="." line="10" column="44" />
+        <mark key="^" line="10" column="45" />
       </file>
       <file name="D:/source/Navisteps/backend/controllers/app/TripItemController.php" timestamp="1590634917211">
         <mark key="'" line="104" column="38" />
@@ -139,12 +142,6 @@
         <mark key="]" line="8" column="20" />
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="19" />
-      </file>
-      <file name="D:/source/DigitalTravel/backend/config/routes.php" timestamp="1590484874733">
-        <mark key="'" line="290" column="4" />
-        <mark key="[" line="330" column="17" />
-        <mark key="]" line="330" column="17" />
-        <mark key="." line="330" column="17" />
       </file>
       <file name="D:/source/Navisteps/backend/features/payment/storages/yiiActiveRecords/TransactionFirstData.php" timestamp="1590740611662">
         <mark key="'" line="8" column="0" />
@@ -176,8 +173,8 @@
       <file name="/Dummy.txt" timestamp="1590741255971">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/source/Navisteps/backend/features/payment/storages/IFirstDataTransactionData.php" timestamp="1590741366910">
-        <mark key="[" line="3" column="37" />
+      <file name="D:/source/Navisteps/backend/features/payment/storages/IFirstDataTransactionData.php" timestamp="1590746295877">
+        <mark key="[" line="3" column="35" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
@@ -195,6 +192,7 @@
         <mark key="^" line="66" column="112" />
         <mark key="." line="83" column="42" />
       </file>
+      <file name="D:/source/Navisteps/backend/composer.json" timestamp="1590746832294" />
       <file name="D:/source/Navisteps/backend/controllers/app/AuthController.php" timestamp="1590572611374">
         <mark key="[" line="34" column="0" />
       </file>
@@ -304,11 +302,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiBnZXRQYXltZW50SWQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgLy9UT0RPIG5vdCBzdXJlIHZvaWQgprOoU6az</text>
       </register>
       <register name="-" type="4">
-        <text>yiiStorages</text>
+        <text encoding="base64">ICAgLy9UT0RPIG5vdCBzdXJlIHZvaWQgprOoU6az</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX01ZU1FMX0RTTlw+</text>

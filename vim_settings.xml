@@ -111,11 +111,11 @@
       <file name="/a.dummy" timestamp="1590741288726">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/source/Navisteps/backend/utb/payment/firstData/webService/api/responses/CancelAuthResponse.php" timestamp="1591006138726">
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-        <mark key="^" line="122" column="26" />
+      <file name="D:/source/Navisteps/backend/utb/payment/firstData/webService/api/responses/CancelAuthResponse.php" timestamp="1591007613692">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="110" column="20" />
       </file>
       <file name="D:/source/Navisteps/backend/features/payment/storages/FirstDataTransactionData.php" timestamp="1590741276787">
         <mark key="[" line="3" column="0" />
@@ -139,11 +139,11 @@
         <mark key="'" line="8" column="0" />
         <mark key="[" line="24" column="5" />
       </file>
-      <file name="D:/source/Navisteps/backend/features/payment/FirstData.php" timestamp="1591006174574">
-        <mark key="[" line="22" column="37" />
-        <mark key="]" line="22" column="38" />
-        <mark key="." line="22" column="37" />
-        <mark key="^" line="22" column="38" />
+      <file name="D:/source/Navisteps/backend/features/payment/FirstData.php" timestamp="1591007862153">
+        <mark key="[" line="6" column="96" />
+        <mark key="]" line="6" column="97" />
+        <mark key="." line="6" column="96" />
+        <mark key="^" line="6" column="97" />
       </file>
       <file name="D:/source/Navisteps/backend/features/payment/FirstDataConnectCallbackResponse.php" timestamp="1591005343681">
         <mark key="'" line="48" column="0" />
@@ -152,12 +152,7 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="31" />
       </file>
-      <file name="D:/source/utb/CHANGES.md" timestamp="1590654922752">
-        <mark key="[" line="4" column="48" />
-        <mark key="]" line="2" column="75" />
-        <mark key="^" line="2" column="75" />
-        <mark key="." line="2" column="74" />
-      </file>
+      <file name="D:/source/Navisteps/backend/utb/storage/yiiActiveRecords/ChannelSetting.php" timestamp="1591007446676" />
       <file name="D:/source/Navisteps/backend/tests/unit/features/payment/storages/yiiStorages/TransactionFirstDataStorageTest.php" timestamp="1591005504302">
         <mark key="[" line="25" column="13" />
         <mark key="]" line="25" column="13" />
@@ -171,11 +166,6 @@
         <mark key="." line="139" column="0" />
         <mark key="^" line="141" column="89" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591005855712">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/source/Navisteps/backend/features/payment/storages/IFirstDataTransactionData.php" timestamp="1590746295877">
         <mark key="[" line="3" column="35" />
         <mark key="]" line="7" column="0" />
@@ -185,6 +175,12 @@
         <mark key="]" line="22" column="47" />
         <mark key="^" line="22" column="47" />
         <mark key="." line="22" column="46" />
+      </file>
+      <file name="/fragment.php" timestamp="1591007333827">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="D:/source/Navisteps/backend/features/payment/forms/TripItemCreditCardPayForm.php" timestamp="1590656345330" />
       <file name="D:/source/Navisteps/backend/utb/payment/firstData/webService/api/FirstDataCreditCardApi.php" timestamp="1590723105253" />
@@ -296,10 +292,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0UmF3RGF0YSgpIG1ldGhvZC4K</text>
+        <text>Merge branch 'master' into 640-trip-item-pay-integrate-npay
+
+# Conflicts:
+#	backend/features/nPay/storage/yiiActiveRecord/NPayAccount.php</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID8/IG51bGw7IFRPRE8gaGFuZGxlIHBheW1lbnQgaWQ=</text>
+        <text>// TODO: Implement getStatus() method.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX01ZU1FMX0RTTlw+</text>
@@ -308,37 +307,37 @@
         <text encoding="base64">CQlyZXR1cm4gJHRoaXMtPmZpcnN0RGF0YU9yZGVySWQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0UmF3RGF0YSgpIG1ldGhvZC4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0T3JkZXJJZCgpIG1ldGhvZC4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJXQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJWwo=</text>
-      </register>
-      <register name="6" type="2">
         <text>Merge branch 'master' into 640-trip-item-pay-integrate-npay
 
 # Conflicts:
 #	backend/features/nPay/storage/yiiActiveRecord/NPayAccount.php</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0VG90YWxBbW91bnQoKSBtZXRob2QuCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0Q3VycmVuY3koKSBtZXRob2QuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkkdGhpcy0+Y3VycmVuY3k9JHJlcy0+Z2V0Q3VycmVuCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0VHhuVHlwZSgpIG1ldGhvZC4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkkdGhpcy0+dHhuVHlwZT0ndm9pZCcK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJLy8gVE9ETyBzaG91bGQgdGVzdAo=</text>
+        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0UmF3RGF0YSgpIG1ldGhvZC4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJJGRhdGFbJ3BheW1lbnRJZCddID0gJGRhdGFbJ2N1c3RvbWVyaWQnXTsK</text>
+        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0T3JkZXJJZCgpIG1ldGhvZC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

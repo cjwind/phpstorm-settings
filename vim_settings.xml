@@ -114,21 +114,12 @@
         <mark key="]" line="142" column="33" />
         <mark key="." line="142" column="33" />
       </file>
-      <file name="D:/source/Navisteps/backend/features/payment/TripItemPaymentOperator.php" timestamp="1591076268510" />
-      <file name="D:/source/utb/payment/CreditCardPayer.php" timestamp="1591072144339" />
       <file name="D:/source/utb/payment/firstData/storage/TransactionFirstDataDaoInterface.php" timestamp="1591158339178">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="6" column="9" />
         <mark key="." line="6" column="8" />
         <mark key="^" line="6" column="9" />
       </file>
-      <file name="D:/source/Navisteps/backend/features/payment/storages/yiiStorages/TransactionFirstDataStorage.php" timestamp="1591155751938">
-        <mark key="[" line="55" column="68" />
-        <mark key="]" line="15" column="19" />
-        <mark key="^" line="15" column="19" />
-        <mark key="." line="15" column="18" />
-      </file>
-      <file name="D:/source/Navisteps/backend/features/payment/TripItemNPayPayer.php" timestamp="1591075987723" />
       <file name="D:/source/utb/payment/firstData/webService/FirstDataCreditCard.php" timestamp="1591158587057">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -141,12 +132,6 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="D:/source/Navisteps/backend/features/payment/storages/yiiActiveRecords/Payment.php" timestamp="1591089134975">
-        <mark key="[" line="18" column="33" />
-        <mark key="]" line="37" column="13" />
-      </file>
-      <file name="D:/source/utb/payment/firstData/storage/TransactionFirstDataStorageInterface.php" timestamp="1591080268915" />
-      <file name="Y:/source/PrestoTravel/payment/PrestoPay.php" timestamp="1591075580782" />
       <file name="D:/source/Navisteps/backend/features/payment/storages/yiiStorages/PaymentStorage.php" timestamp="1591157771619">
         <mark key="[" line="72" column="36" />
         <mark key="]" line="71" column="58" />
@@ -173,13 +158,6 @@
         <mark key="]" line="148" column="51" />
         <mark key="^" line="148" column="51" />
         <mark key="." line="148" column="50" />
-      </file>
-      <file name="D:/source/Navisteps/backend/controllers/app/FirstDataController.php" timestamp="1591082769991">
-        <mark key="'" line="166" column="8" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
-        <mark key="^" line="141" column="89" />
       </file>
       <file name="/Dummy.txt" timestamp="1591166313977">
         <mark key="[" line="0" column="0" />

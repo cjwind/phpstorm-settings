@@ -105,6 +105,17 @@
       <file name="/a.dummy" timestamp="1591247110490">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/source/Navisteps/backend/features/payment/TripItemPaymentOperator.php" timestamp="1591254425516">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="63" column="8" />
+      </file>
+      <file name="D:/source/Navisteps/backend/features/trip/approvalFlow/TripApprovalStateDecider.php" timestamp="1591253602376">
+        <mark key="'" line="433" column="25" />
+        <mark key="[" line="501" column="35" />
+        <mark key="]" line="497" column="8" />
+        <mark key="." line="497" column="8" />
+        <mark key="^" line="507" column="50" />
+      </file>
       <file name="D:/source/Navisteps/backend/db/migrations/20200312025346_add_ancillary_services_column_in_flight.php" timestamp="1591246919863" />
       <file name="D:/source/Navisteps/backend/db/migrations/20200530173736_change_traveloka_booking_id_nullable.php" timestamp="1591246934194" />
       <file name="D:/source/TravelCorp/modules/api/flight/forms/FlightItineraryFilterForm.php" timestamp="1591180848278" />
@@ -112,14 +123,23 @@
         <mark key="[" line="64" column="0" />
         <mark key="]" line="65" column="32" />
       </file>
-      <file name="D:/source/Navisteps/backend/tests/unit/features/payment/TripItemFirstDataPayerTest.php" timestamp="1591248867519">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="26" column="40" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="D:/source/Navisteps/backend/tests/unit/features/payment/TripItemFirstDataPayerTest.php" timestamp="1591255360810">
+        <mark key="'" line="35" column="20" />
+        <mark key="[" line="104" column="50" />
+        <mark key="]" line="104" column="0" />
+        <mark key="^" line="113" column="40" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="D:/source/Navisteps/backend/utb/db/migrations/20200312025346_add_ancillary_services_column_in_flight.php" timestamp="1591246919103" />
+      <file name="D:/source/Navisteps/backend/features/payment/TripItemNPayPayer.php" timestamp="1591254724106">
+        <mark key="'" line="7" column="22" />
+      </file>
+      <file name="/fragment.php" timestamp="1591254455732">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
       <file name="D:/source/Navisteps/backend/utb/payment/firstData/webService/api/responses/CancelAuthResponse.php" timestamp="1591246663739">
         <mark key="'" line="6" column="65" />
         <mark key="[" line="2" column="0" />
@@ -128,12 +148,12 @@
         <mark key="^" line="110" column="20" />
       </file>
       <file name="D:/source/TravelCorp/modules/api/controllers/FlightController.php" timestamp="1591180823721" />
-      <file name="D:/source/Navisteps/backend/features/payment/TripItemFirstDataPayer.php" timestamp="1591249121617">
-        <mark key="'" line="56" column="12" />
-        <mark key="[" line="114" column="36" />
-        <mark key="]" line="111" column="0" />
-        <mark key="^" line="42" column="9" />
-        <mark key="." line="111" column="0" />
+      <file name="D:/source/Navisteps/backend/features/payment/TripItemFirstDataPayer.php" timestamp="1591255481460">
+        <mark key="'" line="128" column="12" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="^" line="138" column="69" />
+        <mark key="." line="140" column="0" />
       </file>
       <file name="D:/source/Navisteps/backend/utb/db/migrations/20200530173736_change_traveloka_booking_id_nullable.php" timestamp="1591246932059">
         <mark key="[" line="6" column="0" />
@@ -146,6 +166,13 @@
         <mark key="^" line="142" column="52" />
         <mark key="." line="142" column="51" />
       </file>
+      <file name="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" timestamp="1591254087851">
+        <mark key="'" line="1148" column="20" />
+        <mark key="[" line="1209" column="0" />
+        <mark key="]" line="1209" column="0" />
+        <mark key="^" line="1184" column="75" />
+        <mark key="." line="1209" column="0" />
+      </file>
       <file name="D:/source/Navisteps/backend/db/migrations/20200604045807_makes_transaction_first_data_fields_nullable.php" timestamp="1591246837660">
         <mark key="[" line="8" column="70" />
         <mark key="]" line="14" column="30" />
@@ -154,22 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="69" filename="D:/source/Navisteps/backend/controllers/app/TripItemController.php" />
-      <jump line="7" column="10" filename="D:/source/Navisteps/backend/features/trip/storages/ITripStorage.php" />
-      <jump line="164" column="20" filename="D:/source/Navisteps/backend/features/trip/storages/yiiStorages/TripStorage.php" />
-      <jump line="16" column="0" filename="D:/source/Navisteps/backend/features/trip/storages/yiiStorages/TripStorage.php" />
-      <jump line="0" column="0" filename="D:/source/Navisteps/backend/features/trip/approvalFlow/TripApprovalStateDecider.php" />
-      <jump line="403" column="4" filename="D:/source/Navisteps/backend/features/trip/approvalFlow/TripApprovalStateDecider.php" />
-      <jump line="20" column="6" filename="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
-      <jump line="1004" column="0" filename="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
-      <jump line="1022" column="8" filename="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
-      <jump line="241" column="4" filename="D:/source/Navisteps/backend/controllers/app/TripItemController.php" />
-      <jump line="101" column="0" filename="D:/source/Navisteps/backend/controllers/app/TripItemController.php" />
-      <jump line="143" column="0" filename="D:/source/Navisteps/backend/controllers/app/TripItemController.php" />
-      <jump line="150" column="31" filename="D:/source/Navisteps/backend/controllers/app/TripItemController.php" />
-      <jump line="33" column="0" filename="D:/source/Navisteps/backend/controllers/app/TripItemController.php" />
-      <jump line="153" column="66" filename="D:/source/Navisteps/backend/controllers/app/TripItemController.php" />
-      <jump line="36" column="5" filename="D:/source/Navisteps/backend/controllers/app/TripItemController.php" />
       <jump line="43" column="35" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
       <jump line="68" column="12" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
       <jump line="85" column="0" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
@@ -213,7 +224,6 @@
       <jump line="46" column="4" filename="D:/source/Navisteps/backend/utb/payment/firstData/connect/FirstDataRequestGenerator.php" />
       <jump line="270" column="42" filename="D:/source/Navisteps/backend/utb/flight/travelFusion/channels/TravelFusion.php" />
       <jump line="1006" column="12" filename="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
-      <jump line="1027" column="70" filename="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
       <jump line="1040" column="0" filename="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
       <jump line="1084" column="0" filename="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
       <jump line="1055" column="22" filename="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
@@ -254,51 +264,68 @@
       <jump line="56" column="12" filename="D:/source/Navisteps/backend/features/payment/TripItemFirstDataPayer.php" />
       <jump line="26" column="0" filename="D:/source/Navisteps/backend/tests/unit/features/payment/TripItemFirstDataPayerTest.php" />
       <jump line="71" column="0" filename="D:/source/Navisteps/backend/tests/unit/features/payment/TripItemFirstDataPayerTest.php" />
+      <jump line="0" column="0" filename="D:/source/Navisteps/backend/features/trip/approvalFlow/TripApprovalStateDecider.php" />
+      <jump line="465" column="0" filename="D:/source/Navisteps/backend/features/trip/approvalFlow/TripApprovalStateDecider.php" />
+      <jump line="433" column="25" filename="D:/source/Navisteps/backend/features/trip/approvalFlow/TripApprovalStateDecider.php" />
+      <jump line="35" column="0" filename="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
+      <jump line="1027" column="70" filename="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
+      <jump line="1054" column="20" filename="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
+      <jump line="1172" column="20" filename="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
+      <jump line="1184" column="74" filename="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
+      <jump line="1148" column="20" filename="D:/source/Navisteps/backend/tests/unit/features/trip/approvalFlow/TripApprovalStateDeciderTest.php" />
+      <jump line="113" column="23" filename="D:/source/Navisteps/backend/features/payment/TripItemFirstDataPayer.php" />
+      <jump line="24" column="34" filename="D:/source/Navisteps/backend/tests/unit/features/payment/TripItemFirstDataPayerTest.php" />
+      <jump line="25" column="34" filename="D:/source/Navisteps/backend/tests/unit/features/payment/TripItemFirstDataPayerTest.php" />
+      <jump line="7" column="22" filename="D:/source/Navisteps/backend/features/payment/TripItemNPayPayer.php" />
+      <jump line="30" column="0" filename="D:/source/Navisteps/backend/tests/unit/features/payment/TripItemFirstDataPayerTest.php" />
+      <jump line="40" column="52" filename="D:/source/Navisteps/backend/tests/unit/features/payment/TripItemFirstDataPayerTest.php" />
+      <jump line="128" column="12" filename="D:/source/Navisteps/backend/features/payment/TripItemFirstDataPayer.php" />
+      <jump line="35" column="20" filename="D:/source/Navisteps/backend/tests/unit/features/payment/TripItemFirstDataPayerTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Stub::makeEmpty(TransactionFirstDataStorage::class)</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX01ZU1FMX0RTTlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkkdGhpcy0+b3JkZXJTdG9yYWdlTW9jayA9IG06Om1vY2soT3JkZXJTdG9yYWdlOjpjbGFzcyk7CgkJJHRoaXMtPnBheW1lbnRTdG9yYWdlTW9jayA9IG06Om1vY2soUGF5bWVudFN0b3JhZ2U6OmNsYXNzKTsKCQkkdGhpcy0+dHJhbnNTdG9yYWdlU3R1YiA9IG06Om1vY2soVHJhbnNhY3Rpb25GaXJzdERhdGFTdG9yYWdlOjpjbGFzcyk7Cg==</text>
+        <text encoding="base64">CQkkdGhpcy0+c2hvdWxkQ2hhbmdlVHJpcEFuZFRyaXBJdGVtU3RhdGUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlwYXJlbnQ6Ol9iZWZvcmUoKTsgLy8gVE9ETzogQ2hhbmdlIHRoZSBhdXRvZ2VuZXJhdGVkIHN0dWIK</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkkdGhpcy0+b3JkZXJTdG9yYWdlTW9jayA9IG06Om1vY2soT3JkZXJTdG9yYWdlOjpjbGFzcyk7CgkJJHRoaXMtPnBheW1lbnRTdG9yYWdlTW9jayA9IG06Om1vY2soUGF5bWVudFN0b3JhZ2U6OmNsYXNzKTsKCQkkdGhpcy0+dHJhbnNTdG9yYWdlU3R1YiA9IG06Om1vY2soVHJhbnNhY3Rpb25GaXJzdERhdGFTdG9yYWdlOjpjbGFzcyk7Cg==</text>
+        <text encoding="base64">CQkJCXRocm93IG5ldyBcRXhjZXB0aW9uKCdDaGFuZ2UgdHJpcCBhbmQgaXRlbSBzdGF0ZSBmYWlsZWQnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlvcmQoJHN0cmluZykK</text>
+        <text encoding="base64">CQkJZWxzZSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCSR0aGlzLT50cmlwU3RhdGVTdG9yYWdlLT5jaGFuZ2VUcmlwQXBwcm92YWxTdGF0ZSgkZGVjaXNpb24pOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJaWYgKCRkZWNpc2lvbi0+aXNTdWNjZXNzKCkpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJJGRlY2lzaW9uID0gJHRoaXMtPnRyaXBTdGF0ZURlY2lkZXItPmNhbmNlbFBheSgkdHJpcEl0ZW0tPmdldFRyaXBJZCgpLCAkdHJpcEl0ZW0tPmdldElkKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

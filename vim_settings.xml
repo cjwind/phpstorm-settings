@@ -117,8 +117,8 @@
         <mark key="^" line="507" column="50" />
       </file>
       <file name="D:/source/Navisteps/backend/db/migrations/20200312025346_add_ancillary_services_column_in_flight.php" timestamp="1591246919863" />
-      <file name="D:/source/Navisteps/.env" timestamp="1591257854167">
-        <mark key="'" line="22" column="16" />
+      <file name="D:/source/Navisteps/.env" timestamp="1591261047042">
+        <mark key="'" line="60" column="19" />
         <mark key="[" line="31" column="14" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -187,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="35" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
       <jump line="68" column="12" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
       <jump line="85" column="0" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
       <jump line="71" column="0" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
@@ -287,6 +286,7 @@
       <jump line="40" column="52" filename="D:/source/Navisteps/backend/tests/unit/features/payment/TripItemFirstDataPayerTest.php" />
       <jump line="128" column="12" filename="D:/source/Navisteps/backend/features/payment/TripItemFirstDataPayer.php" />
       <jump line="35" column="20" filename="D:/source/Navisteps/backend/tests/unit/features/payment/TripItemFirstDataPayerTest.php" />
+      <jump line="60" column="19" filename="D:/source/Navisteps/.env" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">

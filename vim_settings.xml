@@ -102,60 +102,51 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/source/utb/payment/firstData/webService/FirstDataCreditCardFactory.php" timestamp="1591158767920">
-        <mark key="[" line="22" column="26" />
-        <mark key="]" line="22" column="26" />
-        <mark key="^" line="43" column="43" />
-        <mark key="." line="22" column="26" />
-      </file>
-      <file name="D:/source/Navisteps/backend/commands/TestController.php" timestamp="1591158535201">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="142" column="33" />
-        <mark key="]" line="142" column="33" />
-        <mark key="." line="142" column="33" />
-      </file>
-      <file name="D:/source/TravelCorp/modules/api/flight/forms/FlightItineraryFilterForm.php" timestamp="1591180848278" />
-      <file name="D:/source/utb/payment/firstData/webService/FirstDataCreditCard.php" timestamp="1591158587057">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="13" column="59" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="/fragment.php" timestamp="1591166279293">
+      <file name="/a.dummy" timestamp="1591247110490">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+      </file>
+      <file name="D:/source/Navisteps/backend/db/migrations/20200312025346_add_ancillary_services_column_in_flight.php" timestamp="1591246919863" />
+      <file name="D:/source/Navisteps/backend/db/migrations/20200530173736_change_traveloka_booking_id_nullable.php" timestamp="1591246934194" />
+      <file name="D:/source/TravelCorp/modules/api/flight/forms/FlightItineraryFilterForm.php" timestamp="1591180848278" />
+      <file name="D:/source/Navisteps/backend/db/migrations/20200511075254_add_transaction_first_data.php" timestamp="1591246826516">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="65" column="32" />
+      </file>
+      <file name="D:/source/Navisteps/backend/utb/db/migrations/20200312025346_add_ancillary_services_column_in_flight.php" timestamp="1591246919103" />
+      <file name="D:/source/Navisteps/backend/utb/payment/firstData/webService/api/responses/CancelAuthResponse.php" timestamp="1591246663739">
+        <mark key="'" line="6" column="65" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="110" column="20" />
       </file>
       <file name="D:/source/TravelCorp/modules/api/controllers/FlightController.php" timestamp="1591180823721" />
-      <file name="D:/source/Navisteps/backend/features/payment/TripItemFirstDataPayer.php" timestamp="1591158500851">
-        <mark key="'" line="38" column="40" />
-        <mark key="[" line="116" column="77" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+      <file name="D:/source/Navisteps/backend/features/payment/TripItemFirstDataPayer.php" timestamp="1591247347581">
+        <mark key="'" line="33" column="81" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="33" column="66" />
       </file>
-      <file name="D:/source/utb/payment/firstData/connect/FirstDataRequestGeneratorFactory.php" timestamp="1591158428530" />
-      <file name="D:/source/Navisteps/backend/features/payment/storages/yiiActiveRecords/TransactionFirstData.php" timestamp="1591166401207">
-        <mark key="'" line="8" column="87" />
-        <mark key="[" line="38" column="39" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="7" column="70" />
-        <mark key="." line="34" column="0" />
+      <file name="D:/source/Navisteps/backend/utb/db/migrations/20200530173736_change_traveloka_booking_id_nullable.php" timestamp="1591246932059">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="8" column="23" />
       </file>
-      <file name="D:/source/Navisteps/backend/tests/unit/features/payment/storages/yiiStorages/TransactionFirstDataStorageTest.php" timestamp="1591166338368">
+      <file name="D:/source/Navisteps/backend/tests/unit/features/payment/storages/yiiStorages/TransactionFirstDataStorageTest.php" timestamp="1591247123393">
         <mark key="'" line="59" column="12" />
-        <mark key="[" line="152" column="42" />
-        <mark key="]" line="148" column="51" />
-        <mark key="^" line="148" column="51" />
-        <mark key="." line="148" column="50" />
+        <mark key="[" line="172" column="30" />
+        <mark key="]" line="142" column="52" />
+        <mark key="^" line="142" column="52" />
+        <mark key="." line="142" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591166313977">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/source/Navisteps/backend/db/migrations/20200604045807_makes_transaction_first_data_fields_nullable.php" timestamp="1591246837660">
+        <mark key="[" line="8" column="70" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="8" column="70" />
+        <mark key="^" line="8" column="70" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="23" filename="D:/source/Navisteps/backend/db/migrations/20200511075254_add_transaction_first_data.php" />
-      <jump line="77" column="12" filename="D:/source/Navisteps/backend/db/migrations/20200511075254_add_transaction_first_data.php" />
       <jump line="27" column="24" filename="D:/source/Navisteps/backend/db/migrations/20200511050259_add_payment.php" />
       <jump line="1" column="0" filename="D:/source/Navisteps/backend/features/payment/storages/yiiActiveRecords/TransactionFirstData.php" />
       <jump line="15" column="62" filename="D:/source/Navisteps/backend/features/payment/storages/yiiStorages/TransactionFirstDataStorage.php" />
@@ -254,51 +245,53 @@
       <jump line="9" column="29" filename="D:/source/Navisteps/backend/features/payment/storages/yiiActiveRecords/TransactionFirstData.php" />
       <jump line="35" column="40" filename="D:/source/Navisteps/backend/features/payment/TripItemFirstDataPayer.php" />
       <jump line="8" column="87" filename="D:/source/Navisteps/backend/features/payment/storages/yiiActiveRecords/TransactionFirstData.php" />
+      <jump line="6" column="65" filename="D:/source/Navisteps/backend/utb/payment/firstData/webService/api/responses/CancelAuthResponse.php" />
+      <jump line="33" column="81" filename="D:/source/Navisteps/backend/features/payment/TripItemFirstDataPayer.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>$string</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkkdGhpcy0+dHJhbnNTdG9yYWdlID0gbmV3IFRyYW5zYWN0aW9uRmlyc3REYXRhU3RvcmFnZSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>$string</text>
+        <text>time</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX01ZU1FMX0RTTlw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CQkkcGF5bWVudCA9IFBheW1lbnQ6OmZpbmQoKS0+d2hlcmUoWydpZCcgPT4gJGlkXSktPm9uZSgpOwoJCSRwYXltZW50LT5zdGF0dXMgPSBQYXltZW50OjpTVEFUVVNfUEFZSU5HOwoJCWlmICghJHBheW1lbnQtPnNhdmUoKSkgewoJCQl0aHJvdyBuZXcgQWN0aXZlUmVjb3JkU2F2ZUV4Y2VwdGlvbignRmFpbCB0byBjaGFuZ2UgcGF5bWVudCAnIC4gJGlkIC4gJyBzdGF0dXMgdG8gcGF5aW5nJyk7CgkJfQ==</text>
+        <text encoding="base64">CQkJCQkncHJlY2lzaW9uJyA9PiAxMiwKCQkJCQknc2NhbGUnID0+IDMs</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJJ1k6SE9TVE9LOjQ1MzUwMDYwMDg6UFBYIDowNTExMDcyMzY0NDQnCg==</text>
+        <text encoding="base64">CQkkdGhpcy0+dHJhbnNTdG9yYWdlID0gbmV3IFRyYW5zYWN0aW9uRmlyc3REYXRhU3RvcmFnZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJJzg0NTM1MDA2MDA4JywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJJ0MtYzJiOGM2ZWYtOTZmYS00NWNmLWJjODItYTBmOGM5OTM5MzMzJywK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJJzEuMDAnLAo=</text>
+        <text encoding="base64">ICAgICAqIHdpdGggdGhlIFRhYmxlIGNsYXNzLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJJ1NHRCcsCg==</text>
+        <text encoding="base64">ICAgICAqIFJlbWVtYmVyIHRvIGNhbGwgImNyZWF0ZSgpIiBvciAidXBkYXRlKCkiIGFuZCBOT1QgInNhdmUoKSIgd2hlbiB3b3JraW5nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJJ0ZBSUxFRCcsCg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJJ1k6SE9TVE9LOjQ1MzUwMDYwMDg6UFBYIDowNTExMDcyMzYyMjInCg==</text>
+        <text encoding="base64">ICAgICAqIHJvbGxiYWNrIHRoZSBtaWdyYXRpb24uCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJJzg0NTM1MDA2MDA4JywK</text>
+        <text encoding="base64">ICAgICAqIEFueSBvdGhlciBkZXN0cnVjdGl2ZSBjaGFuZ2VzIHdpbGwgcmVzdWx0IGluIGFuIGVycm9yIHdoZW4gdHJ5aW5nIHRvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJJ0MtYzJiOGM2ZWYtOTZmYS00NWNmLWJjODItYTBmOGM5OTM5MTExJywK</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

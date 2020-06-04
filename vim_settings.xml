@@ -117,6 +117,13 @@
         <mark key="^" line="507" column="50" />
       </file>
       <file name="D:/source/Navisteps/backend/db/migrations/20200312025346_add_ancillary_services_column_in_flight.php" timestamp="1591246919863" />
+      <file name="D:/source/Navisteps/.env" timestamp="1591257040504">
+        <mark key="'" line="22" column="16" />
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="1" />
+      </file>
       <file name="D:/source/Navisteps/backend/db/migrations/20200530173736_change_traveloka_booking_id_nullable.php" timestamp="1591246934194" />
       <file name="D:/source/TravelCorp/modules/api/flight/forms/FlightItineraryFilterForm.php" timestamp="1591180848278" />
       <file name="D:/source/Navisteps/backend/db/migrations/20200511075254_add_transaction_first_data.php" timestamp="1591246826516">
@@ -147,7 +154,6 @@
         <mark key="." line="111" column="0" />
         <mark key="^" line="110" column="20" />
       </file>
-      <file name="D:/source/TravelCorp/modules/api/controllers/FlightController.php" timestamp="1591180823721" />
       <file name="D:/source/Navisteps/backend/features/payment/TripItemFirstDataPayer.php" timestamp="1591255481460">
         <mark key="'" line="128" column="12" />
         <mark key="[" line="140" column="0" />

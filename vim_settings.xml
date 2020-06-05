@@ -102,18 +102,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/source/Navisteps/backend/commands/TestController.php" timestamp="1591266260910">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="155" column="62" />
-        <mark key="]" line="154" column="61" />
-        <mark key="." line="154" column="60" />
-        <mark key="^" line="154" column="61" />
+      <file name="D:/source/Navisteps/backend/commands/TestController.php" timestamp="1591326379969">
+        <mark key="'" line="130" column="20" />
+        <mark key="[" line="158" column="34" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="158" column="0" />
+        <mark key="^" line="158" column="30" />
       </file>
-      <file name="D:/source/utb/test/php/codeception.yml" timestamp="1591262703872">
-        <mark key="'" line="26" column="33" />
-        <mark key="[" line="53" column="23" />
-        <mark key="]" line="53" column="23" />
-        <mark key="." line="53" column="23" />
+      <file name="D:/source/Navisteps/backend/features/payment/TripItemFirstDataPayCancelerFactory.php" timestamp="1591325917748">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="24" column="29" />
       </file>
       <file name="D:/source/Navisteps/.env" timestamp="1591263540714">
         <mark key="'" line="83" column="0" />
@@ -130,12 +130,21 @@
         <mark key="^" line="113" column="40" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="D:/source/Navisteps/backend/features/payment/TripItemNPayPayer.php" timestamp="1591254724106">
-        <mark key="'" line="7" column="22" />
+      <file name="/fragment.php" timestamp="1591326019490">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="D:/source/Navisteps/backend/base/WebController.php" timestamp="1591264578007">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="24" column="5" />
+      </file>
+      <file name="D:/source/Navisteps/backend/utb/payment/firstData/webService/FirstDataCreditCardFactory.php" timestamp="1591326054112">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="43" column="24" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="D:/source/Navisteps/backend/config/web.php" timestamp="1591264625759">
         <mark key="[" line="30" column="0" />
@@ -190,13 +199,7 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="19" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591267041580">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/source/Navisteps/backend/config/container.php" timestamp="1591264566950" />
-      <file name="D:/source/utb/test/php/tests/_support/factory/ChannelSettingFactory.php" timestamp="1591262839146" />
     </filemarks>
     <jumps>
       <jump line="59" column="8" filename="D:/source/Navisteps/backend/tests/unit/controllers/app/TripItemControllerTest.php" />
@@ -251,7 +254,6 @@
       <jump line="87" column="13" filename="D:/source/Navisteps/backend/config/console.php" />
       <jump line="129" column="29" filename="D:/source/Navisteps/backend/commands/TestController.php" />
       <jump line="4" column="0" filename="D:/source/Navisteps/backend/commands/TestController.php" />
-      <jump line="130" column="96" filename="D:/source/Navisteps/backend/commands/TestController.php" />
       <jump line="0" column="0" filename="D:/source/Navisteps/backend/commands/TestController.php" />
       <jump line="126" column="37" filename="D:/source/Navisteps/backend/config/test.php" />
       <jump line="312" column="50" filename="D:/source/Navisteps/backend/controllers/app/TripItemController.php" />
@@ -299,55 +301,54 @@
       <jump line="54" column="0" filename="D:/source/Navisteps/backend/features/payment/TripItemFirstDataPayCanceler.php" />
       <jump line="65" column="5" filename="D:/source/Navisteps/backend/features/payment/TripItemFirstDataPayer.php" />
       <jump line="44" column="0" filename="D:/source/Navisteps/backend/features/payment/TripItemFirstDataPayCanceler.php" />
+      <jump line="130" column="20" filename="D:/source/Navisteps/backend/commands/TestController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>CancelAuthResponse implement FirstDataTransactionInterface to provide data to storage
-
-Remove some unused functions also</text>
+        <text encoding="base64">CQlUcmlwOjpmaW5kKCktPndoZXJlKFsnJ10pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX01ZU1FMX0RTTlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiBiaW5kQWN0aW9uUGFyYW1zKCRhY3Rpb24sICRwYXJhbXMpIHsKCQlpZiAoJGFjdGlvbiBpbnN0YW5jZW9mIElubGluZUFjdGlvbikgewoJCQkkbWV0aG9kID0gbmV3IFxSZWZsZWN0aW9uTWV0aG9kKCR0aGlzLCAkYWN0aW9uLT5hY3Rpb25NZXRob2QpOwoJCX0KCQllbHNlIHsKCQkJJG1ldGhvZCA9IG5ldyBcUmVmbGVjdGlvbk1ldGhvZCgkYWN0aW9uLCAncnVuJyk7CgkJfQoKCQlmb3JlYWNoICgkbWV0aG9kLT5nZXRQYXJhbWV0ZXJzKCkgYXMgJHBhcmFtKSB7CgkJCSRjbGFzcyA9ICRwYXJhbS0+Z2V0Q2xhc3MoKTsKCgkJCWlmICgkY2xhc3MgJiYgISRwYXJhbS0+aXNEZWZhdWx0VmFsdWVBdmFpbGFibGUoKSkgewoJCQkJJHBhcmFtc1skcGFyYW0tPmdldE5hbWUoKV0gPSBZaWk6OmNyZWF0ZU9iamVjdCgkY2xhc3MtPmdldE5hbWUoKSk7CgkJCX0KCQl9CgoJCXJldHVybiBwYXJlbnQ6OmJpbmRBY3Rpb25QYXJhbXMoJGFjdGlvbiwgJHBhcmFtcyk7Cgl9Cg==</text>
+      <register name="0" type="4">
+        <text>Yii::getAlias('@app/cert/WS4500001875._.1.pem')</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQlUcmlwOjpmaW5kKCktPndoZXJlKFsnJ10pCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQllY2hvICRjYW5jZWxUcmFuc0lkOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8JCSRwYXllciA9IFlpaTo6Y3JlYXRlT2JqZWN0KFRyaXBJdGVtRmlyc3REYXRhUGF5ZXI6OmNsYXNzKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCSRjaGFubmVsU2V0dGluZy0+YXBpU2V0dGluZ1snd2ViU2VydmljZSddWydwa1BhdGgnXSwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCSRjaGFubmVsU2V0dGluZy0+YXBpU2V0dGluZ1snd2ViU2VydmljZSddWydjZXJ0UGF0aCddLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkvLyBUT0RPIGknbSBoZXJlLCBjZXJ0IHBhdGggwLO407FxpX6tsbNdtmmlaCwgpKOsT6ZZIGNoYW5uZWwgc2V0dGluZwo=</text>
+      </register>
+      <register name="7" type="2">
         <text>CancelAuthResponse implement FirstDataTransactionInterface to provide data to storage
 
 Remove some unused functions also</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">CS8qKgoJICogQHZhciBGaXJzdERhdGFDcmVkaXRDYXJkRmFjdG9yeQoJICovCglwcml2YXRlICRjaGFubmVsRmFjdG9yeTsKCS8qKgoJICogQHZhciBUcmFuc2FjdGlvbkZpcnN0RGF0YVN0b3JhZ2UKCSAqLwoJcHJpdmF0ZSAkdHJhbnNTdG9yYWdlOwoJLyoqCgkgKiBAdmFyIFBheW1lbnRTdG9yYWdlCgkgKi8KCXByaXZhdGUgJHBheW1lbnRTdG9yYWdlOwoJLyoqCgkgKiBAdmFyIE9yZGVyU3RvcmFnZQoJICovCglwcml2YXRlICRvcmRlclN0b3JhZ2U7CgkvKioKCSAqIEB2YXIgVHJpcEFwcHJvdmFsU3RhdGVEZWNpZGVyCgkgKi8KCXByaXZhdGUgJHRyaXBTdGF0ZURlY2lkZXI7CgkvKioKCSAqIEB2YXIgVHJpcEFwcHJvdmFsU3RhdGVTdG9yYWdlCgkgKi8KCXByaXZhdGUgJHRyaXBTdGF0ZVN0b3JhZ2U7</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CQkkdGhpcy0+Y2hhbm5lbEZhY3RvcnkgPSAkY2hhbm5lbEZhY3Rvcnk7CgkJJHRoaXMtPnRyYW5zU3RvcmFnZSA9ICR0cmFuc1N0b3JhZ2U7CgkJJHRoaXMtPnBheW1lbnRTdG9yYWdlID0gJHBheW1lbnRTdG9yYWdlOwoJCSR0aGlzLT5vcmRlclN0b3JhZ2UgPSAkb3JkZXJTdG9yYWdlOwoJCSR0aGlzLT50cmlwU3RhdGVEZWNpZGVyID0gJHRyaXBTdGF0ZURlY2lkZXI7CgkJJHRoaXMtPnRyaXBTdGF0ZVN0b3JhZ2UgPSAkdHJpcFN0YXRlU3RvcmFnZTs=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ci8vCXB1YmxpYyBmdW5jdGlvbiBjYW5jZWxQYXkoSVRyaXBJdGVtRGFvICR0cmlwSXRlbSkgewovLwkJJHBheW1lbnQgPSAkdGhpcy0+cGF5bWVudFN0b3JhZ2UtPmZpbmRCeU9yZGVySWQoJHRyaXBJdGVtLT5nZXRPcmRlcklkKCkpOwovLwkJJHRyYW5zYWN0aW9uID0gJHRoaXMtPnRyYW5zU3RvcmFnZS0+ZmluZExhc3RBdXRoVHJhbnNhY3Rpb24oJHBheW1lbnQtPmdldElkKCkpOwovLwovLwkJJGNoYW5uZWwgPSAkdGhpcy0+Y2hhbm5lbEZhY3RvcnktPmNyZWF0ZUNoYW5uZWwoJHRoaXMtPnRyYW5zU3RvcmFnZSk7Ci8vCQkkY2FuY2VsVHJhbnNJZCA9ICRjaGFubmVsLT5jYW5jZWxBdXRoKCR0cmFuc2FjdGlvbi0+Z2V0SWQoKSk7Ci8vCQkkY2FuY2VsVHJhbnNhY3Rpb24gPSAkdGhpcy0+dHJhbnNTdG9yYWdlLT5maW5kQnlJZCgkY2FuY2VsVHJhbnNJZCk7Ci8vCi8vCQlpZiAoJGNhbmNlbFRyYW5zYWN0aW9uLT5pc1N1Y2Nlc3MoKSkgewovLwkJCSR0aGlzLT5wYXltZW50U3RvcmFnZS0+Y2hhbmdlUGF5bWVudFRvQ2FuY2VsZWQoJHBheW1lbnQpOwovLwkJCSR0aGlzLT5vcmRlclN0b3JhZ2UtPmNoYW5nZVN0YXR1c1RvRmFpbGVkKCR0cmlwSXRlbS0+Z2V0T3JkZXJJZCgpKTsKLy8JCX0KLy8JCWVsc2UgewovLwkJCSR0aGlzLT5vcmRlclN0b3JhZ2UtPmNoYW5nZVN0YXR1c1RvRmFpbGVkKCR0cmlwSXRlbS0+Z2V0T3JkZXJJZCgpKTsKLy8JCQkkdGhpcy0+b3JkZXJTdG9yYWdlLT5zZXROZWVkTWFudWFsQ2hlY2soJHRyaXBJdGVtLT5nZXRPcmRlcklkKCksIHRydWUpOwovLwkJfQovLwovLwkJJGRlY2lzaW9uID0gJHRoaXMtPnRyaXBTdGF0ZURlY2lkZXItPmNhbmNlbFBheSgkdHJpcEl0ZW0tPmdldFRyaXBJZCgpLCAkdHJpcEl0ZW0tPmdldElkKCkpOwovLwkJaWYgKCRkZWNpc2lvbi0+aXNTdWNjZXNzKCkpIHsKLy8JCQkkdGhpcy0+dHJpcFN0YXRlU3RvcmFnZS0+Y2hhbmdlVHJpcEFwcHJvdmFsU3RhdGUoJGRlY2lzaW9uKTsKLy8JCX0KLy8JCWVsc2UgewovLwkJCXRocm93IG5ldyBcRXhjZXB0aW9uKCdDaGFuZ2UgdHJpcCBhbmQgaXRlbSBzdGF0ZSBmYWlsZWQnKTsKLy8JCX0KLy8JfQ==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8JCVRyaXBBcHByb3ZhbFN0YXRlU3RvcmFnZSAkdHJpcFN0YXRlU3RvcmFnZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8JCVBheW1lbnRTdG9yYWdlICRwYXltZW50U3RvcmFnZSwgT3JkZXJTdG9yYWdlICRvcmRlclN0b3JhZ2UsIFRyaXBBcHByb3ZhbFN0YXRlRGVjaWRlciAkdHJpcFN0YXRlRGVjaWRlciwK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CS8qKgoJICogQHZhciBGaXJzdERhdGFDcmVkaXRDYXJkRmFjdG9yeQoJICovCglwcml2YXRlICRjaGFubmVsRmFjdG9yeTsKCS8qKgoJICogQHZhciBUcmFuc2FjdGlvbkZpcnN0RGF0YVN0b3JhZ2UKCSAqLwoJcHJpdmF0ZSAkdHJhbnNTdG9yYWdlOwoJLyoqCgkgKiBAdmFyIFBheW1lbnRTdG9yYWdlCgkgKi8KCXByaXZhdGUgJHBheW1lbnRTdG9yYWdlOwoJLyoqCgkgKiBAdmFyIE9yZGVyU3RvcmFnZQoJICovCglwcml2YXRlICRvcmRlclN0b3JhZ2U7CgkvKioKCSAqIEB2YXIgVHJpcEFwcHJvdmFsU3RhdGVEZWNpZGVyCgkgKi8KCXByaXZhdGUgJHRyaXBTdGF0ZURlY2lkZXI7CgkvKioKCSAqIEB2YXIgVHJpcEFwcHJvdmFsU3RhdGVTdG9yYWdlCgkgKi8KCXByaXZhdGUgJHRyaXBTdGF0ZVN0b3JhZ2U7</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

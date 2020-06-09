@@ -128,6 +128,7 @@
         <mark key="[" line="64" column="0" />
         <mark key="]" line="65" column="32" />
       </file>
+      <file name="D:/source/Navisteps/backend/db/migrations/20200511050259_add_payment.php" timestamp="1591352304873" />
       <file name="D:/source/utb/models/SlackHelper.php" timestamp="1591349781285" />
       <file name="D:/source/Navisteps/backend/db/migrations/20200518070400_add_oid_to_transaction_first_data.php" timestamp="1591330046703" />
       <file name="/fragment.php" timestamp="1591349143138">
@@ -172,11 +173,6 @@
         <mark key="]" line="66" column="36" />
         <mark key="." line="66" column="36" />
         <mark key="^" line="51" column="35" />
-      </file>
-      <file name="D:/source/Navisteps/backend/features/payment/TripItemFirstDataPayerFactory.php" timestamp="1591266929506">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="D:/source/Navisteps/openapi/openapi.yaml" timestamp="1591330536329">
         <mark key="[" line="1905" column="49" />

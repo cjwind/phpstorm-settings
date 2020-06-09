@@ -102,13 +102,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/source/Navisteps/backend/commands/TestController.php" timestamp="1591328261585">
-        <mark key="'" line="130" column="20" />
-        <mark key="[" line="157" column="10" />
-        <mark key="]" line="155" column="32" />
-        <mark key="." line="155" column="32" />
-        <mark key="^" line="158" column="30" />
-      </file>
       <file name="D:/source/Navisteps/backend/features/payment/TripItemFirstDataPayCancelerFactory.php" timestamp="1591340489524">
         <mark key="'" line="19" column="49" />
         <mark key="[" line="23" column="0" />
@@ -133,10 +126,10 @@
       </file>
       <file name="D:/source/Navisteps/backend/db/migrations/20200511050259_add_payment.php" timestamp="1591352304873" />
       <file name="D:/source/utb/models/SlackHelper.php" timestamp="1591349781285" />
-      <file name="D:/source/DigitalTravel/backend/utb/payment/wirecard/WirecardCreditCardWpp2Api.php" timestamp="1591685272368">
-        <mark key="[" line="91" column="45" />
-        <mark key="]" line="91" column="45" />
-        <mark key="." line="91" column="45" />
+      <file name="D:/source/DigitalTravel/backend/utb/payment/wirecard/WirecardCreditCardWpp2Api.php" timestamp="1591686977219">
+        <mark key="[" line="31" column="42" />
+        <mark key="]" line="31" column="43" />
+        <mark key="." line="31" column="43" />
       </file>
       <file name="D:/source/Navisteps/backend/db/migrations/20200518070400_add_oid_to_transaction_first_data.php" timestamp="1591330046703" />
       <file name="/fragment.php" timestamp="1591349143138">
@@ -176,6 +169,7 @@
         <mark key="." line="1905" column="50" />
         <mark key="^" line="1905" column="51" />
       </file>
+      <file name="D:/source/DigitalTravel/backend/vendor/guzzlehttp/psr7/src/Request.php" timestamp="1591686874014" />
       <file name="D:/source/Navisteps/backend/config/routes.php" timestamp="1591341409672" />
       <file name="/Dummy.txt" timestamp="1591685549982">
         <mark key="[" line="0" column="0" />
@@ -293,10 +287,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>,        // 現在會死在這裡, wirecard 會回 duplicated request, 感覺是沒有好好送這個值出去</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>,        // 現在會死在這裡, wirecard 會回 duplicated request, 感覺是沒有好好送這個值出去</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX01ZU1FMX0RTTlw+</text>
@@ -305,34 +299,34 @@
         <text encoding="base64">Ly8JCQknaHR0cHM6Ly93cHAtdGVzdC53aXJlY2FyZC5jb20vYXBpL3BheW1lbnQvcmVnaXN0ZXInLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCS8vIHsiZm9vIjoiYmFyIn0K</text>
+        <text encoding="base64">CQkJCWVjaG8gJHJlcXVlc3QtPmdldEhlYWRlckxpbmUoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCS8vIGFwcGxpY2F0aW9uL2pzb24K</text>
+        <text encoding="base64">CQkJCS8vIHsiZm9vIjoiYmFyIn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkkcmVxdWVzdC0+Cg==</text>
+        <text encoding="base64">CQkJCS8vIGFwcGxpY2F0aW9uL2pzb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkkdGhpcy0+bWVyY2hhbnRJZCA9IDsK</text>
+        <text encoding="base64">CQkkcmVxdWVzdC0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQknQWNjZXB0LUVuY29kaW5nJyA9PiAnZ3ppcCxkZWZsYXRlJywK</text>
+        <text encoding="base64">CQkkdGhpcy0+bWVyY2hhbnRJZCA9IDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAqLwo=</text>
+        <text encoding="base64">CQkJCQknQWNjZXB0LUVuY29kaW5nJyA9PiAnZ3ppcCxkZWZsYXRlJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAqIEB2YXIgQ2xpZW50Cg==</text>
+        <text encoding="base64">CSAqLwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8qKgo=</text>
+        <text encoding="base64">CSAqIEB2YXIgQ2xpZW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlUcmlwOjpmaW5kKCktPndoZXJlKFsnJ10pCg==</text>
+        <text encoding="base64">CS8qKgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

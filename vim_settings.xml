@@ -26,6 +26,8 @@
         <entry>201</entry>
         <entry>68</entry>
         <entry>$</entry>
+        <entry>set rnum</entry>
+        <entry>set rnu</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -117,22 +119,24 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="28" />
       </file>
-      <file name="D:/source/Navisteps/backend/db/migrations/20200511075254_add_transaction_first_data.php" timestamp="1591330009140">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="65" column="32" />
+      <file name="D:/source/DigitalTravel/backend/config/routes.php" timestamp="1591693843620">
+        <mark key="'" line="290" column="4" />
+        <mark key="[" line="325" column="18" />
+        <mark key="]" line="325" column="18" />
+        <mark key="." line="325" column="18" />
+        <mark key="^" line="324" column="22" />
       </file>
       <file name="D:/source/DigitalTravel/backend/commands/TestController.php" timestamp="1591685560086">
         <mark key="[" line="4" column="19" />
       </file>
       <file name="D:/source/Navisteps/backend/db/migrations/20200511050259_add_payment.php" timestamp="1591352304873" />
       <file name="D:/source/utb/models/SlackHelper.php" timestamp="1591349781285" />
-      <file name="D:/source/DigitalTravel/backend/utb/payment/wirecard/WirecardCreditCardWpp2Api.php" timestamp="1591686977219">
+      <file name="D:/source/DigitalTravel/backend/utb/payment/wirecard/WirecardCreditCardWpp2Api.php" timestamp="1591691226588">
         <mark key="[" line="31" column="42" />
         <mark key="]" line="31" column="43" />
         <mark key="." line="31" column="43" />
       </file>
-      <file name="D:/source/Navisteps/backend/db/migrations/20200518070400_add_oid_to_transaction_first_data.php" timestamp="1591330046703" />
-      <file name="/fragment.php" timestamp="1591349143138">
+      <file name="/fragment.php" timestamp="1591692419501">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -141,14 +145,20 @@
       <file name="D:/source/utb/WirecardCreditCardWpp2ApiTest.php" timestamp="1591345792164">
         <mark key="[" line="9" column="27" />
       </file>
+      <file name="D:/source/DigitalTravel/backend/controllers/app/TestController.php" timestamp="1591694556575">
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="13" column="68" />
+        <mark key="." line="13" column="68" />
+        <mark key="^" line="5" column="0" />
+      </file>
       <file name="D:/source/Navisteps/backend/utb/flight/traveloka/channels/Traveloka.php" timestamp="1591341474175">
         <mark key="'" line="57" column="40" />
       </file>
-      <file name="D:/source/utb/test/php/tests/unit/payment/WirecardCreditCardWpp2ApiTest.php" timestamp="1591685590613">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+      <file name="D:/source/utb/test/php/tests/unit/payment/WirecardCreditCardWpp2ApiTest.php" timestamp="1591693426666">
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="12" column="24" />
       </file>
       <file name="D:/source/Navisteps/backend/features/payment/TripItemFirstDataPayCanceler.php" timestamp="1591341387634">
         <mark key="'" line="45" column="0" />
@@ -156,29 +166,25 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="D:/source/utb/payment/wirecard/WirecardCreditCardWpp2Api.php" timestamp="1591685576156">
+      <file name="D:/source/utb/payment/wirecard/WirecardCreditCardWpp2Api.php" timestamp="1591693376133">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="68" column="26" />
-        <mark key="]" line="68" column="17" />
-        <mark key="." line="68" column="17" />
-        <mark key="^" line="59" column="32" />
+        <mark key="[" line="43" column="41" />
+        <mark key="]" line="43" column="41" />
+        <mark key="." line="43" column="41" />
+        <mark key="^" line="43" column="65" />
       </file>
-      <file name="D:/source/Navisteps/openapi/openapi.yaml" timestamp="1591330536329">
-        <mark key="[" line="1905" column="49" />
-        <mark key="]" line="1905" column="50" />
-        <mark key="." line="1905" column="50" />
-        <mark key="^" line="1905" column="51" />
+      <file name="D:/source/utb/payment/wirecard/WirecardWpp2CallbackUrl.php" timestamp="1591693293019">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="17" column="74" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="D:/source/DigitalTravel/backend/vendor/guzzlehttp/psr7/src/Request.php" timestamp="1591686874014" />
       <file name="D:/source/Navisteps/backend/config/routes.php" timestamp="1591341409672" />
-      <file name="/Dummy.txt" timestamp="1591685549982">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/source/Navisteps/backend/db/migrations/20200604045807_makes_transaction_first_data_fields_nullable.php" timestamp="1591330013830">
-        <mark key="[" line="7" column="64" />
-        <mark key="]" line="17" column="46" />
-        <mark key="." line="17" column="45" />
-        <mark key="^" line="17" column="46" />
+      <file name="D:/source/utb/payment/wirecard/WirecardCallbackUrl.php" timestamp="1591693174626">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -287,10 +293,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>,        // 現在會死在這裡, wirecard 會回 duplicated request, 感覺是沒有好好送這個值出去</text>
+        <text>$merchantSecreyKey</text>
       </register>
       <register name="-" type="4">
-        <text>,        // 現在會死在這裡, wirecard 會回 duplicated request, 感覺是沒有好好送這個值出去</text>
+        <text>$merchantSecreyKey</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX01ZU1FMX0RTTlw+</text>
@@ -299,34 +305,34 @@
         <text encoding="base64">Ly8JCQknaHR0cHM6Ly93cHAtdGVzdC53aXJlY2FyZC5jb20vYXBpL3BheW1lbnQvcmVnaXN0ZXInLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWVjaG8gJHJlcXVlc3QtPmdldEhlYWRlckxpbmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZXhwcmVzc2lvbik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCS8vIHsiZm9vIjoiYmFyIn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCS8vIGFwcGxpY2F0aW9uL2pzb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkkcmVxdWVzdC0+Cg==</text>
+        <text encoding="base64">cHJpdmF0ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkkdGhpcy0+bWVyY2hhbnRJZCA9IDsK</text>
+        <text encoding="base64">CQkkdGhpcy0+dXNlcm5hbWUgPSAkdXNlcm5hbWU7CgkJJHRoaXMtPnBhc3N3b3JkID0gJHBhc3N3b3JkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQknQWNjZXB0LUVuY29kaW5nJyA9PiAnZ3ppcCxkZWZsYXRlJywK</text>
+        <text encoding="base64">CXByaXZhdGUgJHBhc3N3b3JkOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAqLwo=</text>
+        <text encoding="base64">CS8qKgoJICogQHZhciBzdHJpbmcKCSAqLwoJcHJpdmF0ZSAkdXNlcm5hbWU7CgkvKioKCSAqIEB2YXIgc3RyaW5nCgkgKi8K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAqIEB2YXIgQ2xpZW50Cg==</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8qKgo=</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkYm9keSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

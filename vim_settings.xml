@@ -12,7 +12,6 @@
         <entry>public</entry>
       </history-search>
       <history-cmd>
-        <entry>4</entry>
         <entry>2</entry>
         <entry>50</entry>
         <entry>279</entry>
@@ -22,16 +21,17 @@
         <entry>set rnum</entry>
         <entry>set rnu</entry>
         <entry>source C:\Users\cjw\.ideavimrc</entry>
-        <entry>action GotoNextError</entry>
         <entry encoding="base64">c291cmNlIEM6XFVzZXJzXGNqd1wuaWRlYXZpbXJjIA==</entry>
         <entry encoding="base64">JzwsJz4=</entry>
-        <entry>w</entry>
         <entry>$</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>action IntroduceParameter</entry>
+        <entry>action FileStructurePopup</entry>
         <entry>action ReformatCode</entry>
         <entry>action Rerun</entry>
-        <entry>action FileStructurePopup</entry>
+        <entry>6</entry>
+        <entry>action GotoNextError</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -110,25 +110,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1591869218873">
-        <mark key="'" line="99" column="38" />
-        <mark key="[" line="41" column="61" />
-        <mark key="]" line="41" column="61" />
-        <mark key="." line="41" column="61" />
-        <mark key="^" line="39" column="1" />
-      </file>
       <file name="/a.dummy" timestamp="1592283299187">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/source/DigitalTravel/openapi/openapi.yaml" timestamp="1591870370097">
-        <mark key="[" line="5772" column="0" />
+      <file name="D:/source/DigitalTravel/backend/payment/storage/yiiActiveRecord/Payment.php" timestamp="1592288850561">
+        <mark key="[" line="1" column="40" />
       </file>
-      <file name="D:/source/utb/test/php/codeception.yml" timestamp="1592277167449" />
       <file name="D:/source/utb/payment/PaymentWrapper.php" timestamp="1592283556492">
         <mark key="[" line="309" column="76" />
         <mark key="]" line="309" column="76" />
         <mark key="^" line="309" column="77" />
         <mark key="." line="309" column="76" />
+      </file>
+      <file name="D:/source/DigitalTravel/backend/storage/yiiStorages/ChannelSettingStorage.php" timestamp="1592287320363">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="D:/source/DigitalTravel/backend/controllers/app/TestController.php" timestamp="1592284225287">
         <mark key="[" line="11" column="17" />
@@ -136,22 +133,19 @@
         <mark key="^" line="15" column="23" />
         <mark key="." line="11" column="8" />
       </file>
-      <file name="D:/source/utb/test/php/tests/unit/payment/wirecard/WirecardCreditCardWpp2ApiTest.php" timestamp="1592276760592" />
-      <file name="D:/source/utb/test/php/tests/unit/payment/WirecardCreditCardWpp2ApiTest.php" timestamp="1591869204006">
-        <mark key="b" line="35" column="0" />
-        <mark key="'" line="35" column="4" />
-        <mark key="[" line="8" column="44" />
-        <mark key="]" line="21" column="10" />
-        <mark key="." line="21" column="9" />
-        <mark key="^" line="21" column="10" />
+      <file name="D:/source/DigitalTravel/backend/payment/WirecardPayerFactory.php" timestamp="1592288649937">
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="11" column="45" />
+        <mark key="^" line="11" column="45" />
+        <mark key="." line="11" column="44" />
       </file>
       <file name="D:/source/TravelCorp/utb/flight/rebate/rebateCriteria/PtcCriteria.php" timestamp="1592279438785" />
-      <file name="D:/source/DigitalTravel/backend/controllers/app/PaymentController.php" timestamp="1592284236707">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="35" column="24" />
-        <mark key="]" line="24" column="48" />
-        <mark key="^" line="24" column="48" />
-        <mark key="." line="24" column="47" />
+      <file name="D:/source/DigitalTravel/backend/controllers/app/PaymentController.php" timestamp="1592288588568">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="25" column="82" />
+        <mark key="]" line="25" column="87" />
+        <mark key="^" line="25" column="87" />
+        <mark key="." line="25" column="86" />
       </file>
       <file name="D:/source/utb/payment/wirecard/WirecardCreditCardWpp2Payer.php" timestamp="1592281598168">
         <mark key="'" line="35" column="20" />
@@ -160,7 +154,7 @@
         <mark key="^" line="38" column="23" />
         <mark key="." line="38" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592283687861">
+      <file name="/Dummy.txt" timestamp="1592288834451">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/source/utb/test/php/tests/unit/payment/wirecard/WirecardCreditCardWpp2PayerTest.php" timestamp="1592283316940">
@@ -171,7 +165,7 @@
         <mark key="." line="170" column="31" />
         <mark key="^" line="170" column="32" />
       </file>
-      <file name="/fragment.php" timestamp="1591867787427">
+      <file name="/fragment.php" timestamp="1592287703856">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -186,11 +180,15 @@
         <mark key="." line="460" column="0" />
         <mark key="^" line="460" column="0" />
       </file>
-      <file name="D:/source/utb/payment/wirecard/WirecardCreditCardWpp2Api.php" timestamp="1592276754044">
-        <mark key="'" line="69" column="47" />
-        <mark key="[" line="25" column="0" />
+      <file name="D:/source/utb/storage/yiiActiveRecords/ChannelSetting.php" timestamp="1592287409154">
+        <mark key="[" line="31" column="77" />
+      </file>
+      <file name="D:/source/DigitalTravel/backend/payment/WirecardChannelFactory.php" timestamp="1592287771737">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="9" column="7" />
         <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+        <mark key="." line="23" column="33" />
+        <mark key="^" line="25" column="32" />
       </file>
       <file name="D:/source/utb/payment/storage/yiiStorages/PaymentStorage.php" timestamp="1592283696174">
         <mark key="[" line="55" column="46" />
@@ -198,16 +196,14 @@
         <mark key="^" line="55" column="53" />
         <mark key="." line="55" column="52" />
       </file>
+      <file name="D:/source/DigitalTravel/backend/payment/storage/yiiStorage/PaymentStorage.php" timestamp="1592288848241">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="0" filename="D:/source/Navisteps/backend/controllers/app/TripItemController.php" />
-      <jump line="268" column="0" filename="D:/source/Navisteps/backend/controllers/app/TripItemController.php" />
-      <jump line="276" column="0" filename="D:/source/Navisteps/backend/controllers/app/TripItemController.php" />
-      <jump line="280" column="0" filename="D:/source/Navisteps/backend/controllers/app/TripItemController.php" />
-      <jump line="7" column="6" filename="D:/source/Navisteps/backend/features/payment/storages/yiiActiveRecords/Payment.php" />
-      <jump line="91" column="0" filename="D:/source/Navisteps/backend/controllers/app/CreditCardController.php" />
-      <jump line="0" column="0" filename="/Dummy.txt" />
-      <jump line="44" column="0" filename="D:/source/Navisteps/backend/controllers/app/FirstDataController.php" />
       <jump line="89" column="8" filename="D:/source/Navisteps/backend/controllers/app/FirstDataController.php" />
       <jump line="48" column="11" filename="D:/source/Navisteps/backend/utb/payment/storage/yiiActiveRecords/Payment.php" />
       <jump line="46" column="0" filename="D:/source/utb/payment/firstData/connect/FirstDataRequestGenerator.php" />
@@ -300,6 +296,14 @@
       <jump line="113" column="4" filename="D:/source/utb/test/php/tests/unit/payment/wirecard/WirecardCreditCardWpp2PayerTest.php" />
       <jump line="128" column="4" filename="D:/source/utb/test/php/tests/unit/payment/wirecard/WirecardCreditCardWpp2PayerTest.php" />
       <jump line="4" column="0" filename="D:/source/DigitalTravel/backend/controllers/app/PaymentController.php" />
+      <jump line="1" column="20" filename="D:/source/DigitalTravel/backend/payment/WirecardChannelFactory.php" />
+      <jump line="2" column="0" filename="D:/source/DigitalTravel/backend/payment/WirecardChannelFactory.php" />
+      <jump line="26" column="47" filename="D:/source/DigitalTravel/backend/controllers/app/PaymentController.php" />
+      <jump line="30" column="0" filename="D:/source/DigitalTravel/backend/controllers/app/PaymentController.php" />
+      <jump line="0" column="0" filename="D:/source/DigitalTravel/backend/payment/storage/yiiStorage/PaymentStorage.php" />
+      <jump line="1" column="0" filename="D:/source/DigitalTravel/backend/payment/storage/yiiStorage/PaymentStorage.php" />
+      <jump line="4" column="0" filename="D:/source/DigitalTravel/backend/payment/storage/yiiStorage/PaymentStorage.php" />
+      <jump line="21" column="0" filename="D:/source/DigitalTravel/backend/payment/storage/yiiStorage/PaymentStorage.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -313,50 +317,50 @@
       <register name="b" type="4">
         <text encoding="base64">ZnVuY3Rpb24gdGVzdFBheV9GYWlsZWRQYXltZW50RXhpc3RlZCgpIHsKCQkkdGhpcy0+Z2l2ZW5DYWxsYmFja1VybCgpOwoJCSR0aGlzLT5naXZlbkZhaWxlZFBheW1lbnQoMSk7CgoJCSR0aGlzLT53aGVuUGF5KCk7CgoJCSR0aGlzLT5zaG91bGRBdXRoV2l0aFBheW1lbnRJZEFuZENhbGxiYWNrVXJsKDEpOwoJfQo=</text>
       </register>
-      <register name="*" type="4">
-        <text>echo</text>
+      <register name="*" type="2">
+        <text encoding="base64">CQl0aHJvdyBuZXcgSW1wbGVtZW50RXhjZXB0aW9uKCdOb3QgaW1wbGVtZW50ZWQnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>echo</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CQkkdGFyZ2V0ID0gbmV3IFdpcmVjYXJkQ3JlZGl0Q2FyZFdwcDJQYXllcigKCQkJJHRoaXMtPmNoYW5uZWxTcHksCgkJCVN0dWI6Om1ha2VFbXB0eSgKCQkJCUlQYXltZW50U3RvcmFnZTo6Y2xhc3MsCgkJCQlbCgkJCQkJJ2ZpbmRMYXN0Q3JlZGl0Q2FyZFBheW1lbnQnID0+IFN0dWI6Om1ha2VFbXB0eSgKCQkJCQkJSVBheW1lbnREYW86OmNsYXNzLAoJCQkJCQlbCgkJCQkJCQknZ2V0SWQnID0+ICR0aGlzLT5wYXltZW50SWQsCgkJCQkJCQknaXNJbml0JyA9PiAkdGhpcy0+cGF5bWVudElzSW5pdCwKCQkJCQkJCSdpc0ZhaWxlZCcgPT4gJHRoaXMtPnBheW1lbnRJc0ZhaWxlZCwKCQkJCQkJXQoJCQkJCSksCgkJCQldCgkJCSkKCQkpOwoJCSR0YXJnZXQtPnBheShTdHViOjptYWtlRW1wdHkoSU9yZGVyRGFvOjpjbGFzcyksICR0aGlzLT5jYWxsYmFja1VybCk7</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQl0aHJvdyBuZXcgSW1wbGVtZW50RXhjZXB0aW9uKCdOb3QgaW1wbGVtZW50ZWQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIGh0dHBcVXJsOwo=</text>
+        <text encoding="base64">CQl0aHJvdyBuZXcgSW1wbGVtZW50RXhjZXB0aW9uKCdOb3QgaW1wbGVtZW50ZWQnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgZmluZExhc3RDcmVkaXRDYXJkUGF5bWVudCgpIG1ldGhvZC4K</text>
+        <text encoding="base64">CQl0aHJvdyBuZXcgSW1wbGVtZW50RXhjZXB0aW9uKCdOb3QgaW1wbGVtZW50ZWQnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPmNoYW5uZWxTcHksCg==</text>
+        <text encoding="base64">CQl0aHJvdyBuZXcgSW1wbGVtZW50RXhjZXB0aW9uKCdOb3QgaW1wbGVtZW50ZWQnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkkdGhpcy0+d2hlblBheUZvclBheW1lbnRFeGlzdGVuY2UoKTsK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkkdGhpcy0+c2hvdWxkQXV0aFdpdGhQYXltZW50SWRBbmRDYWxsYmFja1VybCgxKTsK</text>
+        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIGlmIHBhaWQsIHRocm93IGV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">CSAqIFBheW1lbnRTdG9yYWdlIGNvbnN0cnVjdG9yLgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKSk7Cg==</text>
+        <text encoding="base64">CS8qKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8JCQkJCXJldHVybiBjb21wYWN0KCd2YWx1ZScsICd0aXRsZScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>w</text>
       </register>
     </registers>
   </component>

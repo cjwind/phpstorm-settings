@@ -136,15 +136,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/source/hellowings/outland/models/channels/SkyscannerChannel.php" timestamp="1592549556900" />
       <file name="D:/source/utb/test/php/tests/unit/payment/wirecard/WirecardCreditCardWpp2PayerTest.php" timestamp="1592452406140">
         <mark key="'" line="212" column="31" />
         <mark key="[" line="66" column="27" />
         <mark key="]" line="66" column="30" />
         <mark key="." line="66" column="29" />
         <mark key="^" line="66" column="30" />
-      </file>
-      <file name="/a.dummy" timestamp="1592450546806">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/source/DigitalTravel/backend/config/routes.php" timestamp="1592454478837">
         <mark key="[" line="321" column="6" />
@@ -166,6 +164,7 @@
         <mark key="^" line="33" column="36" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="D:/source/hellowings/outland/models/channels/SkyscannerApi.php" timestamp="1592544680872" />
       <file name="D:/source/DigitalTravel/backend/utb/order/storage/yiiActiveRecords/Order.php" timestamp="1592453226719">
         <mark key="[" line="89" column="8" />
         <mark key="]" line="425" column="0" />
@@ -213,13 +212,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
-      </file>
-      <file name="D:/source/utb/payment/wirecard/WirecardCreditCardWpp2Payer.php" timestamp="1592450281070">
-        <mark key="'" line="22" column="25" />
-        <mark key="[" line="72" column="54" />
-        <mark key="]" line="89" column="22" />
-        <mark key="^" line="89" column="22" />
-        <mark key="." line="89" column="21" />
       </file>
     </filemarks>
     <jumps>

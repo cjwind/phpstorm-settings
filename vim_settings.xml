@@ -38,7 +38,6 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVydW4=</entry>
         <entry>10</entry>
-        <entry>action AceAction</entry>
         <entry>w</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action IntroduceParameter</entry>
@@ -47,6 +46,7 @@
         <entry>$</entry>
         <entry>action GotoNextError</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -371,7 +371,7 @@
         <text encoding="base64">CS8vIFRPRE8gYmVoYXZpb3JzCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</text>
+        <text>action AceAction</text>
       </register>
     </registers>
   </component>

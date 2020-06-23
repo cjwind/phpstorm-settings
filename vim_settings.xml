@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>TODO</entry>
-        <entry>Payment</entry>
         <entry>callback</entry>
         <entry>zp</entry>
         <entry>zn</entry>
@@ -25,6 +23,8 @@
         <entry>axios</entry>
         <entry>ax</entry>
         <entry>cur</entry>
+        <entry>stopovers</entry>
+        <entry>flightInfo</entry>
       </history-search>
       <history-cmd>
         <entry>source C:\Users\cjw\.ideavimrc</entry>
@@ -41,12 +41,12 @@
         <entry>w</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action IntroduceParameter</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action Rerun</entry>
         <entry>$</entry>
         <entry>action GotoNextError</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>action AceAction</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action Rerun</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,7 +125,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/source/hellowings/outland/models/channels/SkyscannerChannel.php" timestamp="1592549556900" />
       <file name="D:/source/utb/payment/wirecard/storage/yiiStorage/TransactionWirecardCreditCardWpp2Storage.php" timestamp="1592821698927">
         <mark key="[" line="35" column="62" />
         <mark key="]" line="36" column="37" />
@@ -138,7 +137,11 @@
         <mark key="." line="37" column="35" />
         <mark key="^" line="37" column="36" />
       </file>
-      <file name="D:/source/hellowings/outland/models/channels/SkyscannerApi.php" timestamp="1592797351335" />
+      <file name="D:/source/DigitalTravel/backend/tests/unit/content/FlightOrderMailTest.php" timestamp="1592882509579">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
       <file name="D:/source/utb/db/migrations/20200622101056_fix_transaction_wirecard_credit_card_wpp2_field_length.php" timestamp="1592820901022">
         <mark key="[" line="22" column="31" />
         <mark key="]" line="22" column="31" />
@@ -146,14 +149,17 @@
         <mark key="^" line="18" column="25" />
       </file>
       <file name="D:/source/DigitalTravel/backend/controllers/app/TestController.php" timestamp="1592815154382" />
-      <file name="D:/source/TravelCorp/config/php/routes.php" timestamp="1592797336048" />
       <file name="D:/source/DigitalTravel/frontend/src/pages/admin/MemberBasicInfo.vue" timestamp="1592815136508">
         <mark key="[" line="272" column="26" />
         <mark key="]" line="272" column="26" />
         <mark key="." line="272" column="26" />
       </file>
+      <file name="D:/source/DigitalTravel/backend/mail/flight-order/_flightInfo.php" timestamp="1592882789407" />
       <file name="D:/source/Navisteps/.env" timestamp="1592820209640">
         <mark key="'" line="30" column="36" />
+      </file>
+      <file name="D:/source/DigitalTravel/backend/content/FlightOrderMail.php" timestamp="1592882867756">
+        <mark key="[" line="100" column="22" />
       </file>
       <file name="D:/source/DigitalTravel/backend/controllers/app/PaymentController.php" timestamp="1592881021751">
         <mark key="[" line="54" column="14" />
@@ -162,7 +168,7 @@
         <mark key="." line="54" column="14" />
       </file>
       <file name="D:/source/DigitalTravel/backend/utb/components/DepFactory.php" timestamp="1592814521852" />
-      <file name="/Dummy.txt" timestamp="1592881257964">
+      <file name="/Dummy.txt" timestamp="1592881339576">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -173,6 +179,7 @@
         <mark key="^" line="50" column="69" />
         <mark key="." line="50" column="63" />
       </file>
+      <file name="D:/source/DigitalTravel/backend/mail/flight-order/issued.php" timestamp="1592882807072" />
       <file name="D:/source/DigitalTravel/backend/config/routes.php" timestamp="1592815098031">
         <mark key="'" line="50" column="34" />
       </file>
@@ -182,9 +189,6 @@
         <mark key="]" line="38" column="43" />
         <mark key="^" line="7" column="58" />
         <mark key="." line="7" column="57" />
-      </file>
-      <file name="D:/source/TravelCorp/utb/flight/travelport/channels/Travelport.php" timestamp="1592800725064">
-        <mark key="[" line="671" column="42" />
       </file>
       <file name="D:/source/utb/db/migrations/20200617091002_add_has_frequent_flyer_program_to_airline.php" timestamp="1592819018539">
         <mark key="[" line="2" column="0" />
@@ -305,35 +309,35 @@
       <register name="b" type="4">
         <text encoding="base64">ZnVuY3Rpb24gdGVzdEhhbmRsZVBheVJlc3BvbnNlX1BheVN1Y2Nlc3MoKSB7CgkJJHRoaXMtPmdpdmVuT3JkZXIodHJ1ZSk7CgkJJHRoaXMtPmdpdmVuSGFuZGxlZFRyYW5zYWN0aW9uKHRydWUsIDEpOwoKCQkkdGhpcy0+c2hvdWxkQ2hhbmdlUGF5bWVudFRvUGFpZCgxKTsKCgkJJHRoaXMtPndoZW5IYW5kbGVQYXlSZXNwb25zZSgpOwoJfQo=</text>
       </register>
-      <register name="*" type="4">
-        <text>(</text>
+      <register name="*" type="2">
+        <text encoding="base64">CQkJCSdzdG9wb3ZlcnMnID0+IFsnQUFBJywgJ0JCQiddLAo=</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>cur</text>
+        <text>flightInfo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJLT5jaGFuZ2VDb2x1bW4oCgkJCQkndHJhbnNhY3Rpb25UeXBlJywKCQkJCSdzdHJpbmcnLAoJCQkJWwoJCQkJCSdudWxsJyA9PiB0cnVlLAoJCQkJCSdsaW1pdCcgPT4gMjAsCgkJCQkJJ2NvbGxhdGlvbicgPT4gJ3V0ZjhtYjRfZ2VuZXJhbF9jaScsCgkJCQkJJ2VuY29kaW5nJyA9PiAndXRmOG1iNCcsCgkJCQldCgkJCSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLT51cGRhdGUoKTsKCX0K</text>
+        <text encoding="base64">CQkJCSdzdG9wb3ZlcnMnID0+IFsnQUFBJywgJ0JCQiddLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ2hhbmdlIE1ldGhvZC4KICAgICAqCiAgICAgKiBXcml0ZSB5b3VyIHJldmVyc2libGUgbWlncmF0aW9ucyB1c2luZyB0aGlzIG1ldGhvZC4KICAgICAqCiAgICAgKiBNb3JlIGluZm9ybWF0aW9uIG9uIHdyaXRpbmcgbWlncmF0aW9ucyBpcyBhdmFpbGFibGUgaGVyZToKICAgICAqIGh0dHA6Ly9kb2NzLnBoaW54Lm9yZy9lbi9sYXRlc3QvbWlncmF0aW9ucy5odG1sI3RoZS1hYnN0cmFjdG1pZ3JhdGlvbi1jbGFzcwogICAgICoKICAgICAqIFRoZSBmb2xsb3dpbmcgY29tbWFuZHMgY2FuIGJlIHVzZWQgaW4gdGhpcyBtZXRob2QgYW5kIFBoaW54IHdpbGwKICAgICAqIGF1dG9tYXRpY2FsbHkgcmV2ZXJzZSB0aGVtIHdoZW4gcm9sbGluZyBiYWNrOgogICAgICoKICAgICAqICAgIGNyZWF0ZVRhYmxlCiAgICAgKiAgICByZW5hbWVUYWJsZQogICAgICogICAgYWRkQ29sdW1uCiAgICAgKiAgICBhZGRDdXN0b21Db2x1bW4KICAgICAqICAgIHJlbmFtZUNvbHVtbgogICAgICogICAgYWRkSW5kZXgKICAgICAqICAgIGFkZEZvcmVpZ25LZXkKICAgICAqCiAgICAgKiBBbnkgb3RoZXIgZGVzdHJ1Y3RpdmUgY2hhbmdlcyB3aWxsIHJlc3VsdCBpbiBhbiBlcnJvciB3aGVuIHRyeWluZyB0bwogICAgICogcm9sbGJhY2sgdGhlIG1pZ3JhdGlvbi4KICAgICAqCiAgICAgKiBSZW1lbWJlciB0byBjYWxsICJjcmVhdGUoKSIgb3IgInVwZGF0ZSgpIiBhbmQgTk9UICJzYXZlKCkiIHdoZW4gd29ya2luZwogICAgICogd2l0aCB0aGUgVGFibGUgY2xhc3MuCiAgICAgKi8K</text>
+        <text>Upda</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJLT51cGRhdGUoKTsKCX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkkdGFibGUtPmFkZENvCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ2hhbmdlIE1ldGhvZC4KICAgICAqCiAgICAgKiBXcml0ZSB5b3VyIHJldmVyc2libGUgbWlncmF0aW9ucyB1c2luZyB0aGlzIG1ldGhvZC4KICAgICAqCiAgICAgKiBNb3JlIGluZm9ybWF0aW9uIG9uIHdyaXRpbmcgbWlncmF0aW9ucyBpcyBhdmFpbGFibGUgaGVyZToKICAgICAqIGh0dHA6Ly9kb2NzLnBoaW54Lm9yZy9lbi9sYXRlc3QvbWlncmF0aW9ucy5odG1sI3RoZS1hYnN0cmFjdG1pZ3JhdGlvbi1jbGFzcwogICAgICoKICAgICAqIFRoZSBmb2xsb3dpbmcgY29tbWFuZHMgY2FuIGJlIHVzZWQgaW4gdGhpcyBtZXRob2QgYW5kIFBoaW54IHdpbGwKICAgICAqIGF1dG9tYXRpY2FsbHkgcmV2ZXJzZSB0aGVtIHdoZW4gcm9sbGluZyBiYWNrOgogICAgICoKICAgICAqICAgIGNyZWF0ZVRhYmxlCiAgICAgKiAgICByZW5hbWVUYWJsZQogICAgICogICAgYWRkQ29sdW1uCiAgICAgKiAgICBhZGRDdXN0b21Db2x1bW4KICAgICAqICAgIHJlbmFtZUNvbHVtbgogICAgICogICAgYWRkSW5kZXgKICAgICAqICAgIGFkZEZvcmVpZ25LZXkKICAgICAqCiAgICAgKiBBbnkgb3RoZXIgZGVzdHJ1Y3RpdmUgY2hhbmdlcyB3aWxsIHJlc3VsdCBpbiBhbiBlcnJvciB3aGVuIHRyeWluZyB0bwogICAgICogcm9sbGJhY2sgdGhlIG1pZ3JhdGlvbi4KICAgICAqCiAgICAgKiBSZW1lbWJlciB0byBjYWxsICJjcmVhdGUoKSIgb3IgInVwZGF0ZSgpIiBhbmQgTk9UICJzYXZlKCkiIHdoZW4gd29ya2luZwogICAgICogd2l0aCB0aGUgVGFibGUgY2xhc3MuCiAgICAgKi8K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIFBoaW54XERiXEFkYXB0ZXJcTXlzcWxBZGFwdGVyOwo=</text>
+        <text encoding="base64">CQkkdGFibGUtPmFkZENvCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -342,21 +346,21 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ2hhbmdlIE1ldGhvZC4KICAgICAqCiAgICAgKiBXcml0ZSB5b3VyIHJldmVyc2libGUgbWlncmF0aW9ucyB1c2luZyB0aGlzIG1ldGhvZC4KICAgICAqCiAgICAgKiBNb3JlIGluZm9ybWF0aW9uIG9uIHdyaXRpbmcgbWlncmF0aW9ucyBpcyBhdmFpbGFibGUgaGVyZToKICAgICAqIGh0dHA6Ly9kb2NzLnBoaW54Lm9yZy9lbi9sYXRlc3QvbWlncmF0aW9ucy5odG1sI3RoZS1hYnN0cmFjdG1pZ3JhdGlvbi1jbGFzcwogICAgICoKICAgICAqIFRoZSBmb2xsb3dpbmcgY29tbWFuZHMgY2FuIGJlIHVzZWQgaW4gdGhpcyBtZXRob2QgYW5kIFBoaW54IHdpbGwKICAgICAqIGF1dG9tYXRpY2FsbHkgcmV2ZXJzZSB0aGVtIHdoZW4gcm9sbGluZyBiYWNrOgogICAgICoKICAgICAqICAgIGNyZWF0ZVRhYmxlCiAgICAgKiAgICByZW5hbWVUYWJsZQogICAgICogICAgYWRkQ29sdW1uCiAgICAgKiAgICBhZGRDdXN0b21Db2x1bW4KICAgICAqICAgIHJlbmFtZUNvbHVtbgogICAgICogICAgYWRkSW5kZXgKICAgICAqICAgIGFkZEZvcmVpZ25LZXkKICAgICAqCiAgICAgKiBBbnkgb3RoZXIgZGVzdHJ1Y3RpdmUgY2hhbmdlcyB3aWxsIHJlc3VsdCBpbiBhbiBlcnJvciB3aGVuIHRyeWluZyB0bwogICAgICogcm9sbGJhY2sgdGhlIG1pZ3JhdGlvbi4KICAgICAqCiAgICAgKiBSZW1lbWJlciB0byBjYWxsICJjcmVhdGUoKSIgb3IgInVwZGF0ZSgpIiBhbmQgTk9UICJzYXZlKCkiIHdoZW4gd29ya2luZwogICAgICogd2l0aCB0aGUgVGFibGUgY2xhc3MuCiAgICAgKi8=</text>
+        <text encoding="base64">dXNlIFBoaW54XERiXEFkYXB0ZXJcTXlzcWxBZGFwdGVyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text>Upda</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action Rerun</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>cur</last-search>
+      <last-search>flightInfo</last-search>
       <last-offset />
-      <last-pattern>cur</last-pattern>
+      <last-pattern>flightInfo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

@@ -145,28 +145,24 @@
         <mark key="." line="22" column="31" />
         <mark key="^" line="18" column="25" />
       </file>
-      <file name="D:/source/DigitalTravel/backend/controllers/app/OrderController.php" timestamp="1592821449880">
-        <mark key="[" line="63" column="9" />
-      </file>
       <file name="D:/source/DigitalTravel/backend/controllers/app/TestController.php" timestamp="1592815154382" />
       <file name="D:/source/TravelCorp/config/php/routes.php" timestamp="1592797336048" />
       <file name="D:/source/DigitalTravel/frontend/src/pages/admin/MemberBasicInfo.vue" timestamp="1592815136508">
-        <mark key="[" line="273" column="26" />
-        <mark key="]" line="273" column="26" />
-        <mark key="." line="273" column="26" />
+        <mark key="[" line="272" column="26" />
+        <mark key="]" line="272" column="26" />
+        <mark key="." line="272" column="26" />
       </file>
       <file name="D:/source/Navisteps/.env" timestamp="1592820209640">
         <mark key="'" line="30" column="36" />
       </file>
-      <file name="D:/source/DigitalTravel/backend/controllers/app/PaymentController.php" timestamp="1592821493688">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="11" column="50" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="D:/source/DigitalTravel/backend/controllers/app/PaymentController.php" timestamp="1592881021751">
+        <mark key="[" line="54" column="14" />
+        <mark key="]" line="54" column="14" />
+        <mark key="^" line="54" column="15" />
+        <mark key="." line="54" column="14" />
       </file>
       <file name="D:/source/DigitalTravel/backend/utb/components/DepFactory.php" timestamp="1592814521852" />
-      <file name="/Dummy.txt" timestamp="1592821713486">
+      <file name="/Dummy.txt" timestamp="1592881257964">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -179,7 +175,6 @@
       </file>
       <file name="D:/source/DigitalTravel/backend/config/routes.php" timestamp="1592815098031">
         <mark key="'" line="50" column="34" />
-        <mark key="[" line="328" column="6" />
       </file>
       <file name="D:/source/utb/db/migrations/20200615070600_add_transaction_wirecard_credit_card_wpp2.php" timestamp="1592820907938">
         <mark key="'" line="35" column="0" />
@@ -311,10 +306,10 @@
         <text encoding="base64">ZnVuY3Rpb24gdGVzdEhhbmRsZVBheVJlc3BvbnNlX1BheVN1Y2Nlc3MoKSB7CgkJJHRoaXMtPmdpdmVuT3JkZXIodHJ1ZSk7CgkJJHRoaXMtPmdpdmVuSGFuZGxlZFRyYW5zYWN0aW9uKHRydWUsIDEpOwoKCQkkdGhpcy0+c2hvdWxkQ2hhbmdlUGF5bWVudFRvUGFpZCgxKTsKCgkJJHRoaXMtPndoZW5IYW5kbGVQYXlSZXNwb25zZSgpOwoJfQo=</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">ID8/IG51bGw=</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID8/IG51bGw=</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>cur</text>

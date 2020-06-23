@@ -18,6 +18,9 @@
   <action id="EditorCodeBlockStart">
     <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
   </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>

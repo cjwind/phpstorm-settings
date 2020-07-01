@@ -126,13 +126,14 @@
     <globalmarks />
     <filemarks>
       <file name="D:/source/TravelCorp/utb/interfaces/ICacheInterface.php" timestamp="1593421274167" />
-      <file name="D:/source/TravelCorp/modules/api/flight/FlightPriceBuilder.php" timestamp="1593415492196">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="D:/source/utb/test/php/tests/_support/fakeData/TravelportOneWayFakeData.php" timestamp="1593594824124" />
       <file name="D:/source/Navisteps/.gitlab-ci.yml" timestamp="1593595220192" />
+      <file name="D:/source/utb/flight/FlightSearcher.php" timestamp="1593597241848">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="10" column="18" />
+      </file>
       <file name="D:/source/TravelCorp/utb/flight/sabre/channels/SabreSoap.php" timestamp="1593425278184" />
       <file name="D:/source/TravelCorp/controllers/OrderController.php" timestamp="1593426226148">
         <mark key="[" line="408" column="0" />
@@ -302,7 +303,10 @@
         <text encoding="base64">ZnVuY3Rpb24gdGVzdEhhbmRsZVBheVJlc3BvbnNlX1BheVN1Y2Nlc3MoKSB7CgkJJHRoaXMtPmdpdmVuT3JkZXIodHJ1ZSk7CgkJJHRoaXMtPmdpdmVuSGFuZGxlZFRyYW5zYWN0aW9uKHRydWUsIDEpOwoKCQkkdGhpcy0+c2hvdWxkQ2hhbmdlUGF5bWVudFRvUGFpZCgxKTsKCgkJJHRoaXMtPndoZW5IYW5kbGVQYXlSZXNwb25zZSgpOwoJfQo=</text>
       </register>
       <register name="*" type="4">
-        <text>outland</text>
+        <text>/**
+ * Class FlightSearcher
+ * @package utb\flight
+ */</text>
       </register>
       <register name="-" type="4">
         <text>outland</text>
@@ -313,35 +317,38 @@
       <register name="0" type="2">
         <text encoding="base64">I1NNVFBfSE9TVD1lbWFpbC1zbXRwLnVzLWVhc3QtMS5hbWF6b25hd3MuY29tCiNTTVRQX1BPUlQ9NTg3CiNTTVRQX1VTRVJOQU1FPUFLSUFJN1ZGVUtCTlNWUlhCSkhBCiNTTVRQX1BBU1NXT1JEPUFvV3F6VVltc3BJNHpwcE0vR04rK21vMEhYWmIvWitTQUprNHJyTkZ6ZXgvCiNTTVRQX0VOQ1JZUFRJT049dGxzCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="1" type="4">
+        <text>/**
+ * Class FlightSearcher
+ * @package utb\flight
+ */</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQldCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJJ2NsYXNzJz0+J3V0YlwnCg==</text>
+        <text encoding="base64">CQldCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQknbWFpbCc9PlsK</text>
+        <text encoding="base64">CQkJJ2NsYXNzJz0+J3V0YlwnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpZiAoIWVtcHR5KCRmbGlnaHRbJ2l0aW5lcmFyeSddWydsZWdzJ10pKSB7Cg==</text>
+        <text encoding="base64">CQknbWFpbCc9PlsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkZmxpZ2h0KTsK</text>
+        <text encoding="base64">CQlpZiAoIWVtcHR5KCRmbGlnaHRbJ2l0aW5lcmFyeSddWydsZWdzJ10pKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZWNobyAnYSc7Cg==</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkZmxpZ2h0KTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZWNobyAnYic7Cg==</text>
+        <text encoding="base64">CQkJZWNobyAnYSc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQl2YXJfZHVtcCgkZm9ybWF0dGVkSXRpbmVyYXJ5KTsK</text>
+        <text encoding="base64">CQkJZWNobyAnYic7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Rerun</text>

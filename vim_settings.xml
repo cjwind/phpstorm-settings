@@ -27,7 +27,6 @@
         <entry>views</entry>
       </history-search>
       <history-cmd>
-        <entry>action Move</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gSW50cm9kdWNlUGFyYW1ldGVy</entry>
         <entry>124</entry>
         <entry>10</entry>
@@ -36,17 +35,18 @@
         <entry>action IntroduceParameter</entry>
         <entry>26</entry>
         <entry>37</entry>
-        <entry>action GotoPreviousError</entry>
         <entry encoding="base64">c291cmNlIEM6XFVzZXJzXGNqd1wuaWRlYXZpbXJjIA==</entry>
         <entry>18</entry>
-        <entry>action GotoNextError</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVydW4=</entry>
-        <entry>action FileStructurePopup</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
+        <entry>action AceAction</entry>
+        <entry>action Inline</entry>
+        <entry>action FileStructurePopup</entry>
         <entry>action ReformatCode</entry>
         <entry>action Rerun</entry>
-        <entry>action AceAction</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action GotoPreviousError</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,15 +125,51 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593660814653">
+      <file name="D:/source/DigitalTravel/backend/tests/unit/content/ManualOrderMailTest.php" timestamp="1593764404842">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="339" column="12" />
+        <mark key="]" line="339" column="76" />
+        <mark key="." line="339" column="75" />
+        <mark key="^" line="339" column="76" />
+      </file>
+      <file name="D:/source/DigitalTravel/backend/content/ManualOrderMail.php" timestamp="1593766528544">
+        <mark key="'" line="183" column="43" />
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="191" column="103" />
+        <mark key="^" line="185" column="98" />
+        <mark key="." line="185" column="0" />
+      </file>
+      <file name="D:/source/utb/test/php/codeception.yml" timestamp="1593660700811">
+        <mark key="'" line="34" column="25" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="53" column="47" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="D:/source/DigitalTravel/deploy/crontab" timestamp="1593595854475">
+        <mark key="[" line="0" column="27" />
+      </file>
+      <file name="D:/source/DigitalTravel/backend/mail/flight-order/paid.php" timestamp="1593766328719">
+        <mark key="[" line="39" column="13" />
+        <mark key="]" line="39" column="13" />
+        <mark key="." line="39" column="13" />
+      </file>
+      <file name="D:/source/DigitalTravel/backend/models/MailComposer.php" timestamp="1593764098500">
+        <mark key="[" line="28" column="90" />
+        <mark key="]" line="28" column="90" />
+        <mark key="^" line="28" column="90" />
+        <mark key="." line="28" column="89" />
+      </file>
+      <file name="D:/source/DigitalTravel/backend/content/FlightOrderMail.php" timestamp="1593766539913">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="^" line="127" column="12" />
+        <mark key="." line="132" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593766846416">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/source/TravelCorp/controllers/OrderController.php" timestamp="1593426226148">
-        <mark key="[" line="408" column="0" />
-        <mark key="]" line="408" column="0" />
-        <mark key="." line="408" column="0" />
       </file>
       <file name="D:/source/utb/flight/FlightSearcher.php" timestamp="1593599054322">
         <mark key="[" line="10" column="17" />
@@ -147,8 +183,13 @@
         <mark key="^" line="62" column="43" />
         <mark key="." line="62" column="38" />
       </file>
-      <file name="D:/source/DigitalTravel/backend/config/console.php" timestamp="1593594794473">
-        <mark key="[" line="62" column="10" />
+      <file name="/fragment.php" timestamp="1593764379176">
+        <mark key="[" line="0" column="81" />
+      </file>
+      <file name="D:/source/DigitalTravel/backend/mail/flight-order/issued.php" timestamp="1593767130905">
+        <mark key="[" line="43" column="13" />
+        <mark key="]" line="43" column="13" />
+        <mark key="." line="43" column="13" />
       </file>
       <file name="D:/source/utb/test/php/tests/unit/pricing/SabreSoapPricingTest.php" timestamp="1593660737881">
         <mark key="'" line="0" column="0" />
@@ -157,26 +198,8 @@
         <mark key="." line="2154" column="35" />
         <mark key="^" line="2154" column="36" />
       </file>
-      <file name="D:/source/TravelCorp/modules/api/flight/formatters/SabreFlightItineraryFormatter.php" timestamp="1593425938635">
-        <mark key="[" line="441" column="4" />
-      </file>
       <file name="D:/source/utb/flight/FlightBooker.php" timestamp="1593665834167">
         <mark key="[" line="39" column="28" />
-      </file>
-      <file name="D:/source/utb/test/php/codeception.yml" timestamp="1593660700811">
-        <mark key="'" line="34" column="25" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="53" column="47" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="D:/source/DigitalTravel/deploy/crontab" timestamp="1593595854475">
-        <mark key="[" line="0" column="27" />
-      </file>
-      <file name="D:/source/DigitalTravel/backend/config/web.php" timestamp="1593594782007">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
       </file>
       <file name="D:/source/DigitalTravel/.env" timestamp="1593595560547">
         <mark key="[" line="89" column="39" />
@@ -192,11 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="D:/source/utb/test/php/tests/unit/payment/wirecard/WirecardCreditCardWpp2PayerTest.php" />
-      <jump line="143" column="24" filename="D:/source/utb/test/php/tests/unit/payment/wirecard/WirecardCreditCardWpp2PayerTest.php" />
-      <jump line="144" column="0" filename="D:/source/utb/test/php/tests/unit/payment/wirecard/WirecardCreditCardWpp2PayerTest.php" />
-      <jump line="147" column="0" filename="D:/source/utb/test/php/tests/unit/payment/wirecard/WirecardCreditCardWpp2PayerTest.php" />
-      <jump line="151" column="0" filename="D:/source/utb/test/php/tests/unit/payment/wirecard/WirecardCreditCardWpp2PayerTest.php" />
       <jump line="155" column="0" filename="D:/source/utb/test/php/tests/unit/payment/wirecard/WirecardCreditCardWpp2PayerTest.php" />
       <jump line="158" column="0" filename="D:/source/utb/test/php/tests/unit/payment/wirecard/WirecardCreditCardWpp2PayerTest.php" />
       <jump line="165" column="0" filename="D:/source/utb/test/php/tests/unit/payment/wirecard/WirecardCreditCardWpp2PayerTest.php" />
@@ -292,6 +310,11 @@
       <jump line="35" column="25" filename="D:/source/utb/test/php/codeception.yml" />
       <jump line="2658" column="0" filename="D:/source/utb/test/php/tests/unit/pricing/SabreSoapPricingTest.php" />
       <jump line="0" column="0" filename="D:/source/utb/test/php/tests/unit/pricing/SabreSoapPricingTest.php" />
+      <jump line="125" column="20" filename="D:/source/DigitalTravel/backend/tests/unit/content/ManualOrderMailTest.php" />
+      <jump line="124" column="0" filename="D:/source/DigitalTravel/backend/tests/unit/content/ManualOrderMailTest.php" />
+      <jump line="130" column="0" filename="D:/source/DigitalTravel/backend/tests/unit/content/ManualOrderMailTest.php" />
+      <jump line="111" column="0" filename="D:/source/DigitalTravel/backend/tests/unit/content/ManualOrderMailTest.php" />
+      <jump line="176" column="43" filename="D:/source/DigitalTravel/backend/content/ManualOrderMail.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -305,53 +328,50 @@
       <register name="b" type="4">
         <text encoding="base64">ZnVuY3Rpb24gdGVzdEhhbmRsZVBheVJlc3BvbnNlX1BheVN1Y2Nlc3MoKSB7CgkJJHRoaXMtPmdpdmVuT3JkZXIodHJ1ZSk7CgkJJHRoaXMtPmdpdmVuSGFuZGxlZFRyYW5zYWN0aW9uKHRydWUsIDEpOwoKCQkkdGhpcy0+c2hvdWxkQ2hhbmdlUGF5bWVudFRvUGFpZCgxKTsKCgkJJHRoaXMtPndoZW5IYW5kbGVQYXlSZXNwb25zZSgpOwoJfQo=</text>
       </register>
-      <register name="*" type="2">
-        <text>Add needed functions to payment storage</text>
+      <register name="*" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>outland</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">I1NNVFBfSE9TVD1lbWFpbC1zbXRwLnVzLWVhc3QtMS5hbWF6b25hd3MuY29tCiNTTVRQX1BPUlQ9NTg3CiNTTVRQX1VTRVJOQU1FPUFLSUFJN1ZGVUtCTlNWUlhCSkhBCiNTTVRQX1BBU1NXT1JEPUFvV3F6VVltc3BJNHpwcE0vR04rK21vMEhYWmIvWitTQUprNHJyTkZ6ZXgvCiNTTVRQX0VOQ1JZUFRJT049dGxzCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CQkJJ2NhcmROdW1iZXInID0+ICRwYXltZW50ID8gc3RyX3NwbGl0KCR0cmFucy0+Z2V0Q2FyZE5vKCksIDQpIDogW10sCgkJCSdjdXJyZW5jeVN5bWJvbCcgPT4gJHBheW1lbnQgPyAkcGF5bWVudC0+Z2V0Q3VycmVuY3koKSA6IG51bGwsCgkJCSdhbW91bnQnID0+ICRwYXltZW50ID8gJHBheW1lbnQtPmdldENoYXJnZUFtb3VudCgpIDogbnVsbCwKCQkJJ2F1dGhDb2RlJyA9PiAkcGF5bWVudCA/ICR0cmFucy0+Z2V0QXV0aENvZGUoKSA6IG51bGwsCgkJCSdwYWlkVGltZScgPT4gJHBheW1lbnQgPyBkYXRlKCdZLW0tZCBIOmk6cycsIHN0cnRvdGltZSgkdHJhbnMtPmdldENvbXBsZXRpb25UaW1lKCkpKSA6IG51bGws</text>
       </register>
       <register name="1" type="2">
-        <text>Add needed functions to payment storage</text>
+        <text encoding="base64">CQkJJ2F1dGhDb2RlJyA9PiBudWxsLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtIC4uLy4uL3ZpZXdzLyoK</text>
+        <text encoding="base64">CQkJJ2Ftb3VudCcgPT4gbnVsbCwK</text>
       </register>
-      <register name="3" type="4">
-        <text>/**
- * Class FlightSearcher
- * @package utb\flight
- */</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJJ2N1cnJlbmN5U3ltYm9sJyA9PiBudWxsLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJJ2NhcmROdW1iZXInID0+IFtdLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQldCg==</text>
+        <text encoding="base64">CQkvLyBUT0RPIGluIGlzc3VlIDQzMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJJ2NsYXNzJz0+J3V0YlwnCg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQknbWFpbCc9PlsK</text>
+        <text encoding="base64">CQlpZiAoJHBheW1lbnQpIHsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZiAoIWVtcHR5KCRmbGlnaHRbJ2l0aW5lcmFyeSddWydsZWdzJ10pKSB7Cg==</text>
+        <text>Upda</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkZmxpZ2h0KTsK</text>
+        <text encoding="base64">CQkJbmV3IFx1dGJccGF5bWVudFx3aXJlY2FyZFxzdG9yYWdlXHlpaVN0b3JhZ2VcVHJhbnNhY3Rpb25XaXJlY2FyZENyZWRpdENhcmRXcHAyU3RvcmFnZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action GotoPreviousError</text>
       </register>
     </registers>
   </component>

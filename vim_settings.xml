@@ -129,7 +129,8 @@
       <file name="D:/source/DigitalTravel/backend/utb/flight/sabre/channels/SabreSoap.php" timestamp="1594024021965">
         <mark key="'" line="914" column="33" />
       </file>
-      <file name="D:/source/DigitalTravel/backend/controllers/app/FlightController.php" timestamp="1593771033055" />
+      <file name="D:/source/DigitalTravel/backend/flight/FlightSessionOperator.php" timestamp="1594025168648" />
+      <file name="D:/source/DigitalTravel/backend/controllers/app/FlightController.php" timestamp="1594025276551" />
       <file name="D:/source/utb/payment/firstData/connect/FirstDataRequestGenerator.php" timestamp="1594020176125">
         <mark key="[" line="21" column="22" />
       </file>
@@ -142,12 +143,6 @@
       <file name="D:/source/Navisteps/backend/utb/payment/firstData/connect/FirstDataRequestGenerator.php" timestamp="1594016934730" />
       <file name="D:/source/DigitalTravel/backend/utb/flight/FlightBooker.php" timestamp="1594023120400">
         <mark key="'" line="157" column="33" />
-      </file>
-      <file name="D:/source/DigitalTravel/backend/content/FlightOrderMail.php" timestamp="1593766539913">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="^" line="127" column="12" />
-        <mark key="." line="132" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1594023691162">
         <mark key="[" line="0" column="0" />

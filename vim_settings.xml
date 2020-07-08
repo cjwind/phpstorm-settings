@@ -125,7 +125,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/source/TravelCorp/modules/api/flight/FlightPriceBuilder.php" timestamp="1594099255483" />
       <file name="D:/source/Navisteps/backend/features/order/OrderEventListener.php" timestamp="1594111013811" />
       <file name="D:/source/DigitalTravel/backend/order/resources/AdminOrderChildResource.php" timestamp="1594114417768">
         <mark key="'" line="0" column="0" />
@@ -146,6 +145,12 @@
         <mark key="." line="332" column="67" />
       </file>
       <file name="D:/source/Navisteps/backend/order/checker/OrderChecker.php" timestamp="1594110877450" />
+      <file name="D:/source/DigitalTravel/backend/flight/formatters/TravelportItineraryFormatter.php" timestamp="1594181440418">
+        <mark key="[" line="29" column="18" />
+        <mark key="]" line="27" column="43" />
+        <mark key="." line="27" column="42" />
+        <mark key="^" line="27" column="43" />
+      </file>
       <file name="D:/source/Navisteps/backend/features/notification/NotifierBinder.php" timestamp="1594111736377" />
       <file name="D:/source/DigitalTravel/openapi/openapi.yaml" timestamp="1594117079951">
         <mark key="[" line="11" column="0" />
@@ -312,8 +317,8 @@
       <register name="b" type="4">
         <text encoding="base64">ZnVuY3Rpb24gdGVzdEhhbmRsZVBheVJlc3BvbnNlX1BheVN1Y2Nlc3MoKSB7CgkJJHRoaXMtPmdpdmVuT3JkZXIodHJ1ZSk7CgkJJHRoaXMtPmdpdmVuSGFuZGxlZFRyYW5zYWN0aW9uKHRydWUsIDEpOwoKCQkkdGhpcy0+c2hvdWxkQ2hhbmdlUGF5bWVudFRvUGFpZCgxKTsKCgkJJHRoaXMtPndoZW5IYW5kbGVQYXlSZXNwb25zZSgpOwoJfQo=</text>
       </register>
-      <register name="*" type="4">
-        <text>development</text>
+      <register name="*" type="2">
+        <text encoding="base64">CQkJCWVjaG8gJHNlZ21lbnRLZXk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>development</text>
@@ -325,34 +330,34 @@
         <text encoding="base64">I01ZU1FMX01BSU5fRFNOPW15c3FsOmhvc3Q9bWFyaWFkYjEuN25tLm9yZztkYm5hbWU9RGlnaXRhbFRyYXZlbF9kZXZlbG9wbWVudAo=</text>
       </register>
       <register name="1" type="2">
-        <text>Upda</text>
+        <text encoding="base64">CQkJCWVjaG8gJHNlZ21lbnRLZXk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text>Upda</text>
+        <text encoding="base64">CQkJZXhpdDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAqLwo=</text>
+        <text encoding="base64">CQkJZXhpdDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAqIEBkZXByZWNhdGVkCg==</text>
+        <text encoding="base64">CQkJZWNobyAkdHJhdmVsZXJLZXk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8qKgo=</text>
+        <text encoding="base64">CQkJZWNobyAkdHJhdmVsZXJLZXk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJJHBhc3NlbmdlcklkID0gJHBhc3NlbmdlckluZGV4Kys7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvLyAJCS8vILNvqrG3TqxPp9GkRq3+rdMgcHJvamVjdCCtbqZipLC78rGhqnClzqSjpEC8y6q6IHByaWNpbmcgpKfD/qq6t2SlWKjTqroK</text>
+        <text>Upda</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvLyCzb6qxt06sT6fRpEat/q3TIHByb2plY3QgrW6mYqSwu/Kxoapwpc6ko6RAvMuquiBwcmljaW5nIKSnw/6qurdkpVio06q6Cg==</text>
+        <text>Upda</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>action FileStructurePopup</text>

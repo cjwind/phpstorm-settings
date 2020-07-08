@@ -185,11 +185,11 @@
         <mark key="^" line="62" column="43" />
         <mark key="." line="62" column="38" />
       </file>
-      <file name="D:/source/DigitalTravel/.env" timestamp="1594116562611">
-        <mark key="[" line="45" column="21" />
-        <mark key="]" line="45" column="26" />
-        <mark key="^" line="45" column="26" />
-        <mark key="." line="45" column="25" />
+      <file name="D:/source/DigitalTravel/.env" timestamp="1594180626708">
+        <mark key="[" line="30" column="64" />
+        <mark key="]" line="30" column="64" />
+        <mark key="^" line="46" column="26" />
+        <mark key="." line="30" column="64" />
       </file>
       <file name="D:/source/utb/pricing/SabreSoapPricing.php" timestamp="1594104044519">
         <mark key="[" line="306" column="30" />
@@ -312,17 +312,17 @@
       <register name="b" type="4">
         <text encoding="base64">ZnVuY3Rpb24gdGVzdEhhbmRsZVBheVJlc3BvbnNlX1BheVN1Y2Nlc3MoKSB7CgkJJHRoaXMtPmdpdmVuT3JkZXIodHJ1ZSk7CgkJJHRoaXMtPmdpdmVuSGFuZGxlZFRyYW5zYWN0aW9uKHRydWUsIDEpOwoKCQkkdGhpcy0+c2hvdWxkQ2hhbmdlUGF5bWVudFRvUGFpZCgxKTsKCgkJJHRoaXMtPndoZW5IYW5kbGVQYXlSZXNwb25zZSgpOwoJfQo=</text>
       </register>
-      <register name="*" type="2">
-        <text>Upda</text>
+      <register name="*" type="4">
+        <text>development</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>development</text>
       </register>
       <register name="/" type="4">
         <text>issue</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bm1hcCB6cCA6YWN0aW9uIEdvdG9QcmV2aW91c0Vycm9yPENSPgo=</text>
+        <text encoding="base64">I01ZU1FMX01BSU5fRFNOPW15c3FsOmhvc3Q9bWFyaWFkYjEuN25tLm9yZztkYm5hbWU9RGlnaXRhbFRyYXZlbF9kZXZlbG9wbWVudAo=</text>
       </register>
       <register name="1" type="2">
         <text>Upda</text>

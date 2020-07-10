@@ -137,6 +137,12 @@
       <file name="D:/source/DigitalTravel/backend/utb/flight/FlightBooker.php" timestamp="1594270087652">
         <mark key="'" line="157" column="33" />
       </file>
+      <file name="D:/source/utb/flight/FlightSearcher.php" timestamp="1594370104038">
+        <mark key="[" line="10" column="101" />
+        <mark key="]" line="44" column="13" />
+        <mark key="^" line="44" column="13" />
+        <mark key="." line="44" column="12" />
+      </file>
       <file name="D:/source/DigitalTravel/backend/flight/formatters/TravelportItineraryFormatter.php" timestamp="1594288418656">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -167,7 +173,7 @@
       <file name="D:/source/DigitalTravel/backend/tests/_data/travelport/URR_issued.xml" timestamp="1594281958547">
         <mark key="'" line="66" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594367978031">
+      <file name="/Dummy.txt" timestamp="1594368132906">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />

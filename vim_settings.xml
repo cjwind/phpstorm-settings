@@ -134,11 +134,11 @@
         <mark key="^" line="44" column="13" />
         <mark key="." line="44" column="12" />
       </file>
-      <file name="D:/source/DigitalTravel/backend/commands/TestController.php" timestamp="1594786425802">
-        <mark key="[" line="25" column="27" />
-        <mark key="]" line="25" column="10" />
-        <mark key="^" line="25" column="10" />
-        <mark key="." line="25" column="9" />
+      <file name="D:/source/DigitalTravel/backend/commands/TestController.php" timestamp="1594805930594">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="16" column="38" />
+        <mark key="^" line="16" column="39" />
       </file>
       <file name="D:/source/DigitalTravel/backend/tests/unit/flight/forms/FlightOrderFormTest.php" timestamp="1594704896001">
         <mark key="b" line="263" column="0" />
@@ -320,11 +320,11 @@
       <register name="b" type="4">
         <text encoding="base64">ZnVuY3Rpb24gdGVzdElzQXVzdHJhbGlhbkRvbWVzdGljRmxpZ2h0KCkgewoJCSR0aGlzLT5naXZlbkFpcnBvcnQoJ1NZRCcsIDEpOwoJCSR0aGlzLT5naXZlbkFpcnBvcnQoJ09PTCcsIDEpOwoJCSR0aGlzLT5naXZlbkNvdW50cnkoMSwgJ0FVJyk7CgkJJHRoaXMtPmdpdmVuU2VhcmNoQ29udGV4dCgnU1lEJywgJ09PTCcpOwoKCQkkdGhpcy0+d2hlbklzQXVzdHJhbGlhbkRvbWVzdGljRmxpZ2h0KCk7CgoJCSR0aGlzLT5zaG91bGRCZUF1c3RyYWxpYW5Eb21lc3RpY0ZsaWdodCgpOwoJfQo=</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">CQkkdGhpcy0+c2hvdWxkQmVBdXN0cmFsaWFuRG9tZXN0aWNGbGlnaHQoKTsK</text>
+      <register name="*" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>SYD</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
@@ -333,34 +333,47 @@
         <text encoding="base64">CQkkdGhpcy0+Z2l2ZW5Db3VudHJ5KDEsICdBVScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkdGhpcy0+c2hvdWxkQmVBdXN0cmFsaWFuRG9tZXN0aWNGbGlnaHQoKTsK</text>
+        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgYmFyKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHRlc3RJc0F1c3RyYWxpYW5Eb21lc3RpY0ZsaWdodF9Ob3RBdXMoKSB7Cg==</text>
+        <text encoding="base64">CQlEZXJpdmVkOjpmb28oKTsKCQllY2hvICI9PT09PT09PT09PT09PT1cbiI7CgkJJGQgPSBuZXcgRGVyaXZlZCgpOwoJCSRkLT5mb28oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW50ZXJmYWNlX2V4aXN0cygkaW50ZXJmYWNlX25hbWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CX0K</text>
+        <text>abstract class Base {
+	static public function foo() {
+		echo &quot;Base::foo()\n&quot;;
+		static::bar();
+	}
+
+	abstract static protected function bar();
+}
+
+class Derived extends Base {
+	static protected function bar() {
+		echo &quot;Derived::bar()\n&quot;;
+	}
+}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlwYXJlbnQ6OnNldFVwKCk7Cg==</text>
+        <text encoding="base64">CQkkdGhpcy0+c2hvdWxkQmVBdXN0cmFsaWFuRG9tZXN0aWNGbGlnaHQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByb3RlY3RlZCBmdW5jdGlvbiBzZXRVcCgpIHsK</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHRlc3RJc0F1c3RyYWxpYW5Eb21lc3RpY0ZsaWdodF9Ob3RBdXMoKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkdGhpcy0+YWlycG9ydFN0b3JhZ2VTdHViLT5hbGxvd3MoKS0+ZmluZEFpcnBvcnRCeUlkKCdPT0wnKS0+YW5kUmV0dXJuKAoJCQlTdHViOjptYWtlRW1wdHkoQWlycG9ydDo6Y2xhc3MsIFsnZ2V0Q291bnRyeUlkJyA9PiAxXSkKCQkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlwYXJlbnQ6OnNldFVwKCk7Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByb3RlY3RlZCBmdW5jdGlvbiBzZXRVcCgpIHsK</text>
+        <text encoding="base64">CQlwYXJlbnQ6OnNldFVwKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Rerun</text>

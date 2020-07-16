@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Emp</entry>
-        <entry>expec</entry>
         <entry>booking-session</entry>
         <entry>booking</entry>
         <entry>booking-sessions</entry>
@@ -25,6 +23,8 @@
         <entry>function test</entry>
         <entry>public</entry>
         <entry>serviceFee</entry>
+        <entry>pricing</entry>
+        <entry>isManual</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c291cmNlIEM6XFVzZXJzXGNqd1wuaWRlYXZpbXJjIA==</entry>
@@ -141,6 +141,9 @@
         <mark key="." line="16" column="38" />
         <mark key="^" line="16" column="39" />
       </file>
+      <file name="D:/source/DigitalTravel/frontend/src/pages/app/OrderView.vue" timestamp="1594886101790">
+        <mark key="'" line="322" column="12" />
+      </file>
       <file name="D:/source/DigitalTravel/frontend/src/components/admin/form/ManualOrderForm.vue" timestamp="1594875595309">
         <mark key="'" line="72" column="67" />
       </file>
@@ -153,12 +156,6 @@
         <mark key="]" line="0" column="49" />
         <mark key="^" line="0" column="50" />
         <mark key="." line="0" column="49" />
-      </file>
-      <file name="D:/source/DigitalTravel/backend/flight/FlightDomesticChecker.php" timestamp="1594787024774">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="15" column="27" />
       </file>
       <file name="D:/source/utb/flight/FlightChannelInterface.php" timestamp="1594872102009">
         <mark key="[" line="3" column="0" />
@@ -194,15 +191,13 @@
         <mark key="^" line="46" column="26" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="D:/source/DigitalTravel/frontend/src/components/app/partials/OrderPriceDetail.vue" timestamp="1594886121054">
+        <mark key="'" line="96" column="4" />
+      </file>
       <file name="D:/source/Navisteps/backend/flight/FlightSearcher.php" timestamp="1594872432070" />
       <file name="D:/source/Navisteps/backend/features/trip/storages/yiiStorages/TripStorage.php" timestamp="1594801267806" />
     </filemarks>
     <jumps>
-      <jump line="768" column="46" filename="D:/source/DigitalTravel/backend/tests/unit/flight/formatters/TravelportItineraryFormatterTest.php" />
-      <jump line="770" column="37" filename="D:/source/DigitalTravel/backend/tests/unit/flight/formatters/TravelportItineraryFormatterTest.php" />
-      <jump line="771" column="49" filename="D:/source/DigitalTravel/backend/tests/unit/flight/formatters/TravelportItineraryFormatterTest.php" />
-      <jump line="772" column="49" filename="D:/source/DigitalTravel/backend/tests/unit/flight/formatters/TravelportItineraryFormatterTest.php" />
-      <jump line="773" column="49" filename="D:/source/DigitalTravel/backend/tests/unit/flight/formatters/TravelportItineraryFormatterTest.php" />
       <jump line="775" column="46" filename="D:/source/DigitalTravel/backend/tests/unit/flight/formatters/TravelportItineraryFormatterTest.php" />
       <jump line="776" column="46" filename="D:/source/DigitalTravel/backend/tests/unit/flight/formatters/TravelportItineraryFormatterTest.php" />
       <jump line="770" column="8" filename="D:/source/DigitalTravel/frontend/src/pages/app/OrderForm.vue" />
@@ -298,6 +293,11 @@
       <jump line="40" column="4" filename="D:/source/DigitalTravel/backend/tests/unit/flight/FlightDomesticCheckerTest.php" />
       <jump line="69" column="20" filename="D:/source/DigitalTravel/frontend/src/components/admin/form/ManualOrderForm.vue" />
       <jump line="72" column="67" filename="D:/source/DigitalTravel/frontend/src/components/admin/form/ManualOrderForm.vue" />
+      <jump line="555" column="43" filename="D:/source/DigitalTravel/frontend/src/pages/app/OrderView.vue" />
+      <jump line="322" column="12" filename="D:/source/DigitalTravel/frontend/src/pages/app/OrderView.vue" />
+      <jump line="13" column="10" filename="D:/source/DigitalTravel/frontend/src/components/app/partials/OrderPriceDetail.vue" />
+      <jump line="128" column="22" filename="D:/source/DigitalTravel/frontend/src/components/app/partials/OrderPriceDetail.vue" />
+      <jump line="96" column="4" filename="D:/source/DigitalTravel/frontend/src/components/app/partials/OrderPriceDetail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -318,7 +318,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>serviceFee</text>
+        <text>isManual</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CWNvbnN0IE5BTUVfQURVTFRfRkFSRSA9ICdhZHVsdEZhcmUnOwoJY29uc3QgTkFNRV9BRFVMVF9UQVggPSAnYWR1bHRUYXgnOwoJY29uc3QgTkFNRV9DSElMRF9GQVJFID0gJ2NoaWxkRmFyZSc7Cgljb25zdCBOQU1FX0NISUxEX1RBWCA9ICdjaGlsZFRheCc7Cgljb25zdCBOQU1FX1NVUkNIQVJHRSA9ICdzdXJjaGFyZ2UnOwoJY29uc3QgTkFNRV9JU1NVRV9GRUUgPSAnaXNzdWVGZWUnOwoJY29uc3QgTkFNRV9DQU5DRUxfRkVFID0gJ2NhbmNlbEZlZSc7Cgljb25zdCBOQU1FX1BFTkFMVFkgPSAncGVuYWx0eSc7</text>
@@ -373,9 +373,9 @@ class Derived extends Base {
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>serviceFee</last-search>
+      <last-search>isManual</last-search>
       <last-offset />
-      <last-pattern>serviceFee</last-pattern>
+      <last-pattern>isManual</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

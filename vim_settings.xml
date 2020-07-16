@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>True</entry>
         <entry>Emp</entry>
         <entry>expec</entry>
         <entry>booking-session</entry>
@@ -25,6 +24,7 @@
         <entry>TripStorage</entry>
         <entry>function test</entry>
         <entry>public</entry>
+        <entry>serviceFee</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c291cmNlIEM6XFVzZXJzXGNqd1wuaWRlYXZpbXJjIA==</entry>
@@ -141,6 +141,9 @@
         <mark key="." line="16" column="38" />
         <mark key="^" line="16" column="39" />
       </file>
+      <file name="D:/source/DigitalTravel/frontend/src/components/admin/form/ManualOrderForm.vue" timestamp="1594875595309">
+        <mark key="'" line="72" column="67" />
+      </file>
       <file name="D:/source/utb/order/orderManagers/FlightOrderManager.php" timestamp="1594807097682">
         <mark key="[" line="128" column="7" />
       </file>
@@ -157,19 +160,6 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="15" column="27" />
       </file>
-      <file name="D:/source/utb/test/php/tests/unit/pricing/SabreSoapPricingTest.php" timestamp="1594786616646">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1647" column="10" />
-        <mark key="]" line="1647" column="20" />
-        <mark key="." line="1647" column="19" />
-        <mark key="^" line="1647" column="20" />
-      </file>
-      <file name="D:/source/utb/pricing/SabreSoapPricing.php" timestamp="1594786660036">
-        <mark key="[" line="226" column="9" />
-        <mark key="]" line="226" column="23" />
-        <mark key="." line="226" column="22" />
-        <mark key="^" line="226" column="23" />
-      </file>
       <file name="D:/source/utb/flight/FlightChannelInterface.php" timestamp="1594872102009">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="101" />
@@ -182,6 +172,10 @@
       </file>
       <file name="D:/source/Navisteps/backend/features/trip/storages/yiiStorages/TripExpenseStorage.php" timestamp="1594801287152">
         <mark key="'" line="4" column="4" />
+      </file>
+      <file name="D:/source/DigitalTravel/backend/utb/pricing/storage/yiiActiveRecords/Pricing.php" timestamp="1594875735360">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="22" column="34" />
       </file>
       <file name="/Dummy.txt" timestamp="1594801605472">
         <mark key="[" line="0" column="0" />
@@ -204,8 +198,6 @@
       <file name="D:/source/Navisteps/backend/features/trip/storages/yiiStorages/TripStorage.php" timestamp="1594801267806" />
     </filemarks>
     <jumps>
-      <jump line="766" column="46" filename="D:/source/DigitalTravel/backend/tests/unit/flight/formatters/TravelportItineraryFormatterTest.php" />
-      <jump line="767" column="46" filename="D:/source/DigitalTravel/backend/tests/unit/flight/formatters/TravelportItineraryFormatterTest.php" />
       <jump line="768" column="46" filename="D:/source/DigitalTravel/backend/tests/unit/flight/formatters/TravelportItineraryFormatterTest.php" />
       <jump line="770" column="37" filename="D:/source/DigitalTravel/backend/tests/unit/flight/formatters/TravelportItineraryFormatterTest.php" />
       <jump line="771" column="49" filename="D:/source/DigitalTravel/backend/tests/unit/flight/formatters/TravelportItineraryFormatterTest.php" />
@@ -304,6 +296,8 @@
       <jump line="29" column="0" filename="D:/source/DigitalTravel/backend/tests/unit/flight/FlightDomesticCheckerTest.php" />
       <jump line="21" column="4" filename="D:/source/DigitalTravel/backend/tests/unit/flight/FlightDomesticCheckerTest.php" />
       <jump line="40" column="4" filename="D:/source/DigitalTravel/backend/tests/unit/flight/FlightDomesticCheckerTest.php" />
+      <jump line="69" column="20" filename="D:/source/DigitalTravel/frontend/src/components/admin/form/ManualOrderForm.vue" />
+      <jump line="72" column="67" filename="D:/source/DigitalTravel/frontend/src/components/admin/form/ManualOrderForm.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -318,16 +312,16 @@
         <text encoding="base64">ZnVuY3Rpb24gdGVzdElzQXVzdHJhbGlhbkRvbWVzdGljRmxpZ2h0KCkgewoJCSR0aGlzLT5naXZlbkFpcnBvcnQoJ1NZRCcsIDEpOwoJCSR0aGlzLT5naXZlbkFpcnBvcnQoJ09PTCcsIDEpOwoJCSR0aGlzLT5naXZlbkNvdW50cnkoMSwgJ0FVJyk7CgkJJHRoaXMtPmdpdmVuU2VhcmNoQ29udGV4dCgnU1lEJywgJ09PTCcpOwoKCQkkdGhpcy0+d2hlbklzQXVzdHJhbGlhbkRvbWVzdGljRmxpZ2h0KCk7CgoJCSR0aGlzLT5zaG91bGRCZUF1c3RyYWxpYW5Eb21lc3RpY0ZsaWdodCgpOwoJfQo=</text>
       </register>
       <register name="*" type="4">
-        <text>#</text>
+        <text encoding="base64">CWNvbnN0IE5BTUVfQURVTFRfRkFSRSA9ICdhZHVsdEZhcmUnOwoJY29uc3QgTkFNRV9BRFVMVF9UQVggPSAnYWR1bHRUYXgnOwoJY29uc3QgTkFNRV9DSElMRF9GQVJFID0gJ2NoaWxkRmFyZSc7Cgljb25zdCBOQU1FX0NISUxEX1RBWCA9ICdjaGlsZFRheCc7Cgljb25zdCBOQU1FX1NVUkNIQVJHRSA9ICdzdXJjaGFyZ2UnOwoJY29uc3QgTkFNRV9JU1NVRV9GRUUgPSAnaXNzdWVGZWUnOwoJY29uc3QgTkFNRV9DQU5DRUxfRkVFID0gJ2NhbmNlbEZlZSc7Cgljb25zdCBOQU1FX1BFTkFMVFkgPSAncGVuYWx0eSc7</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>public</text>
+        <text>serviceFee</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Z2l2ZW5Db3VudHJ5KDEsICdBVScpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">CWNvbnN0IE5BTUVfQURVTFRfRkFSRSA9ICdhZHVsdEZhcmUnOwoJY29uc3QgTkFNRV9BRFVMVF9UQVggPSAnYWR1bHRUYXgnOwoJY29uc3QgTkFNRV9DSElMRF9GQVJFID0gJ2NoaWxkRmFyZSc7Cgljb25zdCBOQU1FX0NISUxEX1RBWCA9ICdjaGlsZFRheCc7Cgljb25zdCBOQU1FX1NVUkNIQVJHRSA9ICdzdXJjaGFyZ2UnOwoJY29uc3QgTkFNRV9JU1NVRV9GRUUgPSAnaXNzdWVGZWUnOwoJY29uc3QgTkFNRV9DQU5DRUxfRkVFID0gJ2NhbmNlbEZlZSc7Cgljb25zdCBOQU1FX1BFTkFMVFkgPSAncGVuYWx0eSc7</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgYmFyKCkgbWV0aG9kLgo=</text>
@@ -379,10 +373,10 @@ class Derived extends Base {
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>public</last-search>
+      <last-search>serviceFee</last-search>
       <last-offset />
-      <last-pattern>public</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>serviceFee</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>

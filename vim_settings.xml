@@ -128,7 +128,8 @@
       <file name="/a.dummy" timestamp="1594801577883">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/source/utb/flight/FlightSearcher.php" timestamp="1594870976888">
+      <file name="D:/source/utb/behaviors/SerializeAttributeBehavior.php" timestamp="1594873014453" />
+      <file name="D:/source/utb/flight/FlightSearcher.php" timestamp="1594873589534">
         <mark key="[" line="108" column="31" />
         <mark key="]" line="44" column="13" />
         <mark key="^" line="44" column="13" />
@@ -143,7 +144,7 @@
       <file name="D:/source/utb/order/orderManagers/FlightOrderManager.php" timestamp="1594807097682">
         <mark key="[" line="128" column="7" />
       </file>
-      <file name="D:/source/DigitalTravel/backend/flight/FlightSearcher.php" timestamp="1594870562688" />
+      <file name="D:/source/DigitalTravel/backend/flight/FlightSearcher.php" timestamp="1594872554736" />
       <file name="/fragment.php" timestamp="1594787091065">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="49" />
@@ -169,15 +170,12 @@
         <mark key="." line="226" column="22" />
         <mark key="^" line="226" column="23" />
       </file>
-      <file name="D:/source/DigitalTravel/backend/flight/storage/yiiStorages/FlightSearchSessionStorage.php" timestamp="1594870406877" />
-      <file name="D:/source/DigitalTravel/backend/tests/integration/controllers/app/FlightControllerTest.php" timestamp="1594711354325">
-        <mark key="b" line="1052" column="0" />
-        <mark key="'" line="1544" column="32" />
-        <mark key="[" line="1743" column="12" />
-        <mark key="]" line="1743" column="61" />
-        <mark key="^" line="1743" column="61" />
-        <mark key="." line="1743" column="60" />
+      <file name="D:/source/utb/flight/FlightChannelInterface.php" timestamp="1594872102009">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="101" />
+        <mark key="." line="3" column="0" />
       </file>
+      <file name="D:/source/DigitalTravel/backend/flight/storage/yiiStorages/FlightSearchSessionStorage.php" timestamp="1594870406877" />
       <file name="D:/source/DigitalTravel/backend/tests/unit/flight/FlightDomesticCheckerTest.php" timestamp="1594801586362">
         <mark key="b" line="31" column="0" />
         <mark key="'" line="32" column="4" />
@@ -190,14 +188,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/source/utb/flight/storage/yiiActiveRecords/FlightSearchSession.php" timestamp="1594716744169" />
-      <file name="D:/source/utb/flight/FlightCreator.php" timestamp="1594718418488" />
-      <file name="D:/source/utb/flight/FlightBooker.php" timestamp="1594869865893">
+      <file name="D:/source/utb/flight/FlightBooker.php" timestamp="1594872020083">
         <mark key="[" line="13" column="18" />
         <mark key="]" line="13" column="19" />
         <mark key="^" line="13" column="19" />
         <mark key="." line="13" column="18" />
       </file>
+      <file name="D:/source/Navisteps/backend/flight/FlightSearcher.php" timestamp="1594872432070" />
       <file name="D:/source/Navisteps/backend/features/trip/storages/yiiStorages/TripStorage.php" timestamp="1594801267806" />
     </filemarks>
     <jumps>

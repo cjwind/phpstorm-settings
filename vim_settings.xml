@@ -38,7 +38,6 @@
         <entry>action GotoPreviousError</entry>
         <entry>action GotoNextError</entry>
         <entry>25</entry>
-        <entry>action AceAction</entry>
         <entry>action IntroduceVariable</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action IntroduceParameter</entry>
@@ -47,6 +46,7 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>action ReformatCode</entry>
         <entry>action Rerun</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,65 +125,43 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1594801577883">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/source/utb/behaviors/SerializeAttributeBehavior.php" timestamp="1594873014453" />
-      <file name="D:/source/utb/flight/FlightSearcher.php" timestamp="1594873589534">
-        <mark key="[" line="108" column="31" />
-        <mark key="]" line="44" column="13" />
-        <mark key="^" line="44" column="13" />
-        <mark key="." line="44" column="12" />
-      </file>
-      <file name="D:/source/DigitalTravel/backend/commands/TestController.php" timestamp="1594805930594">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="16" column="39" />
-        <mark key="." line="16" column="38" />
-        <mark key="^" line="16" column="39" />
-      </file>
-      <file name="D:/source/DigitalTravel/frontend/src/pages/app/OrderView.vue" timestamp="1594886101790">
-        <mark key="'" line="322" column="12" />
-      </file>
-      <file name="D:/source/DigitalTravel/frontend/src/components/admin/form/ManualOrderForm.vue" timestamp="1594875595309">
-        <mark key="'" line="72" column="67" />
-      </file>
-      <file name="D:/source/utb/order/orderManagers/FlightOrderManager.php" timestamp="1594807097682">
-        <mark key="[" line="128" column="7" />
-      </file>
-      <file name="D:/source/DigitalTravel/backend/flight/FlightSearcher.php" timestamp="1594872554736" />
-      <file name="/fragment.php" timestamp="1594787091065">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="49" />
-        <mark key="^" line="0" column="50" />
-        <mark key="." line="0" column="49" />
-      </file>
-      <file name="D:/source/utb/flight/FlightChannelInterface.php" timestamp="1594872102009">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="101" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="D:/source/DigitalTravel/backend/flight/storage/yiiStorages/FlightSearchSessionStorage.php" timestamp="1594870406877" />
-      <file name="D:/source/DigitalTravel/backend/tests/unit/flight/FlightDomesticCheckerTest.php" timestamp="1594801586362">
-        <mark key="b" line="31" column="0" />
-        <mark key="'" line="32" column="4" />
-      </file>
-      <file name="D:/source/Navisteps/backend/features/trip/storages/yiiStorages/TripExpenseStorage.php" timestamp="1594801287152">
-        <mark key="'" line="4" column="4" />
-      </file>
       <file name="D:/source/DigitalTravel/backend/utb/pricing/storage/yiiActiveRecords/Pricing.php" timestamp="1594883717663">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="22" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594883700019">
+      <file name="D:/source/utb/order/storage/yiiActiveRecords/Order.php" timestamp="1594958282966">
+        <mark key="'" line="20" column="44" />
+        <mark key="[" line="418" column="50" />
+        <mark key="]" line="420" column="0" />
+        <mark key="." line="420" column="0" />
+      </file>
+      <file name="D:/source/DigitalTravel/backend/db/main/migrations/20200715094606_add_contact_language_to_member.php" timestamp="1594957862686" />
+      <file name="D:/source/utb/db/migrations/20200219032705_create_order.php" timestamp="1594958486710">
+        <mark key="[" line="5" column="45" />
+      </file>
+      <file name="D:/source/DigitalTravel/frontend/src/components/admin/form/ManualOrderForm.vue" timestamp="1594875595309">
+        <mark key="'" line="72" column="67" />
+      </file>
+      <file name="D:/source/utb/db/migrations/20200717032456_add_contact_language_to_order.php" timestamp="1594958493538">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="28" />
+        <mark key="." line="15" column="28" />
+        <mark key="^" line="6" column="36" />
+      </file>
+      <file name="D:/source/utb/.gitlab-ci.yml" timestamp="1594958724429">
+        <mark key="[" line="21" column="11" />
+      </file>
+      <file name="D:/source/utb/order/storage/IOrderDao.php" timestamp="1594958149018">
+        <mark key="[" line="60" column="50" />
+        <mark key="]" line="62" column="48" />
+        <mark key="^" line="62" column="48" />
+        <mark key="." line="62" column="47" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594958528474">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/source/utb/flight/FlightBooker.php" timestamp="1594872020083">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="13" column="19" />
-        <mark key="^" line="13" column="19" />
-        <mark key="." line="13" column="18" />
+        <mark key="^" line="0" column="8" />
       </file>
       <file name="D:/source/DigitalTravel/.env" timestamp="1594875455927">
         <mark key="[" line="30" column="0" />
@@ -194,11 +172,11 @@
       <file name="D:/source/DigitalTravel/frontend/src/components/app/partials/OrderPriceDetail.vue" timestamp="1594886121054">
         <mark key="'" line="96" column="4" />
       </file>
-      <file name="D:/source/Navisteps/backend/flight/FlightSearcher.php" timestamp="1594872432070" />
-      <file name="D:/source/Navisteps/backend/features/trip/storages/yiiStorages/TripStorage.php" timestamp="1594801267806" />
+      <file name="D:/source/DigitalTravel/frontend/src/pages/app/OrderView.vue" timestamp="1594886101790">
+        <mark key="'" line="322" column="12" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="775" column="46" filename="D:/source/DigitalTravel/backend/tests/unit/flight/formatters/TravelportItineraryFormatterTest.php" />
       <jump line="776" column="46" filename="D:/source/DigitalTravel/backend/tests/unit/flight/formatters/TravelportItineraryFormatterTest.php" />
       <jump line="770" column="8" filename="D:/source/DigitalTravel/frontend/src/pages/app/OrderForm.vue" />
       <jump line="934" column="8" filename="D:/source/DigitalTravel/frontend/src/pages/app/OrderForm.vue" />
@@ -298,6 +276,7 @@
       <jump line="13" column="10" filename="D:/source/DigitalTravel/frontend/src/components/app/partials/OrderPriceDetail.vue" />
       <jump line="128" column="22" filename="D:/source/DigitalTravel/frontend/src/components/app/partials/OrderPriceDetail.vue" />
       <jump line="96" column="4" filename="D:/source/DigitalTravel/frontend/src/components/app/partials/OrderPriceDetail.vue" />
+      <jump line="20" column="44" filename="D:/source/utb/order/storage/yiiActiveRecords/Order.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -311,11 +290,19 @@
       <register name="b" type="4">
         <text encoding="base64">ZnVuY3Rpb24gdGVzdElzQXVzdHJhbGlhbkRvbWVzdGljRmxpZ2h0KCkgewoJCSR0aGlzLT5naXZlbkFpcnBvcnQoJ1NZRCcsIDEpOwoJCSR0aGlzLT5naXZlbkFpcnBvcnQoJ09PTCcsIDEpOwoJCSR0aGlzLT5naXZlbkNvdW50cnkoMSwgJ0FVJyk7CgkJJHRoaXMtPmdpdmVuU2VhcmNoQ29udGV4dCgnU1lEJywgJ09PTCcpOwoKCQkkdGhpcy0+d2hlbklzQXVzdHJhbGlhbkRvbWVzdGljRmxpZ2h0KCk7CgoJCSR0aGlzLT5zaG91bGRCZUF1c3RyYWxpYW5Eb21lc3RpY0ZsaWdodCgpOwoJfQo=</text>
       </register>
-      <register name="*" type="4">
-        <text encoding="base64">CWNvbnN0IE5BTUVfQURVTFRfRkFSRSA9ICdhZHVsdEZhcmUnOwoJY29uc3QgTkFNRV9BRFVMVF9UQVggPSAnYWR1bHRUYXgnOwoJY29uc3QgTkFNRV9DSElMRF9GQVJFID0gJ2NoaWxkRmFyZSc7Cgljb25zdCBOQU1FX0NISUxEX1RBWCA9ICdjaGlsZFRheCc7Cgljb25zdCBOQU1FX1NVUkNIQVJHRSA9ICdzdXJjaGFyZ2UnOwoJY29uc3QgTkFNRV9JU1NVRV9GRUUgPSAnaXNzdWVGZWUnOwoJY29uc3QgTkFNRV9DQU5DRUxfRkVFID0gJ2NhbmNlbEZlZSc7Cgljb25zdCBOQU1FX1BFTkFMVFkgPSAncGVuYWx0eSc7</text>
+      <register name="*" type="2">
+        <text>Add contact language getter to order
+
+ublic function a($getContactLanguage)
+
+: strings
+
+ublic function a($getContactLanguage)
+
+: string</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>marketingConsent</text>
       </register>
       <register name="/" type="4">
         <text>isManual</text>
@@ -324,15 +311,38 @@
         <text encoding="base64">CWNvbnN0IE5BTUVfQURVTFRfRkFSRSA9ICdhZHVsdEZhcmUnOwoJY29uc3QgTkFNRV9BRFVMVF9UQVggPSAnYWR1bHRUYXgnOwoJY29uc3QgTkFNRV9DSElMRF9GQVJFID0gJ2NoaWxkRmFyZSc7Cgljb25zdCBOQU1FX0NISUxEX1RBWCA9ICdjaGlsZFRheCc7Cgljb25zdCBOQU1FX1NVUkNIQVJHRSA9ICdzdXJjaGFyZ2UnOwoJY29uc3QgTkFNRV9JU1NVRV9GRUUgPSAnaXNzdWVGZWUnOwoJY29uc3QgTkFNRV9DQU5DRUxfRkVFID0gJ2NhbmNlbEZlZSc7Cgljb25zdCBOQU1FX1BFTkFMVFkgPSAncGVuYWx0eSc7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgYmFyKCkgbWV0aG9kLgo=</text>
+        <text>Add contact language getter to order
+
+ublic function a($getContactLanguage)
+
+: strings
+
+ublic function a($getContactLanguage)
+
+: string</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlEZXJpdmVkOjpmb28oKTsKCQllY2hvICI9PT09PT09PT09PT09PT1cbiI7CgkJJGQgPSBuZXcgRGVyaXZlZCgpOwoJCSRkLT5mb28oKTsK</text>
+        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0Q29udGFjdExhbmd1YWdlKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW50ZXJmYWNlX2V4aXN0cygkaW50ZXJmYWNlX25hbWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ2hhbmdlIE1ldGhvZC4KICAgICAqCiAgICAgKiBXcml0ZSB5b3VyIHJldmVyc2libGUgbWlncmF0aW9ucyB1c2luZyB0aGlzIG1ldGhvZC4KICAgICAqCiAgICAgKiBNb3JlIGluZm9ybWF0aW9uIG9uIHdyaXRpbmcgbWlncmF0aW9ucyBpcyBhdmFpbGFibGUgaGVyZToKICAgICAqIGh0dHA6Ly9kb2NzLnBoaW54Lm9yZy9lbi9sYXRlc3QvbWlncmF0aW9ucy5odG1sI3RoZS1hYnN0cmFjdG1pZ3JhdGlvbi1jbGFzcwogICAgICoKICAgICAqIFRoZSBmb2xsb3dpbmcgY29tbWFuZHMgY2FuIGJlIHVzZWQgaW4gdGhpcyBtZXRob2QgYW5kIFBoaW54IHdpbGwKICAgICAqIGF1dG9tYXRpY2FsbHkgcmV2ZXJzZSB0aGVtIHdoZW4gcm9sbGluZyBiYWNrOgogICAgICoKICAgICAqICAgIGNyZWF0ZVRhYmxlCiAgICAgKiAgICByZW5hbWVUYWJsZQogICAgICogICAgYWRkQ29sdW1uCiAgICAgKiAgICBhZGRDdXN0b21Db2x1bW4KICAgICAqICAgIHJlbmFtZUNvbHVtbgogICAgICogICAgYWRkSW5kZXgKICAgICAqICAgIGFkZEZvcmVpZ25LZXkKICAgICAqCiAgICAgKiBBbnkgb3RoZXIgZGVzdHJ1Y3RpdmUgY2hhbmdlcyB3aWxsIHJlc3VsdCBpbiBhbiBlcnJvciB3aGVuIHRyeWluZyB0bwogICAgICogcm9sbGJhY2sgdGhlIG1pZ3JhdGlvbi4KICAgICAqCiAgICAgKiBSZW1lbWJlciB0byBjYWxsICJjcmVhdGUoKSIgb3IgInVwZGF0ZSgpIiBhbmQgTk9UICJzYXZlKCkiIHdoZW4gd29ya2luZwogICAgICogd2l0aCB0aGUgVGFibGUgY2xhc3MuCiAgICAgKi8=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgYmFyKCkgbWV0aG9kLgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlEZXJpdmVkOjpmb28oKTsKCQllY2hvICI9PT09PT09PT09PT09PT1cbiI7CgkJJGQgPSBuZXcgRGVyaXZlZCgpOwoJCSRkLT5mb28oKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW50ZXJmYWNlX2V4aXN0cygkaW50ZXJmYWNlX25hbWUpCg==</text>
+      </register>
+      <register name="w" type="4">
+        <text />
+      </register>
+      <register name="8" type="2">
         <text>abstract class Base {
 	static public function foo() {
 		echo &quot;Base::foo()\n&quot;;
@@ -348,26 +358,11 @@ class Derived extends Base {
 	}
 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkkdGhpcy0+c2hvdWxkQmVBdXN0cmFsaWFuRG9tZXN0aWNGbGlnaHQoKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHRlc3RJc0F1c3RyYWxpYW5Eb21lc3RpY0ZsaWdodF9Ob3RBdXMoKSB7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="w" type="4">
-        <text />
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CX0K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQlwYXJlbnQ6OnNldFVwKCk7Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>action Rerun</text>
+        <text>action AceAction</text>
       </register>
     </registers>
   </component>

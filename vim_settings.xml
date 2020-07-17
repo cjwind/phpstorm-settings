@@ -148,8 +148,11 @@
         <mark key="." line="15" column="28" />
         <mark key="^" line="6" column="36" />
       </file>
-      <file name="D:/source/utb/.gitlab-ci.yml" timestamp="1594958724429">
-        <mark key="[" line="21" column="11" />
+      <file name="D:/source/utb/oconf" timestamp="1594958850052" />
+      <file name="D:/source/utb/.gitlab-ci.yml" timestamp="1594960060172">
+        <mark key="[" line="25" column="14" />
+        <mark key="]" line="25" column="15" />
+        <mark key="." line="25" column="15" />
       </file>
       <file name="D:/source/utb/order/storage/IOrderDao.php" timestamp="1594958149018">
         <mark key="[" line="60" column="50" />
@@ -290,19 +293,11 @@
       <register name="b" type="4">
         <text encoding="base64">ZnVuY3Rpb24gdGVzdElzQXVzdHJhbGlhbkRvbWVzdGljRmxpZ2h0KCkgewoJCSR0aGlzLT5naXZlbkFpcnBvcnQoJ1NZRCcsIDEpOwoJCSR0aGlzLT5naXZlbkFpcnBvcnQoJ09PTCcsIDEpOwoJCSR0aGlzLT5naXZlbkNvdW50cnkoMSwgJ0FVJyk7CgkJJHRoaXMtPmdpdmVuU2VhcmNoQ29udGV4dCgnU1lEJywgJ09PTCcpOwoKCQkkdGhpcy0+d2hlbklzQXVzdHJhbGlhbkRvbWVzdGljRmxpZ2h0KCk7CgoJCSR0aGlzLT5zaG91bGRCZUF1c3RyYWxpYW5Eb21lc3RpY0ZsaWdodCgpOwoJfQo=</text>
       </register>
-      <register name="*" type="2">
-        <text>Add contact language getter to order
-
-ublic function a($getContactLanguage)
-
-: strings
-
-ublic function a($getContactLanguage)
-
-: string</text>
+      <register name="*" type="4">
+        <text>30 days</text>
       </register>
       <register name="-" type="4">
-        <text>marketingConsent</text>
+        <text>30 days</text>
       </register>
       <register name="/" type="4">
         <text>isManual</text>

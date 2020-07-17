@@ -168,7 +168,9 @@
       </file>
       <file name="D:/source/TravelCorp/modules/api/models/FlightAdvancedSearcher.php" timestamp="1594978625930" />
       <file name="D:/source/TravelCorp/activeRecords/SystemConfig.php" timestamp="1594979371443" />
+      <file name="D:/source/TravelCorp/utb/flight/travelFusion/channels/TravelFusionResponseParser.php" timestamp="1594980780372" />
       <file name="D:/source/DigitalTravel/backend/tests/unit/order/resources/AdminOrderResourceTest.php" timestamp="1594975576501" />
+      <file name="D:/source/TravelCorp/utb/flight/travelFusion/channels/TravelFusion.php" timestamp="1594979930870" />
     </filemarks>
     <jumps>
       <jump line="776" column="46" filename="D:/source/DigitalTravel/backend/tests/unit/flight/formatters/TravelportItineraryFormatterTest.php" />

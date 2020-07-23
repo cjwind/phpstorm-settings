@@ -169,11 +169,16 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="D:/source/DigitalTravel/backend/tests/unit/order/resources/OrderResourceTest.php" timestamp="1595414473718">
-        <mark key="[" line="114" column="47" />
-        <mark key="]" line="508" column="111" />
-        <mark key="^" line="508" column="111" />
-        <mark key="." line="508" column="110" />
+      <file name="/Dummy.txt" timestamp="1595414629006">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/source/DigitalTravel/backend/tests/unit/order/resources/OrderResourceTest.php" timestamp="1595414594546">
+        <mark key="[" line="268" column="0" />
+        <mark key="]" line="268" column="0" />
+        <mark key="^" line="113" column="56" />
+        <mark key="." line="268" column="0" />
       </file>
       <file name="D:/source/DigitalTravel/backend/order/resources/OrderChildResource.php" timestamp="1595414123241">
         <mark key="[" line="28" column="0" />
@@ -308,11 +313,13 @@
       <register name="b" type="4">
         <text encoding="base64">ZnVuY3Rpb24gdGVzdElzQXVzdHJhbGlhbkRvbWVzdGljRmxpZ2h0KCkgewoJCSR0aGlzLT5naXZlbkFpcnBvcnQoJ1NZRCcsIDEpOwoJCSR0aGlzLT5naXZlbkFpcnBvcnQoJ09PTCcsIDEpOwoJCSR0aGlzLT5naXZlbkNvdW50cnkoMSwgJ0FVJyk7CgkJJHRoaXMtPmdpdmVuU2VhcmNoQ29udGV4dCgnU1lEJywgJ09PTCcpOwoKCQkkdGhpcy0+d2hlbklzQXVzdHJhbGlhbkRvbWVzdGljRmxpZ2h0KCk7CgoJCSR0aGlzLT5zaG91bGRCZUF1c3RyYWxpYW5Eb21lc3RpY0ZsaWdodCgpOwoJfQo=</text>
       </register>
-      <register name="*" type="4">
-        <text>;</text>
+      <register name="*" type="2">
+        <text>Simplify order child resource test
+
+The formatted result of flight and manual child is tested in both</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>isAu</text>
@@ -321,34 +328,36 @@
         <text encoding="base64">CQkJCSRyZXRbJ21hbnVhbCddID0gJHRoaXMtPm1hbnVhbFJlc291cmNlLT5mb3JtYXQoJHRoaXMtPmdldENoaWxkKCRtb2RlbCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkcmV0ID0gYXJyYXlfbWVyZ2UoJHJldCwgJHRoaXMtPm9yZGVyQ2hpbGRSZXNvdXJjZS0+Zm9ybWF0Q2hpbGQoJG1vZGVsKSk7Cg==</text>
+        <text>Simplify order child resource test
+
+The formatted result of flight and manual child is tested in both</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8JCSR0aGlzLT5vcmRlckNoaWxkUmVzb3VyY2UtPmZvcm1hdENoaWxkKCRtb2RlbCwgJHJldCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiB0ZXN0Rm9ybWF0V2l0aEZsaWdodE9yZGVyX0F1c3RyYWxpYW5Eb21lc3RpY0ZsaWdodCgpIHsKCQkkbW9kZWwgPSBbCgkJCSd0eXBlJyA9PiAnZmxpZ2h0JywKCQkJJ29yZGVyTm8nID0+ICdBMjAyMDAyMjQyNzAzNzknLAoJCQkndmVyaWZ5SGFzaCcgPT4gJ2RhMGZmMDJkNWQyZTQzZDYyMTNlMzRjYTI3MzFhODkwNjk2YTQ1ZWEnLAoJCQknbGFuZ3VhZ2UnID0+ICdlbi1VUycsCgkJCSdzdGF0dXMnID0+ICdjb25maXJtZWQnLAoJCQknZW1haWwnID0+ICd0ZXN0QHRlc3QudGVzdCcsCgkJCSdjb250YWN0TGFuZ3VhZ2UnID0+ICdFbmdsaXNoJywKCQkJJ2NyZWF0ZVRpbWUnID0+ICcyMDIwLTAyLTI0VDE4OjIxOjQ5LjAwMCswODowMCcsCgkJCSdsYXN0VXBkYXRlVGltZScgPT4gJzIwMjAtMDItMjRUMTg6MjE6NDkuMDAwKzA4OjAwJywKCQkJJ2V4cGlyZVRpbWUnID0+ICcyMDIwLTAyLTI0VDE5OjIxOjQ5LjAwMCswODowMCcsCgkJCSdwcmljaW5ncycgPT4gWyd0ZXN0UHJpY2luZ3MnXSwKCQkJJ2ZsaWdodCcgPT4gWwoJCQkJJ3BuckxvY2F0b3InID0+IG51bGwsCgkJCQknc3RhdHVzJyA9PiBbCgkJCQkJJ2hvbGRTZWF0JyA9PiAnaW5pdCcsCgkJCQkJJ3VuaG9sZFNlYXQnID0+ICdpbml0JywKCQkJCQknaXNzdWVUaWNrZXQnID0+ICdpbml0JywKCQkJCV0sCgkJCQknY29udGFjdCcgPT4gWwoJCQkJCSdzdXJuYW1lJyA9PiAnQ0hBTycsCgkJCQkJJ2dpdmVuTmFtZScgPT4gJ1BPWUEnLAoJCQkJCSdnZW5kZXInID0+ICdmZW1hbGUnLAoJCQkJCSdlbWFpbCcgPT4gJ3VzZXJAZXhhbXBsZS5jb20nLAoJCQkJCSdwaG9uZUNvdW50cnknID0+ICdUVycsCgkJCQkJJ3Bob25lRGlhbENvZGUnID0+ICc4ODYnLAoJCQkJCSdwaG9uZU51bWJlcicgPT4gJzkxMjM0NTY3OCcsCgkJCQkJJ2luSm91cm5leVBob25lQ291bnRyeScgPT4gbnVsbCwKCQkJCQknaW5Kb3VybmV5UGhvbmVEaWFsQ29kZScgPT4gbnVsbCwKCQkJCQknaW5Kb3VybmV5UGhvbmVOdW1iZXInID0+IG51bGwsCgkJCQldLAoJCQkJJ3Bhc3NlbmdlcnMnID0+IFsKCQkJCQlbCgkJCQkJCSdpZCcgPT4gJzAnLAoJCQkJCQkndHlwZScgPT4gJ2FkdWx0JywKCQkJCQkJJ3N1cm5hbWUnID0+ICdDSEFPJywKCQkJCQkJJ2dpdmVuTmFtZScgPT4gJ1BPWUEnLAoJCQkJCQknZ2VuZGVyJyA9PiAnZmVtYWxlJywKCQkJCQkJJ2JpcnRoZGF5JyA9PiAnMTk4OC0xMC0yMCcsCgkJCQkJCSduYXRpb25hbGl0eScgPT4gJ1RXJywKCQkJCQkJJ2lkQ291bnRyeScgPT4gJ1RXJywKCQkJCQkJJ2lkVHlwZScgPT4gJ3Bhc3Nwb3J0JywKCQkJCQkJJ2lkTnVtYmVyJyA9PiAnMjEyMzg5NzEnLAoJCQkJCQknaWRFeHBpcnknID0+ICcyMDI5LTEyLTE4JywKCQkJCQkJJ2lkSXNzdWVkJyA9PiAnMjAwOS0xMi0xOCcsCgkJCQkJCSdzcGVjaWFsUmVxdWVzdCcgPT4gbnVsbCwKCQkJCQldLAoJCQkJXSwKCQkJCSd0aWNrZXRzJyA9PiAndGlja2V0cycsCgkJCQknc2VnbWVudFBhc3NlbmdlckRhdGEnID0+ICdzZWdtZW50UGFzc2VuZ2VyRGF0YScsCgkJCQknaXRpbmVyYXJ5JyA9PiBbJ2xlZ3MnID0+ICdsZWcnXSwKCQkJXSwKCQkJJ3BheW1lbnQnID0+IFsKCQkJCSdjaGFubmVsJyA9PiAnd2lyZWNhcmQnLAoJCQkJJ3N0YXR1cycgPT4gJ3BhaWQnLAoJCQkJJ3RyYW5zYWN0aW9uVGltZScgPT4gJzIwMTgtMDQtMDNUMTU6MTk6NTYnLAoJCQkJJ2NhcmRObycgPT4gJzEyMzQ1Njc4OTAxMjM0NTYnLAoJCQkJJ2N1cnJlbmN5JyA9PiAnVVNEJywKCQkJCSdhbW91bnQnID0+IDEwMC41LAoJCQkJJ2F1dGhDb2RlJyA9PiAnMTIzNDU2JywKCQkJXSwKCQldOwoJCSR0aGlzLT5naXZlbkZsaWdodE1vZGVsKCRtb2RlbCk7CgkJJHRoaXMtPmdpdmVuQXVzdHJhbGlhbkRvbWVzdGljRmxpZ2h0KHRydWUpOwoKCQkkdGhpcy0+d2hlbkZvcm1hdCgpOwoKCQkkdGhpcy0+Zm9ybWF0UmVzdWx0U2hvdWxkQmUoCgkJCVsKCQkJCSd0eXBlJyA9PiAnZmxpZ2h0JywKCQkJCSdvcmRlck5vJyA9PiAnQTIwMjAwMjI0MjcwMzc5JywKCQkJCSd2ZXJpZnlIYXNoJyA9PiAnZGEwZmYwMmQ1ZDJlNDNkNjIxM2UzNGNhMjczMWE4OTA2OTZhNDVlYScsCgkJCQknbGFuZ3VhZ2UnID0+ICdlbi1VUycsCgkJCQknc3RhdHVzJyA9PiAnY29uZmlybWVkJywKCQkJCSdlbWFpbCcgPT4gJ3Rlc3RAdGVzdC50ZXN0JywKCQkJCSdjb250YWN0TGFuZ3VhZ2UnID0+ICdFbmdsaXNoJywKCQkJCSdjcmVhdGVUaW1lJyA9PiAnMjAyMC0wMi0yNFQxODoyMTo0OS4wMDArMDg6MDAnLAoJCQkJJ2xhc3RVcGRhdGVUaW1lJyA9PiAnMjAyMC0wMi0yNFQxODoyMTo0OS4wMDArMDg6MDAnLAoJCQkJJ2V4cGlyZVRpbWUnID0+ICcyMDIwLTAyLTI0VDE5OjIxOjQ5LjAwMCswODowMCcsCgkJCQkncHJpY2luZ3MnID0+IFsndGVzdFByaWNpbmdzJ10sCgkJCQknZmxpZ2h0JyA9PiBbCgkJCQkJJ3BuckxvY2F0b3InID0+IG51bGwsCgkJCQkJJ3N0YXR1cycgPT4gWwoJCQkJCQknaG9sZFNlYXQnID0+ICdpbml0JywKCQkJCQkJJ3VuaG9sZFNlYXQnID0+ICdpbml0JywKCQkJCQkJJ2lzc3VlVGlja2V0JyA9PiAnaW5pdCcsCgkJCQkJXSwKCQkJCQknY29udGFjdCcgPT4gWwoJCQkJCQknc3VybmFtZScgPT4gJ0NIQU8nLAoJCQkJCQknZ2l2ZW5OYW1lJyA9PiAnUE9ZQScsCgkJCQkJCSdnZW5kZXInID0+ICdmZW1hbGUnLAoJCQkJCQknZW1haWwnID0+ICd1c2VyQGV4YW1wbGUuY29tJywKCQkJCQkJJ3Bob25lQ291bnRyeScgPT4gJ1RXJywKCQkJCQkJJ3Bob25lRGlhbENvZGUnID0+ICc4ODYnLAoJCQkJCQkncGhvbmVOdW1iZXInID0+ICc5MTIzNDU2NzgnLAoJCQkJCQknaW5Kb3VybmV5UGhvbmVDb3VudHJ5JyA9PiBudWxsLAoJCQkJCQknaW5Kb3VybmV5UGhvbmVEaWFsQ29kZScgPT4gbnVsbCwKCQkJCQkJJ2luSm91cm5leVBob25lTnVtYmVyJyA9PiBudWxsLAoJCQkJCV0sCgkJCQkJJ3Bhc3NlbmdlcnMnID0+IFsKCQkJCQkJWwoJCQkJCQkJJ2lkJyA9PiAnMCcsCgkJCQkJCQkndHlwZScgPT4gJ2FkdWx0JywKCQkJCQkJCSdzdXJuYW1lJyA9PiAnQ0hBTycsCgkJCQkJCQknZ2l2ZW5OYW1lJyA9PiAnUE9ZQScsCgkJCQkJCQknZ2VuZGVyJyA9PiAnZmVtYWxlJywKCQkJCQkJCSdiaXJ0aGRheScgPT4gJzE5ODgtMTAtMjAnLAoJCQkJCQkJJ25hdGlvbmFsaXR5JyA9PiAnVFcnLAoJCQkJCQkJJ2lkQ291bnRyeScgPT4gJ1RXJywKCQkJCQkJCSdpZFR5cGUnID0+ICdwYXNzcG9ydCcsCgkJCQkJCQknaWROdW1iZXInID0+ICcyMTIzODk3MScsCgkJCQkJCQknaWRFeHBpcnknID0+ICcyMDI5LTEyLTE4JywKCQkJCQkJCSdpZElzc3VlZCcgPT4gJzIwMDktMTItMTgnLAoJCQkJCQkJJ3NwZWNpYWxSZXF1ZXN0JyA9PiBudWxsLAoJCQkJCQldLAoJCQkJCV0sCgkJCQkJJ3RpY2tldHMnID0+ICd0aWNrZXRzJywKCQkJCQknc2VnbWVudFBhc3NlbmdlckRhdGEnID0+ICdzZWdtZW50UGFzc2VuZ2VyRGF0YScsCgkJCQkJJ2l0aW5lcmFyeScgPT4gWydsZWdzJyA9PiAnbGVnJ10sCgkJCQkJJ2lzQXVzdHJhbGlhbkRvbWVzdGljRmxpZ2h0JyA9PiB0cnVlLAoJCQkJXSwKCQkJCSdwYXltZW50JyA9PiBbCgkJCQkJJ2NoYW5uZWwnID0+ICd3aXJlY2FyZCcsCgkJCQkJJ3N0YXR1cycgPT4gJ3BhaWQnLAoJCQkJCSd0cmFuc2FjdGlvblRpbWUnID0+ICcyMDE4LTA0LTAzVDE1OjE5OjU2JywKCQkJCQknY2FyZE5vJyA9PiAnMTIzNDU2Nzg5MDEyMzQ1NicsCgkJCQkJJ2N1cnJlbmN5JyA9PiAnVVNEJywKCQkJCQknYW1vdW50JyA9PiAxMDAuNSwKCQkJCQknYXV0aENvZGUnID0+ICcxMjM0NTYnLAoJCQkJXSwKCQkJXQoJCSk7Cgl9Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8JCXJldHVybiAkcmV0Owo=</text>
+        <text encoding="base64">CQkkcmV0ID0gYXJyYXlfbWVyZ2UoJHJldCwgJHRoaXMtPm9yZGVyQ2hpbGRSZXNvdXJjZS0+Zm9ybWF0Q2hpbGQoJG1vZGVsKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWJyZWFrOwo=</text>
+        <text encoding="base64">Ly8JCSR0aGlzLT5vcmRlckNoaWxkUmVzb3VyY2UtPmZvcm1hdENoaWxkKCRtb2RlbCwgJHJldCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWJyZWFrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8JCQkJJHJldFsnbWFudWFsJ10gPSAkdGhpcy0+bWFudWFsUmVzb3VyY2UtPmZvcm1hdCgkdGhpcy0+Z2V0Q2hpbGQoJG1vZGVsKSk7Cg==</text>
+        <text encoding="base64">Ly8JCXJldHVybiAkcmV0Owo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8JCQkJJHJldFsnZmxpZ2h0J10gPSAkdGhpcy0+ZmxpZ2h0UmVzb3VyY2UtPmZvcm1hdCgkdGhpcy0+Z2V0Q2hpbGQoJG1vZGVsKSk7Cg==</text>
+        <text encoding="base64">CQkJCWJyZWFrOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaXZhdGUgJGZsaWdodERvbWVzdGljQ2hlY2tlclN0dWI7Cg==</text>
+        <text encoding="base64">CQkJCWJyZWFrOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Rerun</text>

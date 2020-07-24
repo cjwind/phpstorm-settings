@@ -13,7 +13,7 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="stme" value="Stub::makeEmpty($CLASSNAME$)" description="Stub::makeEmpty()" toReformat="true" toShortenFQNames="true">
+  <template name="stme" value="$this-&gt;makeEmpty($CLASSNAME$)" description="Stub::makeEmpty()" toReformat="true" toShortenFQNames="true">
     <variable name="CLASSNAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Expression" value="true" />

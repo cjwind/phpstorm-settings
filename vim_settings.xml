@@ -42,11 +42,11 @@
         <entry>action RenameElement</entry>
         <entry>action GotoNextError</entry>
         <entry>action IntroduceParameter</entry>
-        <entry>action FileStructurePopup</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action ReformatCode</entry>
         <entry>action Rerun</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -368,7 +368,7 @@
         <text encoding="base64">Ly8JCSR0aGlzLT5vcmRlciA9IG5ldyBPcmRlcihbJ3R5cGUnID0+ICR0eXBlLCAnc3RhdHVzJyA9PiBPcmRlcjo6U1RBVFVTX0NPTkZJUk1FRF0pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Rerun</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
   </component>

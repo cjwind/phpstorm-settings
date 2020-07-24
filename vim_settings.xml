@@ -43,10 +43,10 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVydW4=</entry>
         <entry>action ReformatCode</entry>
         <entry>action Rerun</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action GotoNextError</entry>
         <entry>action RenameElement</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -158,7 +158,7 @@
         <mark key="]" line="49" column="51" />
       </file>
       <file name="D:/source/TravelCorp/storage/yiiActiveRecords/FlightItinerarySession.php" timestamp="1595498378137" />
-      <file name="D:/source/utb/flight/FlightOrderCreator.php" timestamp="1595500744541">
+      <file name="D:/source/utb/flight/FlightOrderCreator.php" timestamp="1595560293010">
         <mark key="[" line="70" column="87" />
         <mark key="]" line="69" column="16" />
         <mark key="." line="69" column="16" />
@@ -170,11 +170,6 @@
         <mark key="^" line="40" column="116" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="D:/source/DigitalTravel/backend/order/forms/AdminFlightOrderForm.php" timestamp="1595496134842">
-        <mark key="[" line="73" column="76" />
-        <mark key="]" line="73" column="76" />
-        <mark key="." line="73" column="76" />
-      </file>
       <file name="D:/source/DigitalTravel/backend/utb/flight/FlightCreator.php" timestamp="1595496496335">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -184,12 +179,6 @@
       <file name="D:/source/DigitalTravel/backend/utb/order/storage/yiiActiveRecords/Order.php" timestamp="1595499404166">
         <mark key="[" line="239" column="0" />
         <mark key="]" line="249" column="9" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1595497984927">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
       </file>
       <file name="D:/source/utb/order/storage/yiiActiveRecords/OrderItem.php" timestamp="1595499047876" />
       <file name="D:/source/utb/flight/FlightCreator.php" timestamp="1595496864710">
@@ -322,7 +311,9 @@
         <text encoding="base64">ZnVuY3Rpb24gdGVzdElzQXVzdHJhbGlhbkRvbWVzdGljRmxpZ2h0KCkgewoJCSR0aGlzLT5naXZlbkFpcnBvcnQoJ1NZRCcsIDEpOwoJCSR0aGlzLT5naXZlbkFpcnBvcnQoJ09PTCcsIDEpOwoJCSR0aGlzLT5naXZlbkNvdW50cnkoMSwgJ0FVJyk7CgkJJHRoaXMtPmdpdmVuU2VhcmNoQ29udGV4dCgnU1lEJywgJ09PTCcpOwoKCQkkdGhpcy0+d2hlbklzQXVzdHJhbGlhbkRvbWVzdGljRmxpZ2h0KCk7CgoJCSR0aGlzLT5zaG91bGRCZUF1c3RyYWxpYW5Eb21lc3RpY0ZsaWdodCgpOwoJfQo=</text>
       </register>
       <register name="*" type="4">
-        <text>一</text>
+        <text>use Throwable;
+// strategy 是個 interface, 提供 project 可以 implement 自己要的 expire time strategy
+use Thse utb\exceptions\ActiveRecordValidationErrorException;use utb\order\storage\IOrderDao;use utb\order\storage\OrderStorage;use utb\order\storage\yiiActiveRecords\OrderItem;use utb\pricing\storage\yiiActiveRecords\Pricing;use yii\db\ActiveRecord;Pricing;use yii\db\ActiveRecord;</text>
       </register>
       <register name="-" type="4">
         <text>一</text>
@@ -333,38 +324,40 @@
       <register name="0" type="2">
         <text encoding="base64">CQkkdHJhbiA9IE9yZGVyOjpnZXREYigpLT5iZWdpblRyYW5zYWN0aW9uKCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJLy8gs2+8yyBwcmljaW5nIGNsYXNzIKi6qMcgdmFsaWQgdGltZXN0YW1wIKSwu/KquiwK</text>
+      <register name="1" type="4">
+        <text>use Throwable;
+// strategy 是個 interface, 提供 project 可以 implement 自己要的 expire time strategy
+use Thse utb\exceptions\ActiveRecordValidationErrorException;use utb\order\storage\IOrderDao;use utb\order\storage\OrderStorage;use utb\order\storage\yiiActiveRecords\OrderItem;use utb\pricing\storage\yiiActiveRecords\Pricing;use yii\db\ActiveRecord;Pricing;use yii\db\ActiveRecord;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyBlbmQgYXRvbWljIG9wZXJhdGlvbgo=</text>
+        <text encoding="base64">CQkJLy8gs2+8yyBwcmljaW5nIGNsYXNzIKi6qMcgdmFsaWQgdGltZXN0YW1wIKSwu/KquiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyBlbmQgYXRvbWljIG9wZXJhdGlvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLyBzdGFydCBhdG9taWMgb3BlcmF0aW9uIChkYiB0cmFuc2FjdGlvbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyBjcmVhdGUgT3JkZXIK</text>
+        <text encoding="base64">CQkvLyBzdGFydCBhdG9taWMgb3BlcmF0aW9uIChkYiB0cmFuc2FjdGlvbikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlyZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">CQkvLyBjcmVhdGUgT3JkZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkpOwo=</text>
+        <text encoding="base64">CQkJCQlyZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlZaWk6OiRhcHAtPmVycm9ySGFuZGxlci0+bG9nRXhjZXB0aW9uKAo=</text>
+        <text encoding="base64">CQkJCQkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">CQkJCQlZaWk6OiRhcHAtPmVycm9ySGFuZGxlci0+bG9nRXhjZXB0aW9uKAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
   </component>

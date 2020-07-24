@@ -151,6 +151,10 @@
         <mark key="." line="19" column="52" />
         <mark key="^" line="41" column="69" />
       </file>
+      <file name="D:/source/DigitalTravel/backend/tests/unit/models/PricingValidPeriodTest.php" timestamp="1595583824897">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="32" />
+      </file>
       <file name="D:/source/DigitalTravel/backend/utb/order/enum/OrderType.php" timestamp="1595577274056">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="1" column="29" />
@@ -158,13 +162,10 @@
         <mark key="^" line="10" column="41" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/source/utb/test/php/tests/unit/order/storage/yiiStorages/OrderStorageTest.php" timestamp="1595572033101">
-        <mark key="b" line="20" column="0" />
-        <mark key="'" line="24" column="37" />
-        <mark key="[" line="26" column="40" />
-        <mark key="]" line="26" column="47" />
-        <mark key="." line="26" column="46" />
-        <mark key="^" line="26" column="47" />
+      <file name="D:/source/DigitalTravel/backend/tests/unit/models/OrderStatusMailSenderTest.php" timestamp="1595583829025">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="D:/source/DigitalTravel/backend/order/resources/OrderChildResource.php" timestamp="1595578034603">
         <mark key="[" line="37" column="0" />
@@ -200,7 +201,7 @@
         <mark key="^" line="425" column="35" />
         <mark key="." line="425" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595580877716">
+      <file name="/Dummy.txt" timestamp="1595583791088">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="23" />
@@ -326,7 +327,7 @@
         <text encoding="base64">ZnVuY3Rpb24gdGVzdE9uUGFpZCgpIHsKCQkkdGhpcy0+Z2l2ZW5PcmRlcihPcmRlcjo6VFlQRV9GTElHSFQpOwoKCQkkdGhpcy0+c2hvdWxkSXNzdWVUaWNrZXQoKTsKCgkJJHRoaXMtPndoZW5UcmlnZ2VyUGFpZEV2ZW50KCk7Cgl9Cg==</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">CQlyZXR1cm4gW09yZGVyOjpUWVBFX0ZMSUdIVCwgT3JkZXI6OlRZUEVfTUFOVUFMXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">c2VsZjo6T1JERVJfTUFJTF9NQVBbJG9yZGVyLT5nZXRUeXBlKCldWyRvcmRlci0+Z2V0U3RhdHVzKCldID8/IG51bGw7</text>
@@ -335,37 +336,37 @@
         <text>public</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlyZXR1cm4gYXJyYXlfbWVyZ2UoT3JkZXJUeXBlOjpnZXRGbGlnaHRUeXBlcygpLCBbT3JkZXI6OlRZUEVfTUFOVUFMXSk7Cg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIGFwcFx0ZXN0c1x1bml0XG1vZGVsczsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlyZXR1cm4gW09yZGVyOjpUWVBFX0ZMSUdIVCwgT3JkZXI6OlRZUEVfTUFOVUFMXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8JCQkkdGhpcy0+bWFrZUVtcHR5KE9yZGVyTWFpbFNlbmRlcjo6Y2xhc3MsIFsnc2VuZE9yZGVyTWFpbEluc3QnID0+IEV4cGVjdGVkOjpvbmNlKCldKQo=</text>
+        <text encoding="base64">CQlyZXR1cm4gW09yZGVyOjpUWVBFX0ZMSUdIVCwgT3JkZXI6OlRZUEVfTUFOVUFMXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaXZhdGUgY29uc3QgT1JERVJfTUFJTF9NQVAgPSBbCgkJT3JkZXI6OlRZUEVfTUFOVUFMID0+IFsKCQkJT3JkZXI6OlNUQVRVU19DT05GSVJNRUQgPT4gJ2NvbXBvc2VDcmVhdGVkJywKCQkJT3JkZXI6OlNUQVRVU19QQUlEID0+ICdjb21wb3NlUGFpZCcsCgkJCU9yZGVyOjpTVEFUVVNfQ09NUExFVEVEID0+ICdjb21wb3NlQ29tcGxldGVkJywKCQkJT3JkZXI6OlNUQVRVU19FWFBJUkVEID0+ICdjb21wb3NlRXhwaXJlZCcsCgkJCU9yZGVyOjpTVEFUVVNfQ0FOQ0VMRUQgPT4gJ2NvbXBvc2VDYW5jZWxsZWQnLAoJCV0sCgkJT3JkZXI6OlRZUEVfRkxJR0hUID0+IFsKCQkJT3JkZXI6OlNUQVRVU19DT05GSVJNRUQgPT4gJ2NvbXBvc2VDcmVhdGVkJywKCQkJT3JkZXI6OlNUQVRVU19QQUlEID0+ICdjb21wb3NlUGFpZCcsCgkJCU9yZGVyOjpTVEFUVVNfQ09NUExFVEVEID0+ICdjb21wb3NlSXNzdWVkJywKCQkJT3JkZXI6OlNUQVRVU19FWFBJUkVEID0+ICdjb21wb3NlRXhwaXJlZCcsCgkJCU9yZGVyOjpTVEFUVVNfQ0FOQ0VMRUQgPT4gJ2NvbXBvc2VDYW5jZWxsZWQnLAoJCV0sCgkJT3JkZXI6OlRZUEVfTUFOVUFMX0ZMSUdIVCA9PiBbCgkJCU9yZGVyOjpTVEFUVVNfQ09ORklSTUVEID0+ICdjb21wb3NlQ3JlYXRlZCcsCgkJCU9yZGVyOjpTVEFUVVNfUEFJRCA9PiAnY29tcG9zZVBhaWQnLAoJCQlPcmRlcjo6U1RBVFVTX0NPTVBMRVRFRCA9PiAnY29tcG9zZUlzc3VlZCcsCgkJCU9yZGVyOjpTVEFUVVNfRVhQSVJFRCA9PiAnY29tcG9zZUV4cGlyZWQnLAoJCQlPcmRlcjo6U1RBVFVTX0NBTkNFTEVEID0+ICdjb21wb3NlQ2FuY2VsbGVkJywKCQldLAoJXTsKCg==</text>
+        <text encoding="base64">Ly8JCQkkdGhpcy0+bWFrZUVtcHR5KE9yZGVyTWFpbFNlbmRlcjo6Y2xhc3MsIFsnc2VuZE9yZGVyTWFpbEluc3QnID0+IEV4cGVjdGVkOjpvbmNlKCldKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJcmV0dXJuICRtYXBbJG9yZGVyLT5nZXRTdGF0dXMoKV0gPz8gbnVsbDsK</text>
+        <text encoding="base64">CXByaXZhdGUgY29uc3QgT1JERVJfTUFJTF9NQVAgPSBbCgkJT3JkZXI6OlRZUEVfTUFOVUFMID0+IFsKCQkJT3JkZXI6OlNUQVRVU19DT05GSVJNRUQgPT4gJ2NvbXBvc2VDcmVhdGVkJywKCQkJT3JkZXI6OlNUQVRVU19QQUlEID0+ICdjb21wb3NlUGFpZCcsCgkJCU9yZGVyOjpTVEFUVVNfQ09NUExFVEVEID0+ICdjb21wb3NlQ29tcGxldGVkJywKCQkJT3JkZXI6OlNUQVRVU19FWFBJUkVEID0+ICdjb21wb3NlRXhwaXJlZCcsCgkJCU9yZGVyOjpTVEFUVVNfQ0FOQ0VMRUQgPT4gJ2NvbXBvc2VDYW5jZWxsZWQnLAoJCV0sCgkJT3JkZXI6OlRZUEVfRkxJR0hUID0+IFsKCQkJT3JkZXI6OlNUQVRVU19DT05GSVJNRUQgPT4gJ2NvbXBvc2VDcmVhdGVkJywKCQkJT3JkZXI6OlNUQVRVU19QQUlEID0+ICdjb21wb3NlUGFpZCcsCgkJCU9yZGVyOjpTVEFUVVNfQ09NUExFVEVEID0+ICdjb21wb3NlSXNzdWVkJywKCQkJT3JkZXI6OlNUQVRVU19FWFBJUkVEID0+ICdjb21wb3NlRXhwaXJlZCcsCgkJCU9yZGVyOjpTVEFUVVNfQ0FOQ0VMRUQgPT4gJ2NvbXBvc2VDYW5jZWxsZWQnLAoJCV0sCgkJT3JkZXI6OlRZUEVfTUFOVUFMX0ZMSUdIVCA9PiBbCgkJCU9yZGVyOjpTVEFUVVNfQ09ORklSTUVEID0+ICdjb21wb3NlQ3JlYXRlZCcsCgkJCU9yZGVyOjpTVEFUVVNfUEFJRCA9PiAnY29tcG9zZVBhaWQnLAoJCQlPcmRlcjo6U1RBVFVTX0NPTVBMRVRFRCA9PiAnY29tcG9zZUlzc3VlZCcsCgkJCU9yZGVyOjpTVEFUVVNfRVhQSVJFRCA9PiAnY29tcG9zZUV4cGlyZWQnLAoJCQlPcmRlcjo6U1RBVFVTX0NBTkNFTEVEID0+ICdjb21wb3NlQ2FuY2VsbGVkJywKCQldLAoJXTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">CQkJcmV0dXJuICRtYXBbJG9yZGVyLT5nZXRTdGF0dXMoKV0gPz8gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlyZXR1cm4gJGNvbXBvc2U7Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkY29tcG9zZSA9IHNlbGY6Ok9SREVSX01BSUxfTUFQWyRvcmRlci0+Z2V0VHlwZSgpXVskb3JkZXItPmdldFN0YXR1cygpXSA/PyBudWxsOwo=</text>
+        <text encoding="base64">CQlyZXR1cm4gJGNvbXBvc2U7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text>Add Order::getFlightTyp</text>
+        <text encoding="base64">CQkkY29tcG9zZSA9IHNlbGY6Ok9SREVSX01BSUxfTUFQWyRvcmRlci0+Z2V0VHlwZSgpXVskb3JkZXItPmdldFN0YXR1cygpXSA/PyBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8JCSR0aGlzLT5vcmRlciA9IG5ldyBPcmRlcihbJ3R5cGUnID0+ICR0eXBlLCAnc3RhdHVzJyA9PiBPcmRlcjo6U1RBVFVTX0NPTkZJUk1FRF0pOwo=</text>
+        <text>Add Order::getFlightTyp</text>
       </register>
       <register name=":" type="4">
         <text>action FileStructurePopup</text>

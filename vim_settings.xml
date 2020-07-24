@@ -40,13 +40,13 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVydW4=</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action GotoPreviousError</entry>
-        <entry>action GotoNextError</entry>
         <entry>action IntroduceField</entry>
         <entry>action AceAction</entry>
         <entry>action RenameElement</entry>
+        <entry>action GotoNextError</entry>
         <entry>action ReformatCode</entry>
         <entry>action Rerun</entry>
+        <entry>action GotoPreviousError</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -143,11 +143,12 @@
       <file name="D:/source/utb/order/storage/IOrderStorage.php" timestamp="1595571925296">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="D:/source/utb/payment/wirecard/WirecardCreditCardWpp2Payer.php" timestamp="1595561435671">
-        <mark key="[" line="63" column="75" />
-        <mark key="]" line="63" column="93" />
-        <mark key="." line="63" column="92" />
-        <mark key="^" line="63" column="93" />
+      <file name="D:/source/DigitalTravel/backend/utb/order/enum/OrderType.php" timestamp="1595577274056">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="10" column="41" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="D:/source/utb/test/php/tests/unit/order/storage/yiiStorages/OrderStorageTest.php" timestamp="1595572033101">
         <mark key="b" line="20" column="0" />
@@ -183,23 +184,23 @@
         <mark key="^" line="140" column="36" />
         <mark key="." line="140" column="35" />
       </file>
-      <file name="/fragment.php" timestamp="1595561454682">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="37" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/source/utb/order/storage/OrderStorage.php" timestamp="1595571954940">
         <mark key="'" line="5" column="6" />
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="D:/source/DigitalTravel/backend/order/resources/AdminOrderChildResource.php" timestamp="1595573240759">
-        <mark key="[" line="59" column="10" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="49" column="14" />
-        <mark key="." line="47" column="0" />
+      <file name="D:/source/DigitalTravel/backend/order/forms/AdminOrdersQueryForm.php" timestamp="1595577352670">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="50" column="78" />
+        <mark key="." line="51" column="0" />
+      </file>
+      <file name="D:/source/DigitalTravel/backend/order/resources/AdminOrderChildResource.php" timestamp="1595576427251">
+        <mark key="[" line="61" column="9" />
+        <mark key="]" line="62" column="8" />
+        <mark key="^" line="62" column="8" />
+        <mark key="." line="62" column="4" />
       </file>
       <file name="D:/source/utb/payment/wirecard/WirecardCreditCardWpp2Api.php" timestamp="1595561484815">
         <mark key="[" line="53" column="70" />
@@ -211,17 +212,22 @@
         <mark key="." line="27" column="35" />
         <mark key="^" line="25" column="68" />
       </file>
-      <file name="D:/source/DigitalTravel/backend/utb/order/storage/yiiActiveRecords/Order.php" timestamp="1595564805575" />
-      <file name="D:/source/DigitalTravel/backend/models/OrderStatusMailSender.php" timestamp="1595564472913" />
-      <file name="D:/source/utb/payment/wirecard/WirecardCreditCardWpp2.php" timestamp="1595561476082">
-        <mark key="[" line="64" column="16" />
-        <mark key="]" line="64" column="16" />
-        <mark key="." line="64" column="16" />
+      <file name="D:/source/DigitalTravel/backend/utb/order/checkers/FlightOrderChecker.php" timestamp="1595577267754">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="29" />
       </file>
+      <file name="D:/source/DigitalTravel/backend/utb/order/storage/yiiActiveRecords/Order.php" timestamp="1595577153049">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="44" column="32" />
+        <mark key="^" line="425" column="35" />
+        <mark key="." line="425" column="34" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1595577310446">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/source/DigitalTravel/backend/models/OrderStatusMailSender.php" timestamp="1595564472913" />
     </filemarks>
     <jumps>
-      <jump line="4" column="49" filename="D:/source/DigitalTravel/backend/tests/_data/travelport/itinerary_LFS_SYD_OOL_1ADT.xml" />
-      <jump line="0" column="0" filename="D:/source/DigitalTravel/backend/tests/_data/travelport/itinerary_LFS_SYD_OOL_1ADT.xml" />
       <jump line="10" column="76" filename="D:/source/DigitalTravel/backend/tests/_data/travelport/itinerary_LFS_SYD_OOL_1ADT.xml" />
       <jump line="20" column="96" filename="D:/source/DigitalTravel/backend/tests/_data/travelport/itinerary_LFS_SYD_OOL_1ADT.xml" />
       <jump line="30" column="76" filename="D:/source/DigitalTravel/backend/tests/_data/travelport/itinerary_LFS_SYD_OOL_1ADT.xml" />
@@ -320,6 +326,8 @@
       <jump line="24" column="0" filename="D:/source/DigitalTravel/backend/tests/unit/order/resources/AdminOrderChildResourceTest.php" />
       <jump line="19" column="4" filename="D:/source/DigitalTravel/backend/tests/unit/order/resources/AdminOrderChildResourceTest.php" />
       <jump line="44" column="4" filename="D:/source/DigitalTravel/backend/tests/unit/order/resources/AdminOrderChildResourceTest.php" />
+      <jump line="10" column="40" filename="D:/source/DigitalTravel/backend/utb/order/enum/OrderType.php" />
+      <jump line="5" column="0" filename="D:/source/DigitalTravel/backend/utb/order/enum/OrderType.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,49 +342,49 @@
         <text encoding="base64">ZnVuY3Rpb24gdGVzdEZvcm1hdFdpdGhGbGlnaHRPcmRlcl9QTlJPcmRlcldpdGhvdXRTdXBwb3J0UHJpY2luZ0RhdGEoKSB7CgkJJHRoaXMtPmdpdmVuSXRpbmVyYXJ5UGxhdGluZ0NhcnJpZXJzKFsnQ0knXSk7CgkJJHRoaXMtPmdpdmVuRmxpZ2h0T3JkZXIoJ01RNCcsIF9fRElSX18gLiAnLy4uLy4uLy4uL19kYXRhL3RyYXZlbHBvcnQvb25lV2F5L1VSUi54bWwnKTsKCgkJJHRoaXMtPndoZW5Gb3JtYXRDaGlsZCgpOwoKCQkkdGhpcy0+YXNzZXJ0RXF1YWxzKFt0cnVlXSwgJHRoaXMtPnJldFsnZmxpZ2h0J11bJ2lzUHVibGlzaEZhcmVzJ10pOwoJCSR0aGlzLT5hc3NlcnRFcXVhbHMoWydDSSddLCAkdGhpcy0+cmV0WydmbGlnaHQnXVsncHJpY2luZ0NhcnJpZXJzJ10pOwoJCSR0aGlzLT5hc3NlcnRFcXVhbHMoJ01RNCcsICR0aGlzLT5yZXRbJ2ZsaWdodCddWydwY2MnXSk7CgkJJHRoaXMtPmFzc2VydEVxdWFscyhbXSwgJHRoaXMtPnJldFsnZmxpZ2h0J11bJ2lzc3VlRmVlcyddKTsKCQkkdGhpcy0+YXNzZXJ0RXF1YWxzKFtdLCAkdGhpcy0+cmV0WydmbGlnaHQnXVsnY29tbWlzc2lvbnMnXSk7CgkJJHRoaXMtPmFzc2VydEVxdWFscyhbXSwgJHRoaXMtPnJldFsnZmxpZ2h0J11bJ3ByaWNpbmdSdWxlcyddKTsKCX0K</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gW09yZGVyOjpUWVBFX0ZMSUdIVCwgT3JkZXI6OlRZUEVfTUFOVUFMX0ZMSUdIVCwgT3JkZXI6OlRZUEVfTUFOVUFMXTsK</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>'manual'</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CQkkb3JkZXIgPSBuZXcgT3JkZXI7CgkJJG9yZGVyLT50eXBlID0gT3JkZXI6OlRZUEVfRkxJR0hUOwoJCSRvcmRlci0+Y29tbWVyY2lhbFR5cGUgPSBPcmRlcjo6Q09NTUVSQ0lBTF9UWVBFX0NMSUVOVDsKCQkkb3JkZXItPmVtYWlsID0gJGVtYWlsOwoJCWlmICghJG9yZGVyLT5zYXZlKCkpIHsKCQkJdGhyb3cgbmV3IEFjdGl2ZVJlY29yZFZhbGlkYXRpb25FcnJvckV4Y2VwdGlvbignQ3JlYXRlIGZsaWdodCBvcmRlciBmYWlsZWQnLCAkb3JkZXIpOwoJCX0KCgkJcmV0dXJuICRvcmRlcjs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIHV0YlxvcmRlclxjaGVja2VyczsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gW09yZGVyOjpUWVBFX0ZMSUdIVCwgT3JkZXI6OlRZUEVfTUFOVUFMX0ZMSUdIVCwgT3JkZXI6OlRZUEVfTUFOVUFMXTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZGVmYXVsdDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWJyZWFrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlPcmRlcjo6VFlQRV9NQU5VQUw6Cg==</text>
+        <text encoding="base64">CS8vIFRPRE8gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWNhc2UK</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlicmVhazsK</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJCQlyZXR1cm4gJGl0ZW07Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlzd2l0Y2ggKCRtb2RlbC0+Z2V0VHlwZSgpKSB7CgkJCWNhc2UgT3JkZXI6OlRZUEVfRkxJR0hUOgoJCQljYXNlIE9yZGVyOjpUWVBFX01BTlVBTF9GTElHSFQ6Cg==</text>
+        <text encoding="base64">CQkJCWlmIChpbl9hcnJheSgkaXRlbS0+dHlwZSwgW09yZGVySXRlbTo6VFlQRV9NQU5VQUxdKSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgc2F2ZUNvbnRhY3RMYW5ndWFnZSgpIG1ldGhvZC4K</text>
+        <text encoding="base64">CQkJZWxzZSBpZiAoJG9yZGVyLT5pc01hbnVhbE9yZGVyKCkpIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Rerun</text>
+        <text>action GotoPreviousError</text>
       </register>
     </registers>
   </component>

@@ -138,13 +138,6 @@
       <file name="/a.dummy" timestamp="1595836705156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/source/DigitalTravel/backend/utb/order/OrderMailSender.php" timestamp="1595826702028">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="50" column="8" />
-        <mark key="]" line="50" column="46" />
-        <mark key="^" line="50" column="46" />
-        <mark key="." line="50" column="45" />
-      </file>
       <file name="D:/source/DigitalTravel/backend/tests/unit/models/OrderStatusMailSenderTest.php" timestamp="1595837008317">
         <mark key="b" line="119" column="0" />
         <mark key="'" line="123" column="4" />
@@ -174,6 +167,12 @@
         <mark key="]" line="59" column="0" />
         <mark key="^" line="60" column="65" />
         <mark key="." line="59" column="0" />
+      </file>
+      <file name="D:/source/utb/phinx.json" timestamp="1595844145748">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="20" column="24" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1595836640404">
         <mark key="'" line="103" column="0" />

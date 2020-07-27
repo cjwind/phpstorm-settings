@@ -160,12 +160,6 @@
         <mark key="^" line="119" column="4" />
       </file>
       <file name="D:/source/DigitalTravel/backend/utb/discount/storage/yiiActiveRecords/CampaignFlightApplicableCondition.php" timestamp="1595823233783" />
-      <file name="D:/source/DigitalTravel/backend/order/resources/OrderChildResource.php" timestamp="1595578034603">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="50" column="8" />
-      </file>
       <file name="D:/source/PrestoTravel/discount/DiscountFlow.php" timestamp="1595822211189" />
       <file name="D:/source/DigitalTravel/backend/order/forms/AdminOrdersQueryForm.php" timestamp="1595580829052">
         <mark key="[" line="50" column="0" />
@@ -195,10 +189,10 @@
         <mark key="." line="425" column="34" />
       </file>
       <file name="D:/source/DigitalTravel/backend/utb/order/storage/yiiActiveRecords/OrderItem.php" timestamp="1595823290014" />
-      <file name="/Dummy.txt" timestamp="1595837021534">
+      <file name="/Dummy.txt" timestamp="1595838584604">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="23" />
+        <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="D:/source/DigitalTravel/backend/models/OrderStatusMailSender.php" timestamp="1595836820667">
@@ -329,7 +323,7 @@
         <text encoding="base64">ZnVuY3Rpb24gdGVzdENhblNlbmRNYWlsQnlTdGF0dXNfQ2FuY2VsZWQoKSB7CgkJJHRoaXMtPmdpdmVuT3JkZXIoT3JkZXI6OlRZUEVfRkxJR0hULCBPcmRlcjo6U1RBVFVTX0NBTkNFTEVEKTsKCQkkdGhpcy0+d2hlbkNhblNlbmRNYWlsQnlTdGF0dXMoKTsKCQkkdGhpcy0+c2hvdWxkQmVBYmxlVG9TZW5kTWFpbEJ5U3RhdHVzKCk7Cgl9Cg==</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">CXByaXZhdGUgY29uc3QgUEFZTUVOVF9GQUlMRURfTUFJTF9NQVAgPSBbCgkJT3JkZXI6OlRZUEVfRkxJR0hUID0+ICdjb21wb3NlUGF5bWVudEZhaWxlZCcsCgkJT3JkZXI6OlRZUEVfTUFOVUFMID0+ICdjb21wb3NlUGF5bWVudEZhaWxlZCcsCgldOwoK</text>
+        <text>Add Order::getFlightTypes()</text>
       </register>
       <register name="-" type="4">
         <text>EXPIRED</text>
@@ -338,37 +332,37 @@
         <text>public</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlPcmRlcjo6U1RBVFVTX0ZBSUxFRCA9PiAnY29tcG9zZUZhaWxlZCcsCgkJT3JkZXI6OlNUQVRVU19DT05GSVJNRUQgPT4gJ2NvbXBvc2VDcmVhdGVkJywKCQlPcmRlcjo6U1RBVFVTX1BBSUQgPT4gJ2NvbXBvc2VQYWlkJywKCQlPcmRlcjo6U1RBVFVTX0NPTVBMRVRFRCA9PiAnY29tcG9zZUlzc3VlZCcsCgkJT3JkZXI6OlNUQVRVU19FWFBJUkVEID0+ICdjb21wb3NlRXhwaXJlZCcsCgkJT3JkZXI6OlNUQVRVU19DQU5DRUxFRCA9PiAnY29tcG9zZUNhbmNlbGxlZCcsCg==</text>
+        <text encoding="base64">CQkJT3JkZXI6OlRZUEVfRkxJR0hUID0+IE9yZGVySXRlbTo6VFlQRV9GTElHSFQsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXByaXZhdGUgY29uc3QgUEFZTUVOVF9GQUlMRURfTUFJTF9NQVAgPSBbCgkJT3JkZXI6OlRZUEVfRkxJR0hUID0+ICdjb21wb3NlUGF5bWVudEZhaWxlZCcsCgkJT3JkZXI6OlRZUEVfTUFOVUFMID0+ICdjb21wb3NlUGF5bWVudEZhaWxlZCcsCgldOwoK</text>
+        <text>Add Order::getFlightTypes()</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm4gJGNvbXBvc2U7Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgY29uc3QgUEFZTUVOVF9GQUlMRURfTUFJTF9NQVAgPSBbCgkJT3JkZXI6OlRZUEVfRkxJR0hUID0+ICdjb21wb3NlUGF5bWVudEZhaWxlZCcsCgkJT3JkZXI6OlRZUEVfTUFOVUFMID0+ICdjb21wb3NlUGF5bWVudEZhaWxlZCcsCgldOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkkY29tcG9zZSA9IHNlbGY6OlBBWU1FTlRfRkFJTEVEX01BSUxfTUFQWyRvcmRlci0+Z2V0VHlwZSgpXSA/PyBudWxsOwo=</text>
+        <text encoding="base64">CQlyZXR1cm4gJGNvbXBvc2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkkY29tcG9zZSA9IHNlbGY6OlBBWU1FTlRfRkFJTEVEX01BSUxfTUFQWyRvcmRlci0+Z2V0VHlwZSgpXSA/PyBudWxsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkkdGhpcy0+c2hvdWxkQmVBYmxlVG9TZW5kTWFpbEJ5U3RhdHVzKCk7Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkdGhpcy0+d2hlbkNhblNlbmRNYWlsQnlTdGF0dXMoKTsK</text>
+        <text encoding="base64">CQkkdGhpcy0+c2hvdWxkQmVBYmxlVG9TZW5kTWFpbEJ5U3RhdHVzKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Z2l2ZW5PcmRlcihPcmRlcjo6VFlQRV9GTElHSFQsIE9yZGVyOjpTVEFUVVNfQ0FOQ0VMRUQpOwo=</text>
+        <text encoding="base64">CQkkdGhpcy0+d2hlbkNhblNlbmRNYWlsQnlTdGF0dXMoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHRlc3RDYW5TZW5kTWFpbEJ5U3RhdHVzX0NhbmNlbGVkKCkgewo=</text>
+        <text encoding="base64">CQkkdGhpcy0+Z2l2ZW5PcmRlcihPcmRlcjo6VFlQRV9GTElHSFQsIE9yZGVyOjpTVEFUVVNfQ0FOQ0VMRUQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>

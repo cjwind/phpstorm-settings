@@ -134,10 +134,16 @@
         <mark key="]" line="62" column="86" />
         <mark key="." line="62" column="34" />
       </file>
+      <file name="D:/source/DigitalTravel/backend/utb/flight/storage/yiiActiveRecords/Flight.php" timestamp="1596016379330">
+        <mark key="'" line="52" column="0" />
+      </file>
       <file name="Y:/source/commonData/modules/api/controllers/CountryController.php" timestamp="1595925473070">
         <mark key="[" line="24" column="23" />
         <mark key="]" line="24" column="23" />
         <mark key="." line="24" column="23" />
+      </file>
+      <file name="D:/source/DigitalTravel/backend/order/storage/yiiStorages/OrderStorage.php" timestamp="1596016782531">
+        <mark key="[" line="48" column="44" />
       </file>
       <file name="Y:/source/commonData/modules/api/controllers/AirportController.php" timestamp="1595925495178">
         <mark key="[" line="35" column="23" />
@@ -156,25 +162,26 @@
         <mark key="^" line="685" column="35" />
         <mark key="." line="685" column="34" />
       </file>
-      <file name="D:/source/DigitalTravel/backend/controllers/app/PaymentController.php" timestamp="1595842935479">
-        <mark key="[" line="61" column="13" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="60" column="65" />
-        <mark key="." line="59" column="0" />
+      <file name="D:/source/DigitalTravel/backend/order/storage/yiiStorages/OrderPaginator.php" timestamp="1596016932653">
+        <mark key="[" line="90" column="16" />
+        <mark key="]" line="90" column="16" />
+        <mark key="." line="90" column="16" />
       </file>
-      <file name="D:/source/utb/phinx.json" timestamp="1595844145748">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-        <mark key="^" line="20" column="24" />
-      </file>
-      <file name="D:/source/DigitalTravel/backend/flight/storage/yiiStorages/FlightOrderCreator.php" timestamp="1595996830704">
+      <file name="D:/source/DigitalTravel/backend/flight/storage/yiiStorages/FlightOrderCreator.php" timestamp="1596015655412">
         <mark key="[" line="136" column="54" />
+        <mark key="]" line="136" column="54" />
+        <mark key="." line="136" column="54" />
       </file>
       <file name="Y:/source/commonData/modules/api/controllers/AirlineController.php" timestamp="1595925505081">
         <mark key="[" line="44" column="23" />
         <mark key="]" line="44" column="23" />
         <mark key="." line="44" column="23" />
+      </file>
+      <file name="D:/source/DigitalTravel/backend/order/resources/AdminOrderChildResource.php" timestamp="1596016352675">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="62" column="8" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="D:/source/DigitalTravel/backend/controllers/app/TestController.php" timestamp="1595926376575">
         <mark key="[" line="15" column="43" />
@@ -182,17 +189,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="Y:/source/commonData/modules/api/base/ApiController.php" timestamp="1595919685845" />
-      <file name="D:/source/DigitalTravel/oconf" timestamp="1595845544630">
-        <mark key="[" line="102" column="74" />
-        <mark key="." line="102" column="96" />
-      </file>
       <file name="Y:/source/commonData/modules/api/controllers/CityController.php" timestamp="1595925483147">
         <mark key="[" line="38" column="23" />
         <mark key="]" line="38" column="23" />
         <mark key="." line="38" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596013757678">
+      <file name="/Dummy.txt" timestamp="1596017042795">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="27" />
@@ -203,20 +205,16 @@
         <mark key="]" line="24" column="23" />
         <mark key="." line="24" column="23" />
       </file>
-      <file name="D:/source/DigitalTravel/backend/config/console.php" timestamp="1595919907600" />
+      <file name="D:/source/DigitalTravel/backend/utb/order/OrderItemTypeModelMapGetter.php" timestamp="1596015816448">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="Y:/source/commonData/modules/api/base/i18nApiController.php" timestamp="1595920857094">
         <mark key="[" line="22" column="44" />
       </file>
-      <file name="D:/source/DigitalTravel/.env" timestamp="1595920131122">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="46" column="26" />
-        <mark key="." line="29" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="20" filename="D:/source/DigitalTravel/frontend/src/components/admin/form/ManualOrderForm.vue" />
-      <jump line="72" column="67" filename="D:/source/DigitalTravel/frontend/src/components/admin/form/ManualOrderForm.vue" />
       <jump line="555" column="43" filename="D:/source/DigitalTravel/frontend/src/pages/app/OrderView.vue" />
       <jump line="322" column="12" filename="D:/source/DigitalTravel/frontend/src/pages/app/OrderView.vue" />
       <jump line="13" column="10" filename="D:/source/DigitalTravel/frontend/src/components/app/partials/OrderPriceDetail.vue" />
@@ -315,6 +313,8 @@
       <jump line="0" column="0" filename="D:/source/DigitalTravel/backend/utb/order/storage/yiiStorages/FlightOrderStorage.php" />
       <jump line="35" column="23" filename="Y:/source/commonData/modules/api/controllers/CurrencyController.php" />
       <jump line="0" column="0" filename="D:/source/DigitalTravel/backend/config/routes.php" />
+      <jump line="47" column="20" filename="D:/source/DigitalTravel/backend/utb/flight/storage/yiiActiveRecords/Flight.php" />
+      <jump line="52" column="0" filename="D:/source/DigitalTravel/backend/utb/flight/storage/yiiActiveRecords/Flight.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -328,11 +328,11 @@
       <register name="b" type="4">
         <text encoding="base64">ZnVuY3Rpb24gdGVzdENhblNlbmRNYWlsQnlTdGF0dXNfQ2FuY2VsZWQoKSB7CgkJJHRoaXMtPmdpdmVuT3JkZXIoT3JkZXI6OlRZUEVfRkxJR0hULCBPcmRlcjo6U1RBVFVTX0NBTkNFTEVEKTsKCQkkdGhpcy0+d2hlbkNhblNlbmRNYWlsQnlTdGF0dXMoKTsKCQkkdGhpcy0+c2hvdWxkQmVBYmxlVG9TZW5kTWFpbEJ5U3RhdHVzKCk7Cgl9Cg==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">CQkJdGhyb3cgbmV3IEV4Y2VwdGlvbig1MDAsICcnLCBudWxsLCAwLCAkZSk7Cg==</text>
+      <register name="*" type="4">
+        <text encoding="base64">JG9yZGVyLT50eXBlID09PSBPcmRlcjo6VFlQRV9GTElHSFQ=</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text encoding="base64">JG9yZGVyLT50eXBlID09PSBPcmRlcjo6VFlQRV9GTElHSFQ=</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
@@ -341,34 +341,34 @@
         <text encoding="base64">CQkJdGhyb3cgbmV3IEV4Y2VwdGlvbig1MDAsICcnLCBudWxsLCAwLCAkZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkdGhpcy0+cmVkaXJlY3QoVXJsOjp0bygndGVzdDInKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8JCXZhcl9kdW1wKGJhc2U2NF9kZWNvZGUoJF9QT1NUWydyZXNwb25zZS1iYXNlNjQnXSkpOwo=</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkbW9kZWwtPmlzRmxpZ2h0T3JkZXIoKSk7CgkJZXhpdDs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8JCXZhcl9kdW1wKCRfUE9TVCk7Cg==</text>
+        <text encoding="base64">CQlPcmRlckl0ZW06OlRZUEVfRkxJR0hUCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCRzaWduYXR1cmUpOwo=</text>
+        <text encoding="base64">CQkkdGhpcy0+cmVkaXJlY3QoVXJsOjp0bygndGVzdDInKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRzaWduYXR1cmUgPSBoYXNoX2htYWMoJ3NoYTI1NicsICRfUE9TVFsncmVzcG9uc2UtYmFzZTY0J10sICdhOGMzZmNlNi04ZGY3LTRmZDYtYTFmZC02MmZhMjI5YzVlNTUnLCB0cnVlKTsK</text>
+        <text encoding="base64">Ly8JCXZhcl9kdW1wKGJhc2U2NF9kZWNvZGUoJF9QT1NUWydyZXNwb25zZS1iYXNlNjQnXSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGVjaG8gJ2JiYmJiYmJiYic7Cg==</text>
+        <text encoding="base64">Ly8JCXZhcl9kdW1wKCRfUE9TVCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8JCXZhcl9kdW1wKFVybDo6dG8oWyd3aXJlY2FyZC9wYXktY2FsbGJhY2stc3VjY2VzcyddKSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCRzaWduYXR1cmUpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICRzaWduYXR1cmUgPSBoYXNoX2htYWMoJ3NoYTI1NicsICRfUE9TVFsncmVzcG9uc2UtYmFzZTY0J10sICdhOGMzZmNlNi04ZGY3LTRmZDYtYTFmZC02MmZhMjI5YzVlNTUnLCB0cnVlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Ly8gICAgICAgIGVjaG8gJ2JiYmJiYmJiYic7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Rerun</text>
